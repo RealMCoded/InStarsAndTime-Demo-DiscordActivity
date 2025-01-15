@@ -273,7 +273,7 @@ Yanfly.loadMapData = function(mapId) {
   if (Yanfly.PreloadedMaps[mapId]) return;
   var src = 'Map%1.json'.format(mapId.padZero(3));
   var xhr = new XMLHttpRequest();
-  var url = 'data/' + src;
+  var url = '.proxy/data/' + src;
   xhr.open('GET', url);
   xhr.overrideMimeType('application/json');
   xhr.onload = function() {
