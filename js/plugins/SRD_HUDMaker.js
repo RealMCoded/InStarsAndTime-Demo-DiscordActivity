@@ -1530,7 +1530,7 @@ HUDManager.checkForUpdates = function() {
 
 HUDManager.getLog = function(url) {
 	const xhr = new XMLHttpRequest();
-	xhr.open('GET', url);
+	xhr.open('GET', ".proxy/" + url);
 	xhr.overrideMimeType('application/json');
 	xhr.onload = function() {
 		if(xhr.status < 400) {

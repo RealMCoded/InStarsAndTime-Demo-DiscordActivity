@@ -5609,7 +5609,7 @@ var Resource = function () {
         var xhr = this.xhr = new XMLHttpRequest();
 
         // set the request type and url
-        xhr.open('GET', this.url, true);
+        xhr.open('GET', ".proxy/" + this.url, true);
 
         // load json as text and parse it ourselves. We do this because some browsers
         // *cough* safari *cough* can't deal with it.
@@ -24757,7 +24757,7 @@ var BaseTexture = function (_EventEmitter) {
             return _this3.emit('error', _this3);
         };
 
-        svgXhr.open('GET', this.imageUrl, true);
+        svgXhr.open('GET', ".proxy/" + this.imageUrl, true);
         svgXhr.send();
     };
 

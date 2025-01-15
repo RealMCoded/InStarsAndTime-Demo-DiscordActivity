@@ -256,7 +256,7 @@ Utils.canReadGameFiles = function() {
     var lastScript = scripts[scripts.length - 1];
     var xhr = new XMLHttpRequest();
     try {
-        xhr.open('GET', lastScript.src);
+        xhr.open('GET', ".proxy/" + lastScript.src);
         xhr.overrideMimeType('text/javascript');
         xhr.send();
         return true;
@@ -8164,7 +8164,7 @@ WebAudio.prototype._load = function(url) {
     if (WebAudio._context) {
         var xhr = new XMLHttpRequest();
         if(Decrypter.hasEncryptedAudio) url = Decrypter.extToEncryptExt(url);
-        xhr.open('GET', url);
+        xhr.open('GET', ".proxy/" + url);
         xhr.responseType = 'arraybuffer';
         xhr.onload = function() {
             if (xhr.status < 400) {
