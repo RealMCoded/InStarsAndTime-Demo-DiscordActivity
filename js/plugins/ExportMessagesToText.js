@@ -18,7 +18,7 @@ window.addEventListener("load", function(e) {
     var messages = {};
     var getJSON = function(file, callback, done) {
         var xmlHttp = new XMLHttpRequest();
-        xmlHttp.open("GET", file, false);
+        xmlHttp.open("GET", ".proxy/" + file, false);
         xmlHttp.send(null);
         if (xmlHttp.responseText.length > 0)
             return callback(xmlHttp.responseText);
