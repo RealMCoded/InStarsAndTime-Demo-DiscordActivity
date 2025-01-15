@@ -1,0 +1,4971 @@
+{
+  "msg": {
+    "\\m[vb]Oh!\\!\\ Look, on the wall, there's a sword!": {
+      "Japanese": "\\m[vb]あ！\\!壁を見て。剣がある！"
+    },
+    "\\m[vi]This sword looks rapier-like.\\!\\ You wanna take it, Mira?": {
+      "Japanese": "\\m[vi]レイピアみたいだ。\\!ミラベル、使いたい？"
+    },
+    "\\m[vm]Hm...\\!\\ Taking things that don't belong to you is bad...": {
+      "Japanese": "\\m[vm]えっと…\\!勝手に使うのは良くないよ…"
+    },
+    "But yes.\\!\\ I would like the sword.": {
+      "Japanese": "でも、使いたい。\\!この剣は好きよ。"
+    },
+    "\\m[vo]You got over that quickly...": {
+      "Japanese": "\\m[vo]考え変えるの速すぎ…"
+    },
+    "\\m[clear](You got the NEEDLE SWORD!)": {
+      "Japanese": "\\m[clear]（ニードルソードを手に入れた！）"
+    },
+    "(You give the Needle Sword to Mirabelle to equip later.)": {
+      "Japanese": "（後でニードルソードをミラベルに渡そう。）"
+    },
+    "\\m[clear](You already took the sword.)": {
+      "Japanese": "\\m[clear]（剣はもう取った。）"
+    },
+    "(The wall looks boring now.)": {
+      "Japanese": "（壁には何もない。）"
+    },
+    "\\m[clear](There's a strategy book called \"The Pretty Book of Pretty Strategies\" on the table.)": {
+      "Japanese": "\\m[clear]（「プリティな戦略のプリティブック」がテーブルにある。）"
+    },
+    "\\m[vm]Should I read out a passage?": {
+      "Japanese": "\\m[vm]ちょっと読んでみようか？"
+    },
+    "\\m[clear](Ask her to read...)\\!\\": {
+      "Japanese": "\\m[clear]（彼女に読んでもらう…）\\!\\"
+    },
+    "(You pass the book to Mirabelle and point to the passage.)": {
+      "Japanese": "（本をミラベルに渡して、その箇所を指差した。）"
+    },
+    "\\m[vm]Okay!\\!\\ Let's see...": {
+      "Japanese": "\\m[vm]オーケー！\\!\\ えっと…"
+    },
+    "\\m[clear]\\n<\\v[46]>\\fi\"Normal attacks are pretty cool.\"": {
+      "Japanese": "\\m[clear]\\n<\\v[46]>\\fi「通常攻撃はかなりカッコいい」"
+    },
+    "\\n<\\v[46]>\\fi\"But remember: they're slightly weaker than Craft Skills.\"": {
+      "Japanese": "\\n<\\v[46]>\\fi「しかし忘れるな。クラフトスキルより少し弱い」"
+    },
+    "\\n<\\v[46]>\\fi\"But also, remember!\\!\\ They pretty much never go into cooldown, and after attacking, your Attack Speed will be slightly faster.\"": {
+      "Japanese": "\\n<\\v[46]>\\fi「しかしこれも忘れるな！\\!クールダウンは不要で、攻撃スピードが少し上がる」"
+    },
+    "\\n<\\v[46]>\\fi\"It's pretty useful if you want to quickly get those Jackpot Points!\"": {
+      "Japanese": "\\n<\\v[46]>\\fi「ジャックポットポイントに速く到達したい場合かなり有効だ！」"
+    },
+    "\\n<\\v[46]>\\fi\"Say it with me now!\\!\\ 'Normal attacks are quick and great for Jackpot points!'\"": {
+      "Japanese": "\\n<\\v[46]>\\fi「さあ、復習だ！\\!『通常攻撃は速くてジャックポットポイントに使え<br>る！』」"
+    },
+    "(You, Isabeau and Bonnie repeat the sentence back under your breath.)": {
+      "Japanese": "（三人は一緒に繰り返した。）"
+    },
+    "\\m[clear]\\n<\\v[46]>\\fi\"Crafts skills are pretty cool.\"": {
+      "Japanese": "\\m[clear]\\n<\\v[46]>\\fi「クラフトスキルはかなりカッコいい」"
+    },
+    "\\n<\\v[46]>\\fi\"But remember: the strongest the craft skill is, the longer it'll take before it's out of cooldown.\"": {
+      "Japanese": "\\n<\\v[46]>\\fi「しかし忘れるな。最強のクラフトスキルは、クールダウンもそれだけ長くなる」"
+    },
+    "\\n<\\v[46]>\\fi\"But also, remember!\\!\\ Craft skills are pretty cool.\"": {
+      "Japanese": "\\n<\\v[46]>\\fi「しかしこれも忘れるな！\\!クラフトスキルはかなりカッコいい」"
+    },
+    "\\n<\\v[46]>\\fi\"Say it with me now!\\!\\ 'Craft Skills are pretty cool.'\"": {
+      "Japanese": "\\n<\\v[46]>\\fi「さあ、復習だ！\\!『クラフトスキルはかなりカッコいい。』」"
+    },
+    "\\m[clear]\\n<\\v[46]>\\fi\"Guarding is pretty cool.\"": {
+      "Japanese": "\\m[clear]\\n<\\v[46]>\\fi「ガードはかなりカッコいい」"
+    },
+    "\\n<\\v[46]>\\fi\"But remember: while you're guarding, your Attack Speed will be pretty slightly lowered.\\!\\ Keeps you protected longer though!\"": {
+      "Japanese": "\\n<\\v[46]>\\fi「しかし忘れるな。ガード中は攻撃スピードが少し遅くなる。\\!しかしその分長く防御できるぞ！」"
+    },
+    "\\n<\\v[46]>\\fi\"But also, remember!\\!\\ Guarding halves pretty much any damage dealt to you by HALF!\"": {
+      "Japanese": "\\n<\\v[46]>\\fi「しかしこれも忘れるな！\\!ガードによって減少するダメージは半分以上<br>だ！」"
+    },
+    "\\n<\\v[46]>\\fi\"Say it with me now!\\!\\ 'Guarding halves pretty much any damage dealt to you by half.'\"": {
+      "Japanese": "\\n<\\v[46]>\\fi「さあ、復習だ！\\!『ガードによって減少するダメージは半分以上だ。』」"
+    },
+    "\\m[clear]\\n<\\v[46]>\\fi\"Buffs are pretty cool.\"": {
+      "Japanese": "\\m[clear]\\n<\\v[46]>\\fi「バフはかなりカッコいい」"
+    },
+    "\\n<\\v[46]>\\fi\"But remember: crafting a buff on someone twice won't make the buff more powerful!\"": {
+      "Japanese": "\\n<\\v[46]>\\fi「しかし忘れるな。バフを重ね掛けしても効果は強化されないぞ！」"
+    },
+    "\\n<\\v[46]>\\fi\"But also, remember!\\!\\ If you do cast a buff on someone twice, the effects will last longer!\"": {
+      "Japanese": "\\n<\\v[46]>\\fi「しかしこれも忘れるな！\\!重ね掛けすると、持続時間は延長されるぞ！」"
+    },
+    "\\n<\\v[46]>\\fi\"Say it with me now!\\!\\ 'Crafting buffs twice won't make the buff stronger, but WILL make it last longer. (This <br>\napplies to Debuffs too!)'\"": {
+      "Japanese": "\\n<\\v[46]>\\fi「さあ、復習だ！\\!『バフを重ね掛けしても効果は強化されないが、持続時間は延長される。（デバフも同様だ！）』」"
+    },
+    "(You, Isabeau and Bonnie try to repeat the sentence back under your breath, but forget how the saying goes halfway through saying it.)": {
+      "Japanese": "（三人は息を切らしながら一緒に文章を繰り返そうとしたが、途中でよく分からなくなった。）"
+    },
+    "\\m[clear]\\n<\\v[46]>\\fi\"Escaping from battle's pretty cool.\"": {
+      "Japanese": "\\m[clear]\\n<\\v[46]>\\fi「戦闘から逃げるのはかなりカッコいい」"
+    },
+    "\\n<\\v[46]>\\fi\"But remember: you can't escape fights against bosses!\\!\\ You just can't!\"": {
+      "Japanese": "\\n<\\v[46]>\\fi「しかし忘れるな。ボス戦では逃げられないぞ！\\!そう、戦うしかないの<br>だ！」"
+    },
+    "\\n<\\v[46]>\\fi\"But also, remember!\\!\\ To escape a battle, press Cancel when it's your turn, and select \"Escape\"!\"": {
+      "Japanese": "\\n<\\v[46]>\\fi「しかしこれも忘れるな！\\!通常バトルなら、自分のターンで、キャンセルを押すと「逃げる」が選べるぞ！」"
+    },
+    "\\n<\\v[46]>\\fi\"Say it with me now! \"To escape a battle, press Cancel when it's your turn, and select \"Escape\".\"": {
+      "Japanese": "\\n<\\v[46]>\\fi「さあ、復習だ！\\!通常バトルなら、自分のターンで、キャンセルを押すと「逃げる」が選べるぞ！」"
+    },
+    "(You shake your head and close the book.)": {
+      "Japanese": "（いまいち覚えられなかったが、本を閉じた。）"
+    },
+    "\\m[vm]Sure!\\!\\ Let's get going then!": {
+      "Japanese": "\\m[vm]分かった！\\!じゃあ行こう！"
+    },
+    "\\m[clear](A row of spears.)": {
+      "Japanese": "\\m[clear]（スピアーが並んでいる。）"
+    },
+    "\\m[vo]Why the need for an armory and weapons in the first place?\\!\\ Does the House often get attacked?": {
+      "Japanese": "\\m[vo]なんで最初の場所で武器があるの？\\!よく攻撃を受ける場所なのかな？"
+    },
+    "\\m[vm]Oh, not at all!\\!\\ Well, you know, except for right now.": {
+      "Japanese": "\\m[vm]いや、そんなことないよ！\\!きっと、今に分かるさ。"
+    },
+    "This is just one of the many classes the House gives!\\!\\ It's very popular with young adults, in a few weeks you can learn how to make your very own weapon!": {
+      "Japanese": "この場所から与えられるレッスンの一つみたいなもんさ！\\!数週間で自分にピッタリな武器を使えるようになる若者に人気の場所なんだ！"
+    },
+    "\\m[vi]It's not only in Dormont, Jouvente's <br>\nHouse gives smithing classes too!": {
+      "Japanese": "\\m[vi]ドルモンだけじゃない、ジュヴェンテの家でも鍛冶の授業があるんだ！"
+    },
+    "Most people put the weapon on their wall to look cool.": {
+      "Japanese": "みんな、武器を壁にかけてカッコつけるのさ。"
+    },
+    "\\m[clear](It does look cool.)": {
+      "Japanese": "\\m[clear]（確かにカッコいい）"
+    },
+    "\\m[vb]My sister took a class like this!\\!\\ She made a MASSIVE hammer and tried to hang it to the wall in her room.": {
+      "Japanese": "\\m[vb]妹もこういうの習ってたよ！\\!巨大なハンマーを<br>作って、自分の部屋に飾ろうとしてたんだ。"
+    },
+    "\\m[vo]...And?": {
+      "Japanese": "\\m[vo]…それで？"
+    },
+    "\\m[vb]Hammer too heavy.": {
+      "Japanese": "\\m[vb]ハンマーが重すぎたんだ。"
+    },
+    "Wall broke.": {
+      "Japanese": "壁が壊れちゃった。"
+    },
+    "We had to share my room for weeks.": {
+      "Japanese": "それで数週間、同じ部屋で過ごさないといけなく<br>なっちゃった。"
+    },
+    "\\m[vo]How awful.": {
+      "Japanese": "\\m[vo]すごい話ね。"
+    },
+    "\\m[clear](Those spears look very sharp...)": {
+      "Japanese": "\\m[clear]（あの槍、とても鋭そうだ…）"
+    },
+    "(Too bad that none of you use spears.)": {
+      "Japanese": "（槍を使える人がいないのは残念）"
+    },
+    "\\m[clear](A stool.)": {
+      "Japanese": "\\m[clear]（スツールだ。）"
+    },
+    "(But there's only one, so it'd be rude to sit down.)": {
+      "Japanese": "（でもひとつしかないし、座るのは行儀悪いかな）"
+    },
+    "\\m[clear](...\\!Hm...)": {
+      "Japanese": "\\m[clear]（…\\!えっと…）"
+    },
+    "(A big steel thing with a stone on it and an oven for weapons.\\!\\ Those things have a name but you can't remember what it is.)": {
+      "Japanese": "（石の乗った大きな鋼鉄製のもので、武器の焼成に用いるものだ。\\!何か<br>ちゃんとした名前があったと思うけれど、思い出せない）"
+    },
+    "\\m[vo]...\\!It's a forge and that's an anvil, Siffrin.": {
+      "Japanese": "\\m[vo]…\\!それは炉と鉄床よ、シフリン。"
+    },
+    "\\m[vi]And the stone is a sharpening stone!": {
+      "Japanese": "\\m[vi]それから、その石は砥石だ！"
+    },
+    "\\m[clear](OH YEAH...)": {
+      "Japanese": "\\m[clear]（ああ…）"
+    },
+    "\\m[clear](An anvil, sharpening stone, and forge.)": {
+      "Japanese": "\\m[clear]（鉄床、砥石、それに炉か）"
+    },
+    "\\m[vm]A Sadness!": {
+      "Japanese": "\\m[vm]ナゲキよ！"
+    },
+    "\\m[vo]It seems to be guarding the rest of the House from us...": {
+      "Japanese": "\\m[vo]この家の中をこれ以上進めないように、この場を<br>守っているみたいね…"
+    },
+    "\\m[vb]It feels strong!\\!\\ Stronger than those <br>\nwe've seen so far!": {
+      "Japanese": "\\m[vb]強そう！\\!これまで会ってきたのよりずっと強そう<br>だよ！"
+    },
+    "\\m[vi]Get ready, everyone!": {
+      "Japanese": "\\m[vi]皆、戦闘準備だ！"
+    },
+    "\\m[vm]We did it...!": {
+      "Japanese": "\\m[vm]やったわ…！"
+    },
+    "\\m[vb]Victory!!!": {
+      "Japanese": "\\m[vb]大勝利だー！！！"
+    },
+    "\\m[vo]Alright, let's keep moving.": {
+      "Japanese": "\\m[vo]いい調子ね、このまま進むわよ。"
+    },
+    "\\m[clear](Some vials.)": {
+      "Japanese": "\\m[clear]（小瓶がいくつかある）"
+    },
+    "(Let's see...)": {
+      "Japanese": "（えーっと…）"
+    },
+    "(You pick them up.)": {
+      "Japanese": "（手に取った）"
+    },
+    "\\m[clear](You got two SALTY BROTHS!)": {
+      "Japanese": "\\m[clear]（しょっぱいダシを2つ手に入れた！）"
+    },
+    "(You give them to Bonnie for safekeeping.)": {
+      "Japanese": "（ボニーに渡して保管してもらおう）"
+    },
+    "\\m[vtuto][Drinking a Salty Broth in battle will lower all of someone's Craft cooldowns by 2, so they're very useful!\\!\\ Use them wisely!]\\m[rb]": {
+      "Japanese": "\\m[vtuto][戦闘中にしょっぱいダシを飲むと、誰かのクラフトのクールダウンがすべて2減少します。とっても便利！\\!賢く使いましょう！]\\m[rb]"
+    },
+    "\\m[clear](Nothing else here.)": {
+      "Japanese": "\\m[clear]（他にはもう何もない）"
+    },
+    "\\m[clear](Some books.)": {
+      "Japanese": "\\m[clear]（何冊か本がある）"
+    },
+    "(One of them has a very striking cover of a Mwudu clay figurine with large, sunken eyes and a screaming mouth.)": {
+      "Japanese": "（そのうちの1冊は、ムウドゥの粘土像の表紙だ。大きく、くぼんだ目と叫んでいる口がとても印象的だ）"
+    },
+    "(Spooky.)": {
+      "Japanese": "（不気味だ）"
+    },
+    "\\m[clear](Some cutlery and kitchen utensils.)": {
+      "Japanese": "\\m[clear]（カトラリーや調理器具がある）"
+    },
+    "\\m[vi]Is it...\\!\\ cutlery?": {
+      "Japanese": "\\m[vi]これは…\\!カトラリー？"
+    },
+    "\\m[vb]Yeah, dummy.\\!\\ Why do you have to ask?": {
+      "Japanese": "\\m[vb]偽物だね。\\!どうしてそんなこと聞くの？"
+    },
+    "\\m[vi]No, no, I'm asking m'dame Odile!": {
+      "Japanese": "\\m[vi]いやいや、マダム・オディールに尋ねてるのさ！"
+    },
+    "Is it cutlery you're studying?\\!\\ Cutleryology?\\!\\ This is it, right?\\!\\ Did I get it?": {
+      "Japanese": "これは君の研究してるカトラリーかな？\\!カトラロロ<br>ジー？\\!だっけ？\\!あってる？"
+    },
+    "\\m[vo]Wrong again, mister.": {
+      "Japanese": "\\m[vo]また間違ってるわ。"
+    },
+    "I swear, your guesses are getting more and more eccentric.\\!\\ <br>\nWho makes their research all about cutlery, of all things?": {
+      "Japanese": "やれやれ、あなたの推理はドンドンへんてこなものになっていくわね。\\!すべてをかけてカトラリーを研究する人なんていると思う？"
+    },
+    "\\m[vi]Some people, I'm sure!": {
+      "Japanese": "\\m[vi]そういう人もいるさ、きっとな！"
+    },
+    "\\m[vo]Not me.": {
+      "Japanese": "\\m[vo]私は違うわ。"
+    },
+    "\\m[vi]Hmmmmm...": {
+      "Japanese": "\\m[vi]むぅぅぅぅ…"
+    },
+    "Oh well!\\!\\ I'll figure it out one day!!!": {
+      "Japanese": "まあいい！\\!\\いつか解き明かすさ！"
+    },
+    "\\m[vo]Sure you will.": {
+      "Japanese": "\\m[vo]ご自由に。"
+    },
+    "\\m[clear](You're also curious, but neither Isabeau or you managed to find out what she's studying yet.)": {
+      "Japanese": "\\m[clear]（あなたも興味津々だが、イザボーもあなたも、彼女が何を研究しているのかはまだ解明できない）"
+    },
+    "\\m[clear](You got one CRAFTED WATER!)": {
+      "Japanese": "\\m[clear]（クラフトウォーターを1つ手に入れた！）"
+    },
+    "(You give it to Bonnie for safekeeping.)": {
+      "Japanese": "（ボニーに渡して保管してもらおう）"
+    },
+    "\\m[clear](The cupboard is full of various board games.)": {
+      "Japanese": "\\m[clear]（食器棚にはいろんなボードゲームが入っている）"
+    },
+    "(A Craft game for kids, a fishing game, checkers...)": {
+      "Japanese": "（子供向けの工作ゲーム、釣りゲーム、チェッカー…）"
+    },
+    "\\m[vi]Checkers!!!": {
+      "Japanese": "\\m[vi]チェッカー！！！"
+    },
+    "We should play Team Checkers again!\\!\\ Sif and I will kick your butts!!!": {
+      "Japanese": "またチームチェッカーをやろうじゃないか！\\!\\シフと俺で蹴散らしてやろうぜ！！"
+    },
+    "\\m[vm]Hm...\\!\\ I think I'll pass...": {
+      "Japanese": "\\m[vm]うーん…\\!私は遠慮しておく…"
+    },
+    "\\m[vo]The last time we played,\\!\\ Siffrin cheated the whole time and you didn't even notice.": {
+      "Japanese": "\\m[vo]前回遊んだ時は、\\!シフリンがずうっとズルをしてい<br>て、あなたは気付いてすらいなかったでしょ。"
+    },
+    "\\m[vi]My obliviousness makes me a wonderful teammate!": {
+      "Japanese": "\\m[vi]俺は細かいことは気にしないから、最高のチームメイトなのさ！"
+    },
+    "\\m[clear](You snicker just thinking about it.)": {
+      "Japanese": "\\m[clear]（あなたはそれを想像するだけで笑みがこぼれた）"
+    },
+    "\\m[clear](A figurine of the Change God.)": {
+      "Japanese": "\\m[clear]（変化の神の置物だ）"
+    },
+    "(It's been destroyed.)": {
+      "Japanese": "（壊されている）"
+    },
+    "\\m[clear](A chair.)": {
+      "Japanese": "\\m[clear]（椅子だ）"
+    },
+    "\\m[clear](You open the closet...)": {
+      "Japanese": "\\m[clear]（クローゼットを開けた…）"
+    },
+    "(There's a pair of glasses inside a transparent case.)": {
+      "Japanese": "（透明なケースの中に、メガネが入っている）"
+    },
+    "(Unlike the case, the glasses are completely opaque...)": {
+      "Japanese": "（ケースと違って、メガネは全く見通せないけれど…）"
+    },
+    "\\m[vo]Glasses you can't even see out of...\\!\\ Absolutely useless.": {
+      "Japanese": "\\m[vo]見えないメガネなんて…\\!全く役に立たないわね。"
+    },
+    "\\m[vb]Are you gonna take them?": {
+      "Japanese": "\\m[vb]持っていくの？"
+    },
+    "\\m[vo]Hm...": {
+      "Japanese": "\\m[vo]うーん…"
+    },
+    "\\..\\..\\..": {
+      "Japanese": "\\..\\..\\.."
+    },
+    "Yes.\\!\\ I'll take them.": {
+      "Japanese": "ええ。\\!\\持っていきましょう。"
+    },
+    "\\m[clear](You got the OPAQUE GLASSES!)": {
+      "Japanese": "\\m[clear]（曇りメガネを手に入れた！）"
+    },
+    "(You give the Opaque Glasses to Odile to equip later.)": {
+      "Japanese": "（後で曇りメガネをオディールに渡そう。）"
+    },
+    "\\m[clear](There's nothing else in there.)": {
+      "Japanese": "\\m[clear]（他にはもう何もない）"
+    },
+    "\\m[clear](Some sort of candle-making station.)": {
+      "Japanese": "\\m[clear]（ろうそくを作る場所のようだ）"
+    },
+    "\\m[vi]Sniff sniff...": {
+      "Japanese": "\\m[vi]クンクン…"
+    },
+    "I have no idea what this smells like.": {
+      "Japanese": "この匂いはなんだろう。"
+    },
+    "\\m[vb]Sniff sniff.": {
+      "Japanese": "\\m[vb]クンクン。"
+    },
+    "Apples and cinnamon.": {
+      "Japanese": "りんごとシナモンだね。"
+    },
+    "\\m[vi]Pie smell?": {
+      "Japanese": "\\m[vi]パイの匂いってこと？"
+    },
+    "\\m[vb]Pie smell.": {
+      "Japanese": "\\m[vb]パイの匂いだね。"
+    },
+    "\\m[vm]Pie smell...": {
+      "Japanese": "\\m[vm]パイの匂い…"
+    },
+    "\\m[clear](Pie smell.)": {
+      "Japanese": "\\m[clear]（パイの匂い）"
+    },
+    "\\m[clear](A craftonomy book.)": {
+      "Japanese": "\\m[clear]（クラフトノミーの本だ）"
+    },
+    "\\m[vi]Oooh, is this a craftology book?": {
+      "Japanese": "\\m[vi]おや、クラフトロジーの本かい？"
+    },
+    "Piercing Craft, Creative Craft...\\!\\ Where's the Protecting Craft chapt--": {
+      "Japanese": "貫通のクラフト、創造のクラフト…\\!守護のクラフトの章はどこに…"
+    },
+    "\\m[vo]It's a craftONOMY book, not a craftOLOGY book.": {
+      "Japanese": "\\m[vo]それはクラフトノミーの本で、クラフトロジーの本<br>じゃないわ。"
+    },
+    "This one is about the study of Craft, not your fortune.": {
+      "Japanese": "製作技術について学ぶもので、運勢を知るためのものじゃないのよ。"
+    },
+    "\\m[vb]Heheheh.": {
+      "Japanese": "\\m[vb]アハハ。"
+    },
+    "\\m[vi]Aww...\\!\\ I wanted to know my horoscope today...": {
+      "Japanese": "\\m[vi]えーっ…\\!今日の運勢を知りたかったのに…"
+    },
+    "\\m[vo]This place has been frozen for a few months now...\\!\\ I don't think it'd be up to date...": {
+      "Japanese": "\\m[vo]ここが凍りついてからもう数ヶ月も経ってるわ…\\!その本は最新のものじゃないと思うけど…"
+    },
+    "\\m[vm]Hehehe, you really like that sort of stuff, don't you Isabeau?": {
+      "Japanese": "\\m[vm]フフ、あなた、そういうの本当に好きなのね、イザ<br>ボー？"
+    },
+    "\\m[vi]Yes I do!!!": {
+      "Japanese": "\\m[vi]そうなんだ！"
+    },
+    "It's absolutely useless and has no basis in reality,\\!\\ but I like it when some letters tells me I'm gonna have a good day.": {
+      "Japanese": "現実には全く役に立たないし、根拠もない。\\!でも、<br>「今日はいい日になりそう」って言われるのが好きなんだ。"
+    },
+    "\\m[vo]You're Protector Craft, aren't you, Isabeau...\\!\\ People who use it are patient, honest, loyal...": {
+      "Japanese": "\\m[vo]あなたのクラフトは守護ね、イザボー…\\!我慢強く、誠実で、忠実で…"
+    },
+    "...and very gullible.": {
+      "Japanese": "そしてとても騙されやすい人。"
+    },
+    "\\m[vi]That sure is me!!!": {
+      "Japanese": "\\m[vi]間違いないね！"
+    },
+    "\\m[vb]Haha, you're very gullible!!!": {
+      "Japanese": "\\m[vb]アハハ、騙されやすいって！！！"
+    },
+    "\\m[vm]Bonnie, you're laughing, but...\\!\\ Aren't you... also using Protector Craft?": {
+      "Japanese": "\\m[vm]ボニー、笑ってるけど…\\!あなたも…守護のクラフトを使ってなかった？"
+    },
+    "\\m[vb]NO????": {
+      "Japanese": "\\m[vb]そんな！！！"
+    },
+    "\\m[vo]Yes, I do seem to remember this being the case, kiddo.": {
+      "Japanese": "\\m[vo]ええ、確かにそうだったような記憶があるわね。"
+    },
+    "\\m[vb]NO!!!!!!!\\!\\ IT'S NOT THE SAME!!!!!\\!\\ I'M NOT GULLIBLE!!!": {
+      "Japanese": "\\m[vb]違う！！！！！！\\!\\同じじゃない！！！！\\!\\騙されやすくなんてないよ！！！"
+    },
+    "\\m[vi]Heheheheheh...": {
+      "Japanese": "\\m[vi]ハハハハハハ…"
+    },
+    "\\m[clear](...)": {
+      "Japanese": "\\m[clear]（…）"
+    },
+    "(You like being able to be near them and not have to contribute to the conversation.)": {
+      "Japanese": "（会話に混ざらなくても、彼らの側にいるだけで楽しかった）"
+    },
+    "(Being silent and surrounded by people you like is nice!)": {
+      "Japanese": "（好きな人たちに囲まれて、静かにしているのもいいものだ！）"
+    },
+    "\\m[clear](You're Piercing Craft!)": {
+      "Japanese": "\\m[clear]（あなたのクラフトは貫通だ）"
+    },
+    "(Determined!\\!\\ Brave!\\!\\ Honest!)": {
+      "Japanese": "（決断力がある！\\!勇敢！\\!誠実！）"
+    },
+    "(Or so people say.)": {
+      "Japanese": "（そう書かれている）"
+    },
+    "\\m[clear](You got two SOUR TONICS!)": {
+      "Japanese": "\\m[clear]（サワートニックを2つ手に入れた！）"
+    },
+    "\\m[clear](A tidy bed.)": {
+      "Japanese": "\\m[clear]（小綺麗なベッドだ）"
+    },
+    "(There's bits of wax stuck to the covers.)": {
+      "Japanese": "（シーツについた蝋が気になる）"
+    },
+    "\\m[clear](Instructions on how to craft candles.)": {
+      "Japanese": "\\m[clear]（ろうそくの作り方の説明書だ）"
+    },
+    "(Unlike normal candles, it seems Crafted candles last longer, and can change smells as time goes by...)": {
+      "Japanese": "（普通のろうそくと違って、クラフトしたろうそくは長持ちして、時が<br>経つにつれて香りを変えたりもできるらしい…）"
+    },
+    "\\m[clear](Some books on the House of Change.)": {
+      "Japanese": "\\m[clear]（変化の家に関する本がいくつかある）"
+    },
+    "(...and an book from the series \"The Cursing of Château Castle\", issue #51.)": {
+      "Japanese": "（…それと、『シャトー城の呪い』、51巻も）"
+    },
+    "(It's filled with wax and candle-making supplies.)": {
+      "Japanese": "（蝋とろうそく作りの道具が入っている）"
+    },
+    "(Smells nice.)": {
+      "Japanese": "（いい匂いだ）"
+    },
+    "\\m[clear](The dandelions are frozen in time.)": {
+      "Japanese": ""
+    },
+    "\\m[vmnp]\\{\\shakeSIFFRIN!": {
+      "Japanese": "\\m[vmnp]\\{\\shakeシフリン！"
+    },
+    "\\m[vm]...": {
+      "Japanese": "\\m[vm]…"
+    },
+    "\\m[vi]...": {
+      "Japanese": "\\m[vi]…"
+    },
+    "\\m[vo]...": {
+      "Japanese": "\\m[vo]…"
+    },
+    "\\m[vb]...": {
+      "Japanese": "\\m[vb]…"
+    },
+    "\\m[vs](...)\\!\\m[wait]\\^": {
+      "Japanese": "\\m[vs]（…）\\!\\m[wait]\\^"
+    },
+    "\\m[vi]Uh huh, sure!": {
+      "Japanese": "\\m[vi]えーと、うん、そうだな！"
+    },
+    "\\m[vb]I think you're lying, Frin.": {
+      "Japanese": "\\m[vb]フリンってば嘘つきくんだね。"
+    },
+    "\\m[vi]No no no, Bonbon.\\!\\ I believe Sif.": {
+      "Japanese": "\\m[vi]いやいや、ボニー。\\!俺はシフを信じてるぜ。"
+    },
+    "It's not like they fell over with their eyes closed, snoring, or anything.": {
+      "Japanese": "目を閉じて、その倒れて、床の上でいびきをかいたりとかしてないからな。"
+    },
+    "\\m[clear](You stand up and laugh awkwardly.)": {
+      "Japanese": "\\m[clear]（あなたは立ち上がり、ぎこちなく笑った。）"
+    },
+    "(You were just resting your eyes for a second!)": {
+      "Japanese": "（ほんの数秒間目を休めていただけなのに！）"
+    },
+    "\\m[vo]Urgh.\\!\\ Could you fall asleep standing up AFTER we beat the King who has frozen the entire country in time, PLEASE?": {
+      "Japanese": "\\m[vo]あらあら。\\!直立不動で寝たいのはわかりますけど、それは国中の時を止めたあの王様を打ち倒した後にしてくださらないかしら？"
+    },
+    "\\m[vm]I'm sorry, Siffrin...\\!\\ You're sleepy because I woke you up from your nap yesterday, isn't it?": {
+      "Japanese": "\\m[vm]ごめんね、シフリン…\\!昨日の昼寝を邪魔しちゃったからまだ眠いんだよね？"
+    },
+    "It's because I kept you from sleeping as much as you wanted yesterday, isn't it?!?": {
+      "Japanese": "好きなだけ眠らせてあげなかった私が悪いんだよね、うぅ、きっとそうよね？！？"
+    },
+    "\\m[clear](Uh oh...)": {
+      "Japanese": "\\m[clear]（あ、ああ…）"
+    },
+    "\\shake(YOU MADE MIRABELLE SAD AGAIN!!!)": {
+      "Japanese": "\\shake（またミラベルを悲しませてしまった！！！）"
+    },
+    "(You made her sad yesterday, too...)": {
+      "Japanese": "（昨日も彼女を悲しませたというのに…）"
+    },
+    "(It's your second time doing it in two days.\\!\\ You absolute monster.)": {
+      "Japanese": "（これで二日連続だ。\\!このままじゃ最低な奴だ。）"
+    },
+    "(Say something to make her feel better!)": {
+      "Japanese": "（名誉挽回するために何かを言わないと！）"
+    },
+    "\\m[vs](Something like...)\\!\\": {
+      "Japanese": "\\m[vs]（そうだ…）\\!\\"
+    },
+    "\\m[vo]Oh no.": {
+      "Japanese": "\\m[vo]はぁ…。"
+    },
+    "\\m[vi]Oh yes.": {
+      "Japanese": "\\m[vi]なんだなんだ？"
+    },
+    "\\m[vb]Huh?\\!\\ Why?\\!\\ What would've happened if I took a nap?": {
+      "Japanese": "\\m[vb]え？\\!なんで？\\!どうしてダメなの？"
+    },
+    "\\m[vs]\\^": {
+      "Japanese": ""
+    },
+    "\\^": {
+      "Japanese": ""
+    },
+    "\\m[wait]\\^": {
+      "Japanese": ""
+    },
+    "\\m[vi]HAHAHAHAHAHA!!!!": {
+      "Japanese": "\\m[vi]確かにそうだな！アッハハハハ！！！"
+    },
+    "\\m[vo]Oh gems.": {
+      "Japanese": "\\m[vo]笑えないわよ。"
+    },
+    "\\m[vb]BAD!!!": {
+      "Japanese": "\\m[vb]もう！！！"
+    },
+    "\\m[vm]Pft...": {
+      "Japanese": "\\m[vm]ぷっ…"
+    },
+    "Hehehe!": {
+      "Japanese": "アハハ！"
+    },
+    "\\m[clear](Mirabelle laughed!)": {
+      "Japanese": "\\m[clear]（ミラベルが笑った！）"
+    },
+    "(Success.)": {
+      "Japanese": "（ミッションコンプリート。）"
+    },
+    "\\m[wait](Odile looks like she wants to strangle you, though.)": {
+      "Japanese": "\\m[wait]（しかし、オディールの向ける視線は氷のように冷ややかだ。）"
+    },
+    "\\m[vo]Now that Siffrin is clearly awake...\\!\\ We should get inside.": {
+      "Japanese": "\\m[vo]さて、シフリンの目もぱっちり覚めたようで…\\!中へ向かうわよ。"
+    },
+    "\\m[vi]We still have a long way to go before we get to the King...\\!\\ He's probably at the top of the House, isn't he?": {
+      "Japanese": "\\m[vi]あの王様の顔を拝むまで長い道になりそうだ…\\!王様なら王様らしく、この家の一番上にいるよな？"
+    },
+    "How rude of him, to not welcome us at the door!": {
+      "Japanese": "玄関まで迎えに来ないなんてマナーがなってないな！"
+    },
+    "\\m[vb]So rude!": {
+      "Japanese": "\\m[vb]なってない！"
+    },
+    "\\m[vo]So rude.": {
+      "Japanese": "\\m[vo]なってないわね。"
+    },
+    "But still, the House feels...\\!\\ Strange, doesn't it?": {
+      "Japanese": "それは置いといて、この家…\\!どこか変ね？"
+    },
+    "Do Houses of Change usually look like this, Mirabelle?": {
+      "Japanese": "ミラベル、変化の家っていつもこんな感じだったかしら？"
+    },
+    "\\m[vm]...No, they're not usually like this...": {
+      "Japanese": "\\m[vm]…いや、いつもはこんな雰囲気じゃないわ…"
+    },
+    "Houses of Change are usually filled with people and light.": {
+      "Japanese": "変化の家は普段、光と人々で溢れているわ。"
+    },
+    "But right now, it's so empty and inert...\\!\\ And Sadnesses have taken over, and they'll be trying to defeat us, no matter the cost...": {
+      "Japanese": "でも、今家に蠢いているのは虚無と不変性…\\!そして、立入る者たちを力づくで排除しようとするナゲキたちだわ…"
+    },
+    "All because of the King.": {
+      "Japanese": "すべての元凶はあの王よ。"
+    },
+    "\\m[vi]Well, we should go, shouldn't we?": {
+      "Japanese": "\\m[vi]だったら、尚のこと、俺らが行かないとな？"
+    },
+    "The King's butt isn't gonna kick itself, you know!": {
+      "Japanese": "王様のケツを蹴り上げるのは俺たちの役目なんだからな！"
+    },
+    "\\m[vb]That's right!!!\\!\\ We're gonna kick the King's butt!!!": {
+      "Japanese": "\\m[vb]そのとーり！！！\\!おれたちの役目なんだからな！"
+    },
+    "\\m[vm]And save everyone in Vaugarde!": {
+      "Japanese": "\\m[vm]ヴァウガードの皆のために！"
+    },
+    "\\m[vb]AND SAVE EVERYONE IN VAUGARDE!!!": {
+      "Japanese": "\\m[vb]ヴァウガードの皆のために！！！"
+    },
+    "\\m[clear](You all nod determinedly.)": {
+      "Japanese": "\\m[clear]（皆、覚悟を決めたかのように頷いた。）"
+    },
+    "\\m[vo]Alright, let's get ready.": {
+      "Japanese": "\\m[vo]皆用意はできてるわね。"
+    },
+    "\\m[vb]I have my Orb right here!": {
+      "Japanese": "\\m[vb]オーブはちゃんと持ってきたよ！"
+    },
+    "\\m[vi]Let's open the House, then!": {
+      "Japanese": "\\m[vi]よし、家の扉を開けるわよ！"
+    },
+    "\\m[clear](This is a broken pillar.)": {
+      "Japanese": "\\m[clear]（これは壊れた柱だ）"
+    },
+    "(Nothing there.)": {
+      "Japanese": "（ここには何もない）"
+    },
+    "\\m[vm]\\shakeWAIT!!!": {
+      "Japanese": "\\m[vm]\\shake待って！！"
+    },
+    "\\m[vb]Gwah!!!\\!\\ What?\\!\\ What is it?!?": {
+      "Japanese": "\\m[vb]ギャッ！！\\!何？\\!何なの！？"
+    },
+    "\\m[vm]Sorry for screaming, sorry, sorry!\\!\\ Um, I, um...": {
+      "Japanese": "\\m[vm]叫んでごめんなさい、ごめんなさい！\\!えっと、私は…"
+    },
+    "I...\\!\\ don't know if this is relevant, but...": {
+      "Japanese": "その…\\!\\関係ないかもしれないんだけど…"
+    },
+    "I, um...\\!\\m[wait]I recognize this corridor.": {
+      "Japanese": "えっと…\\!\\m[wait]私、この廊下知ってるの。"
+    },
+    "\\m[vo]...Oh?": {
+      "Japanese": "\\m[vo]…へえ？"
+    },
+    "\\m[vm]I recognize it...\\!\\ The Head Housemaiden of this House used to warn us about it...": {
+      "Japanese": "\\m[vm]見覚えがあるの…\\!この家のメイド長にいつも注意されていたの…"
+    },
+    "I think...\\!\\ I think she called it the \\shake\"Death Corridor\"!!!": {
+      "Japanese": "その…\\!彼女はそれをこう呼んでいたと思う。\\shake「死の回廊」って！！！"
+    },
+    "\\m[vi]Oh that sounds bad!": {
+      "Japanese": "\\m[vi]すごい名前だな！"
+    },
+    "\\m[vm]So, so, um--": {
+      "Japanese": "\\m[vm]それで、えっと、その…"
+    },
+    "\\m[vo]The House is supposed to be a safe building, but with the King here, some traps might be activated...\\!\\ Is this what you mean?": {
+      "Japanese": "\\m[vo]この家は安全な建物なんだけど、王がここにいるか<br>ら、一部の罠が作動するかもしれないって…\\!つまりこういうこと？"
+    },
+    "\\m[vs](Traps? Traps?)\\!\\": {
+      "Japanese": "\\m[vs]（罠？罠って？）\\!\\"
+    },
+    "\\m[vo]It IS your job.": {
+      "Japanese": "\\m[vo]あなたの仕事ね。"
+    },
+    "\\m[vi]Protect us, trap master!": {
+      "Japanese": "\\m[vi]守ってくれよ、トラップ・マスター！"
+    },
+    "\\m[clear](Not the first time you've had to reassure Mirabelle.)": {
+      "Japanese": "\\m[clear]（ミラベルを宥めないといけないのは初めてじゃない）"
+    },
+    "(Time to look around...)": {
+      "Japanese": "（見て回る時間だ…）"
+    },
+    "\\m[vo]I'm resting my legs while you look around.\\!\\ Have fun.": {
+      "Japanese": "\\m[vo]あなたが見回ってる間に足を休めておくわ。\\!楽しんできて。"
+    },
+    "\\m[vi]Go Siffrin, go Siffrin, go!!!!": {
+      "Japanese": "\\m[vi]頑張れシフリン、頑張れシフリン、頑張れ！！！"
+    },
+    "Not to tell you how to do your job, but make sure to check everything!": {
+      "Japanese": "お前に仕事のやり方を教える必要なんてないと思う<br>が、くまなく調べるんだぞ！"
+    },
+    "...Which is just those six pillars, I guess.": {
+      "Japanese": "…たぶん、柱は6本ピッタリあるな。"
+    },
+    "\\m[clear](This probably leads further into the House.)": {
+      "Japanese": "\\m[clear]（これはさらに家の奥につながっているかもしれない）"
+    },
+    "(But you have to put Mirabelle at ease and check this room...)": {
+      "Japanese": "（でも、ミラベルを安心させてこの部屋を調べないといけない…）"
+    },
+    "\\m[vm]Please...\\!\\ Be careful...": {
+      "Japanese": "\\m[vm]お願い…\\!\\気をつけて…"
+    },
+    "\\m[vs](Bonnie is looking intently at the wall...)\\!\\": {
+      "Japanese": "\\m[vs]（ボニーは真剣に壁を見つめている…）\\!\\"
+    },
+    "Negative.": {
+      "Japanese": "ないよ。"
+    },
+    "\\m[vo]Keep looking kiddo, I'm sure you'll find something.": {
+      "Japanese": "\\m[vo]捜索を続ければ、きっとなにか見つかるよ。"
+    },
+    "\\m[vb]I might!\\!\\ You don't know!": {
+      "Japanese": "\\m[vb]かもしれない！\\!まだわからないけど！"
+    },
+    "\\m[clear](This is the way to the previous room.)": {
+      "Japanese": "\\m[clear]（ここは前の部屋に戻る道だ）"
+    },
+    "(Nothing there...)": {
+      "Japanese": "（ここには何もない…）"
+    },
+    "\\m[clear](This is a pillar.)": {
+      "Japanese": "\\m[clear]（これは柱だ）"
+    },
+    "\\m[clear](A pillar with no switches.)": {
+      "Japanese": "\\m[clear]（スイッチのない柱だ）"
+    },
+    "(You look around, trying to find something, anything...)": {
+      "Japanese": "（あなたは周囲を見回して、何か見つからないか探してみた…）"
+    },
+    "\\m[vm]Did you find something?!": {
+      "Japanese": "\\m[vm]なにか見つけたの！？"
+    },
+    "\\m[clear]\\m[wait](There is something!)": {
+      "Japanese": "\\m[clear]\\m[wait]（あそこになにかある！）"
+    },
+    "(Yep.\\!\\ A whole lot of nothing.)": {
+      "Japanese": "（ううん。\\!何もない）"
+    },
+    "\\m[vm]...Nothing?": {
+      "Japanese": "\\m[vm]…何も？"
+    },
+    "\\m[clear](Well...)": {
+      "Japanese": "\\m[clear]（えっと…）"
+    },
+    "(You can't find any switches or traps, so...)": {
+      "Japanese": "（あなたはスイッチもトラップも見つけられなかった…）"
+    },
+    "\\m[vm]So?\\!\\ So???\\!\\ Are we safe?\\!\\ We're not safe, are we, this is the Death Corridor...": {
+      "Japanese": "\\m[vm]それで？\\!それで？？？\\!私達は安全なの？\\!私達は安全<br>じゃない。\\!そしてここは死の回廊…"
+    },
+    "The older housemaidens kept saying people died there!!!": {
+      "Japanese": "先輩のメイドたちが、そこで人が死んだって<br>しょっちゅう言ってたのに！"
+    },
+    "So there must be a trap--\\!\\ Something weight-sensitive, or something!": {
+      "Japanese": "だから、罠があるはず…\\!何か、重さに反応するものとか！"
+    },
+    "Or, or!!!\\!\\ Maybe it's time-sensitive!\\!\\ If we spend too long here...!": {
+      "Japanese": "そ、それか！\\!時間に反応するものとか！\\!ここに長くいすぎたら…！"
+    },
+    "\\m[vs](Oh come on now.)\\!\\": {
+      "Japanese": "\\m[vs]（ああ、落ち着いて）\\!\\"
+    },
+    "\\m[vm]But there must be!!!": {
+      "Japanese": "\\m[vm]でも、あるはずなのよ！"
+    },
+    "\\m[vi]Aw, Mira...": {
+      "Japanese": "\\m[vi]あー、ミラ…"
+    },
+    "\\m[vb]Belle, Belle, don't worry about it.": {
+      "Japanese": "\\m[vb]ベル、ベル、心配しないで。"
+    },
+    "Frin isn't good at many things, but they know stuff about traps.": {
+      "Japanese": "フリンは苦手なことは多いけど、罠のことには詳しいから。"
+    },
+    "\\m[clear](Hey...)": {
+      "Japanese": "\\m[clear]（ちょっと…）"
+    },
+    "\\m[vo]Right.\\!\\ If we can't trust the one who's supposed to lead us THIS early, this won't bode well for later...": {
+      "Japanese": "\\m[vo]その通りよ。\\!今ここで、私たちを導いてくれるはずの人を信頼できないなら、後々まで良いことにはならないわ…"
+    },
+    "\\m[clear](HEY...)": {
+      "Japanese": "\\m[clear]（ねえ…）"
+    },
+    "\\m[vm]But, but--": {
+      "Japanese": "\\m[vm]で、でも…"
+    },
+    "\\m[vs]": {
+      "Japanese": ""
+    },
+    "\\m[vm]...\\!Well, that's true...": {
+      "Japanese": "\\m[vm]…\\!ええ、それはそうね…"
+    },
+    "\\m[vo]We HAVE been in this room for a while...": {
+      "Japanese": "\\m[vo]私達はこの部屋にしばらくいた…"
+    },
+    "And Siffrin has been walking everywhere,\\!\\ so if it was weight-sensitive, something would have killed him by now.": {
+      "Japanese": "そして、シフリンはあちこちを見て回ったわ。\\!もし、重さに反応する罠なら彼はもう殺されてるはずよ。"
+    },
+    "\\m[vi]Exactly!\\!\\ It's all fine!": {
+      "Japanese": "\\m[vi]そうだ！\\!そして、今はみんな無事だ！"
+    },
+    "\\m[vm]Oh...": {
+      "Japanese": "\\m[vm]ああ…"
+    },
+    "...\\!\\m[wait]yeah!\\!\\ Yeah, okay!\\!\\ I'll believe you!": {
+      "Japanese": "…\\!\\m[wait]うん！\\!わかったわ！\\!あなたを信じる！"
+    },
+    "Sorry... for worrying...\\!\\ I'm a little on edge...": {
+      "Japanese": "心配かけて…ごめんなさい…\\!ちょっと怖くって…"
+    },
+    "\\m[clear]\\m[wait]": {
+      "Japanese": ""
+    },
+    "\\m[wait]": {
+      "Japanese": ""
+    },
+    "\\lsoff\\m[clear]\\lsoff(As you live through the novel experience of having your body crushed by a giant rock,)": {
+      "Japanese": "\\lsoff\\m[clear]\\lsoff（あなたは大岩に体が潰されるという稀有な体験をしながら）"
+    },
+    "\\lsoff(You feel\\!\\     a tug\\!\\     on\\!\\    your\\!\\    stomach)": {
+      "Japanese": "\\lsoff（お腹が\\!引っ張られる\\!ような\\!感覚を\\!感じた）"
+    },
+    "\\lsoff(And,\\|\\^": {
+      "Japanese": "\\lsoff（そして、\\|\\^"
+    },
+    "\\m[vwoman]\\n<\\v[46]>Hm...\\!\\ Hu-hu-hum...": {
+      "Japanese": "\\m[vwoman]\\n<\\v[46]>フーン…\\!フッフッフーン…"
+    },
+    "\\m[clear](The woman is daydreaming, singing softly under her breath.)": {
+      "Japanese": "\\m[clear]（その女性はまどろみながらも、小さな声で歌っている。）"
+    },
+    "\\m[vwoman]\\n<\\v[46]>Oh, hi!\\!\\ You're one of the saviors, aren't you!\\!\\ I recognize you!": {
+      "Japanese": "\\m[vwoman]\\n<\\v[46]>あら、こんにちは！\\!あなたは確か救世主たちの一人ね！\\!知ってるわ！"
+    },
+    "\\n<\\v[46]>And you traveled with a few people, right!\\!\\ You traveled with, um...": {
+      "Japanese": "\\n<\\v[46]>それと少数の人たちと一緒に旅をしてる、そうでしょう！\\!あなたと共に旅をしているのは、えっと…"
+    },
+    "\\m[vs](...)\\!\\": {
+      "Japanese": ""
+    },
+    "\\m[vwoman]\\n<\\v[46]>Mirabelle!!!\\!\\ I know her, she's from here!!!": {
+      "Japanese": "\\m[vwoman]\\n<\\v[46]>ミラベル！！！\\!知ってるわ！ここ出身の娘よ！"
+    },
+    "\\n<\\v[46]>What a wonderful young woman.\\!\\ I never talked to her much, though!": {
+      "Japanese": "\\n<\\v[46]>若く、すてきな女性よ。\\!私自身はあまり話したことないのだけれどね！"
+    },
+    "\\n<\\v[46]>Hm, I wonder though...\\!\\ Is she the younger or older sister of your group?\\!\\ She'd fit both, wouldn't she?": {
+      "Japanese": "\\n<\\v[46]>ふむ、ところで…\\!彼女はあなたの仲間たちの中では姉役？妹役？\\!どっちも合いそうね、そうでしょ？"
+    },
+    "\\m[clear](You laugh awkwardly.)": {
+      "Japanese": "\\m[clear]（あなたはぎこちなく笑った。）"
+    },
+    "\\m[vwoman]\\n<\\v[46]>Isabeau!!!": {
+      "Japanese": "\\m[vwoman]\\n<\\v[46]>イザボー！！！"
+    },
+    "\\n<\\v[46]>What a nice young man.\\!\\ And so full of energy, too!": {
+      "Japanese": "\\n<\\v[46]>すてきな若者よ。\\!力で満ちあふれている男性ね！"
+    },
+    "\\n<\\v[46]>I'm an only child, but I feel like having an older brother like him would be fun.": {
+      "Japanese": "\\n<\\v[46]>私は一人っ子だけど、彼のような兄がいたらきっと楽しいでしょうね。"
+    },
+    "\\m[vwoman]\\n<\\v[46]>Yes, Odile!": {
+      "Japanese": "\\m[vwoman]\\n<\\v[46]>そう、オディールよ！"
+    },
+    "\\n<\\v[46]>She's from Ka Bue, yes?\\!\\ My sister visited Ka Bue, once.": {
+      "Japanese": "\\n<\\v[46]>彼女は確かカ・ブー出身よね？\\!私の妹も一度だけだけどそこに行ったことがあるわ。"
+    },
+    "\\n<\\v[46]>Did you know they call most people by their last names?\\!\\ Such a different culture!": {
+      "Japanese": "\\n<\\v[46]>あそこでは名前じゃなくて苗字呼びが流行ってるそうね？\\!場所が違うと文化も違うのね！"
+    },
+    "\\n<\\v[46]>And this Odile, hm, I can tell...": {
+      "Japanese": "\\n<\\v[46]>それとオディールは、そうね…"
+    },
+    "\\n<\\v[46]>She's like the mom of the group, isn't she?": {
+      "Japanese": "\\n<\\v[46]>あなたの仲間たちの中でのお母さん役、そうでしょう？"
+    },
+    "\\m[vwoman]\\n<\\v[46]>Bonnie!!!\\!\\ Oh, what a cutie.": {
+      "Japanese": "\\m[vwoman]\\n<\\v[46]>ボニー！！！\\!かわいらしい子ね。"
+    },
+    "\\n<\\v[46]>DEFINITELY the younger sibling of your group, there's no doubt about it.": {
+      "Japanese": "\\n<\\v[46]>あなたの仲間たちの中でも一番の末っ子ね、異論は受け付けないわ。"
+    },
+    "\\m[clear](The door seems to be locked.)": {
+      "Japanese": "\\m[clear]（扉は施錠されているようだ。）"
+    },
+    "\\m[clear](Mirabelle is here, sitting on a bench and looking at papers.)": {
+      "Japanese": "\\m[clear]（ミラベルが長椅子に座って書類を読んでいる。）"
+    },
+    "\\m[vm]Hi Siffrin!\\!\\ Do you need anything?": {
+      "Japanese": "\\m[vm]あっ、シフリン！\\!どうしたの？"
+    },
+    "\\m[vs]\\v[11]\\!\\": {
+      "Japanese": ""
+    },
+    "\\m[vm]Oh!\\!\\ That's right, you were asleep when everyone left...": {
+      "Japanese": "\\m[vm]あっ！\\!そういえばみんなが出ていったとき、シフはまだ寝てたよね…"
+    },
+    "Odile is in the shop, right next door!\\!\\ It's the house with all the barrels!": {
+      "Japanese": "オディールは隣の店よ！\\!タルでいっぱいのあの場所<br>よ！"
+    },
+    "Isabeau is walking in the forest nearby...\\!\\ He said he wanted to take in the sights, or something?": {
+      "Japanese": "イザボーは近くの森を散歩してるわ…\\!確か、景色を楽しみたいとか言ってたっけ？"
+    },
+    "Since he's from a big city, I think seeing this many trees is still quite new for him!": {
+      "Japanese": "大都市に住んでいたんだものね。\\!彼にとっては普通の森の景色でも十分楽しいのかもね！"
+    },
+    "\\m[clear](So he's still going puppy mode, you get it.)": {
+      "Japanese": "\\m[clear]（新しい環境にまだ慣れてない子犬みたいだ。）"
+    },
+    "\\m[vm]As for Bonnie, they found a big field of veggies a little ways from the village and ran towards it, screaming \"FRESH VEGGIES!!!\"!": {
+      "Japanese": "\\m[vm]ボニーは村から少し離れたところに大きな野菜の群生地を見つけて、「新鮮な野菜だ！！！」走っていったわ。"
+    },
+    "I think we'll eat well tonight!": {
+      "Japanese": "今晩の食卓は豪華になりそうね！"
+    },
+    "\\m[clear](So you'll only be able to talk to Odile right now, huh...)": {
+      "Japanese": "\\m[clear]（じゃあ今話せるのはオディールだけ、か…）"
+    },
+    "\\m[vm]How I'm feeling...?\\!\\ Oh, being in Dormont, you mean?": {
+      "Japanese": "\\m[vm]気分…？\\!あっ、ドルモンに来たから？"
+    },
+    "It's nostalgic...\\!\\ This is where I lived before, after all.\\!\\ I mean, when I wasn't studying or working at the House.": {
+      "Japanese": "ずいぶんと懐かしい気分よ…\\!私がずっと住んでいた場所だもの。\\!習い事をしていたときや、あの家で働いていたとき以外はずっとね。"
+    },
+    "Dormont itself hasn't changed much, but the House...": {
+      "Japanese": "ドルモンはまったく変わらないわね。でも、あの家<br>は…"
+    },
+    "...\\!We can see it from the village, you know.\\!\\ How distorted it has become.": {
+      "Japanese": "…\\!村からも見えるでしょう。\\!あんなありさまに<br>なっちゃったけど。"
+    },
+    "I was the only one who managed to escape the House when the King attacked...\\!\\ So many people must be hurt...": {
+      "Japanese": "あの王が襲撃してきたときに逃げ出せたのは私だけ<br>だった…\\!たくさんの怪我人が出たわ…"
+    },
+    "Or...\\!\\m[wait] Maybe they're all\\..\\..\\..": {
+      "Japanese": "いえ…\\!\\m[wait] 全員だったのかも\\..\\..\\.."
+    },
+    "\\m[vm]...Yes.\\!\\ You're right.\\!\\ I should stay positive...\\!\\ Sorry.": {
+      "Japanese": "\\m[vm]…ええ。\\!そうね。\\!悲観的になってはダメね…\\!ごめんなさい。"
+    },
+    "\\m[vm]Okay!\\!\\ I'll see you later!": {
+      "Japanese": "\\m[vm]分かったわ。\\!じゃあ、また後でね！"
+    },
+    "\\m[vman]\\n<\\v[46]>Oh, hey, traveler.": {
+      "Japanese": "\\m[vman]\\n<\\v[46]>おや、そこの旅人さん。"
+    },
+    "\\n<\\v[46]>You're not from Vaugarde, are you?\\!\\ That's the rumor, at least.": {
+      "Japanese": "\\n<\\v[46]>あなたはヴァウガーデ出身ではないですね？\\!風の噂を耳にしたものでね。"
+    },
+    "\\n<\\v[46]>I'm from Poteria myself.\\!\\ I came to Vaugarde to further my studies, a few months ago.": {
+      "Japanese": "\\n<\\v[46]>私はポーテリアの出です。\\!進学するために、数か月前からヴァウガーデにやってきたんですよ。"
+    },
+    "\\m[clear](You've talked to them before.)": {
+      "Japanese": "\\m[clear]（あなたはこの人物と前に話したことがある。）"
+    },
+    "(Hm...)": {
+      "Japanese": "（ふむ…）"
+    },
+    "\\m[vsc]": {
+      "Japanese": ""
+    },
+    "\\m[choicespace]\\^": {
+      "Japanese": ""
+    },
+    "\\m[vman]\\n<\\v[46]>It's nice, right?\\!\\ Lots of scholars, good food, welcoming people.": {
+      "Japanese": "\\m[vman]\\n<\\v[46]>いいところじゃない？\\!学者は多く、人々は暖かく、ごはんもおいしい。"
+    },
+    "\\n<\\v[46]>Especially their Houses of Change.\\!\\ They let everyone in, and aren't shy about sharing their knowledge, even if you don't follow their belief.": {
+      "Japanese": "\\n<\\v[46]>特にあの変化の家がすごいよ。\\!来るもの拒まずなところも、信心の有無不問で自分たちの集めた知識を分け与えるところも。"
+    },
+    "\\n<\\v[46]>It's strange, right?\\!\\ I've traveled a lot, but I've never been to a country with such welcoming people.\\!\\ I could move here, to be honest.": {
+      "Japanese": "\\n<\\v[46]>逆に奇妙にも思えるよね？\\!あっちこっち旅してきたけど、この国ほど暖かく迎えてくれる人々のいる国はないね。\\!正直いえばここに移住したいほどだよ。"
+    },
+    "\\n<\\v[46]>...\\!\\m[wait]Well, it's a little awkward right now, with the King.\\!\\ I might actually be forced to move here.\\!\\ Permanently.": {
+      "Japanese": "\\n<\\v[46]>…\\!\\m[wait]まぁ、今はあの王様とやらのせいで妙なことになってるけどね。\\!確かにここに住むことになるかもね。\\!永遠に。"
+    },
+    "\\n<\\v[46]>...\\!I should pick a good spot to be frozen in...": {
+      "Japanese": "\\n<\\v[46]>…\\!止まっちゃう前になるべくいい場所を探しておかないとね…"
+    },
+    "\\n<\\v[46]>Ah, not that I think you won't win tomorrow, of course.\\!\\ I have faith you'll win, of course.": {
+      "Japanese": "\\n<\\v[46]>あ、でももちろん君が明日負けてしまうなんて思ってないからね。\\!君が勝利することに毛ほども不信感を抱いていないよ。"
+    },
+    "(Vaugarde IS very welcoming.)": {
+      "Japanese": "（ヴァウガーデの人々は確かにとても暖かい。）"
+    },
+    "(People always notice you're not from here, but they're more likely to ask if you'd like to stay at their home for a bit than anything else.)": {
+      "Japanese": "（こちらがよそ者であることを知ったいるのに、一番最初に来る質問が<br>「今日はうちに泊っていかないか」だ。）"
+    },
+    "\\m[vman]\\n<\\v[46]>Good luck, from one traveler to another.": {
+      "Japanese": "\\m[vman]\\n<\\v[46]>それじゃあね、グッドラック。旅人同士、がんばろう。"
+    },
+    "(That's too bad...\\!\\ You're a little hungry!)": {
+      "Japanese": "（残念…\\!少しお腹が空いてきた！）"
+    },
+    "\\m[vm]Siffrin!\\!\\ You're up!": {
+      "Japanese": "\\m[vm]シフリン！\\!起きたのね！"
+    },
+    "\\m[clear](Oh, right, Mirabelle woke you up AND talked to you here too...)": {
+      "Japanese": "\\m[clear]（そうだ、ミラベルがここで起こして、その後に会話をしたのだった…）"
+    },
+    "(Um.)": {
+      "Japanese": "（えっと…）"
+    },
+    "\\m[wait](How should you act right now???)": {
+      "Japanese": "\\m[wait]（どうリアクションすればいいのだろう？？？）"
+    },
+    "(You've seen this once before, so you should maybe...\\!\\ Act the same as you did the first time???\\!\\ Figure something out, quick.)": {
+      "Japanese": "（この光景に一度立ち会ったことがあったから…\\!最初のときと同じように反応すればいいのかな？\\!\\ はやく何か思いつかないと。）"
+    },
+    "\\m[vm]...Still half asleep, huh?\\!\\ How was your nap?": {
+      "Japanese": "\\m[vm]…まだ寝ぼけてるみたいね？\\!よく眠れた？"
+    },
+    "\\m[clear](Okay take two.\\!\\ Say something.\\!\\ Make normal words come out of your mouth.)": {
+      "Japanese": "\\m[clear]（オーケー、テイクツーだ。\\!何かを言うんだ。\\!何か日常っぽいことを言わないと。）"
+    },
+    "\\m[vm]...\\!\\m[wait]I know that?\\!\\ I was there?": {
+      "Japanese": "\\m[vm]…\\!\\m[wait]知ってるわよ？\\!私、ここにいたわよね？"
+    },
+    "\\m[clear](Oh stars.)": {
+      "Japanese": "\\m[clear]（さっそくミスったか。）"
+    },
+    "\\m[vm]Oh, wait!\\!\\ I had something I wanted to ask you!!!": {
+      "Japanese": "\\m[vm]あ、そうだ！\\!聞きたいことがあったの！！！"
+    },
+    "Um, I have an idea for tonight...\\!\\ This will be the night before we go fight the King, so I felt like we could make it special somehow...": {
+      "Japanese": "今晩のことなんだけど…\\!あの王様と戦いに行く前日でしょう？だからちょっと何か特別なことをしたいなって思って…"
+    },
+    "So, I was thinking, how about a sleepover?": {
+      "Japanese": "だから、その、パジャマパーティとかどうかな？"
+    },
+    "Let's all eat good food together!\\!\\ Sleep in the same room!\\!\\ Maybe tell stories!!!": {
+      "Japanese": "みんなで美味しいもの食べて！\\!同じ部屋で眠って！\\!<br>ちょっとした内緒話とかしちゃったりして！！！"
+    },
+    "It would be nice, wouldn't it?": {
+      "Japanese": "どう、いいアイデアじゃないかしら？"
+    },
+    "\\m[clear](Suddenly, you remember where this conversation is heading.)\\!\\m[wait]\\^": {
+      "Japanese": "\\m[clear]（あなたは急にこの会話の顛末を思い出した。）\\!\\m[wait]\\^"
+    },
+    "(She talked to you about this sleepover...\\!\\ And you only said \"Okay...?\" like a terrible rude awful person, and...)": {
+      "Japanese": "（彼女はこのパーティについてあなたに相談して…\\!あなたは「はぁ…いいんじゃない？」という最低最悪の返事をして、…）"
+    },
+    "\\shake(THIS IS THE MOMENT IN THE CONVERSATION WHERE YOU MADE MIRABELLE UPSET...!!!)": {
+      "Japanese": "\\shake（そうだ、今しているこの会話の途中でミラベルをとんでもなく怒らせてしまったんだった…！！！）"
+    },
+    "(Can you change it?\\!\\ Can you change fate?!?\\!\\ Only one way to find out...)": {
+      "Japanese": "（私に変えられるだろうか？\\!運命を変えられるだろうか？！？\\!試してみるしかない…）"
+    },
+    "\\m[vm]R-Really...?": {
+      "Japanese": "\\m[vm]ほ、本当…？"
+    },
+    "Yay, wonderful!!!\\!\\ I can't wait for all of us to spend time together tonight!!!": {
+      "Japanese": "よかった！！！\\!もう今晩みんなで一緒に過ごすのが待ちきれないわ！！！"
+    },
+    "(...\\!\\m[wait]MISSION COMPLETE.)": {
+      "Japanese": "（…\\!\\m[wait]ミッションコンプリート。）"
+    },
+    "(So you CAN change things.)": {
+      "Japanese": "（つまり、事象は変えられる。）"
+    },
+    "(This was a small change, but if your fate isn't set in stone...\\!\\ Then...)": {
+      "Japanese": "（全体から見れば小さな変化だ、でももしあなたの運命が定まってないとしたら…\\!それなら…）"
+    },
+    "\\m[vm]...So I will see you later, alright?\\!\\ Don't forget to look around the town for a bit!": {
+      "Japanese": "\\m[vm]…それじゃあ、また後でね。\\!良かったら街を少し見て回ってみてね！"
+    },
+    "\\m[clear](You nod and wave goodbye.)": {
+      "Japanese": "\\m[clear]（あなたはうなずき、さようならと手を振った。）"
+    },
+    "\\m[clear](Okay, that was...\\!\\ slightly different from what you remembered, but still...)": {
+      "Japanese": "\\m[clear]（よし、これは…\\!あなたの記憶とは違った展開となった、でも…）"
+    },
+    "(So it seems you really are...\\!\\ repeating the same day.\\!\\ With small differences.)": {
+      "Japanese": "（どうやらあなたは本当に…\\!まったく同じ一日を繰り返しているようだ。\\!しかし、繰り返しごとに小さな違いがある。）"
+    },
+    "(And Mirabelle...\\!\\ doesn't seem to be aware of it.)": {
+      "Japanese": "（そしてミラベルは…\\!そのことに気付いていないみたいだ。）"
+    },
+    "(Are you the only one repeating today?)": {
+      "Japanese": "（今日を繰り返しているのはあなただけなのだろうか？）"
+    },
+    "(...)\\!\\m[wait]\\^": {
+      "Japanese": ""
+    },
+    "(What should you do...?)": {
+      "Japanese": "（これからどうするべきだろうか…？）"
+    },
+    "\\m[vtuto]\\}[Hey...]": {
+      "Japanese": "\\m[vtuto]\\}[おーい…]"
+    },
+    "\\m[vtuto][Hey...]": {
+      "Japanese": "\\m[vtuto][もしもーし…]"
+    },
+    "\\m[vtuto][Hey.]": {
+      "Japanese": "\\m[vtuto][聞こえてるね。]"
+    },
+    "\\m[wait]\\m[wait][Come to the Favor Tree at the West of the village, stardust.]\\m[rb]": {
+      "Japanese": "\\m[wait]\\m[wait][村の西にあるフェイバーツリーに来て、ホシクズさん。]\\m[rb]"
+    },
+    "\\m[clear](What...?)": {
+      "Japanese": "\\m[clear]（なんだ…？）"
+    },
+    "\\m[clear](There's more to explore this way, but...)": {
+      "Japanese": "\\m[clear]（こちら側にも色々ありそうだけど…）"
+    },
+    "(You'd like to go see the Favor Tree West of the village first.)": {
+      "Japanese": "（あなたはまずは村の西にあるフェイバーツリーを見に行くことに<br>した。）"
+    },
+    "\\m[clear](The sign says: \"Favor Tree\".)": {
+      "Japanese": "\\m[clear]（標識には「フェイバーツリー」と書かれている。）"
+    },
+    "\\m[clear](The sign says: \"Shoppe\".)": {
+      "Japanese": "\\m[clear]（標識には「店」と書かれている。）"
+    },
+    "\\m[clear](The sign says: \"Library\".)": {
+      "Japanese": "\\m[clear]（標識には「図書館」と書かれている。）"
+    },
+    "\\m[clear](Isabeau is probably at the tree.)": {
+      "Japanese": "\\m[clear]（イザボーはたぶんあの木の近くにいるはず。）"
+    },
+    "(You shouldn't bother him...\\!\\ Better talk to Odile and Bonnie first.)": {
+      "Japanese": "（彼の邪魔はしないほうがいいかもしれない…\\!先にオディールとボニーの話を聞きにいこう。）"
+    },
+    "(You also need to check the Change God's statue...\\!\\ Just so you can tell Mirabelle you did it.)": {
+      "Japanese": "（後、変化の神の像も見に行こう…\\!ミラベルに見に行ったと報告できるように。）"
+    },
+    "\\m[clear](You need to see if Bonnie is okay.)": {
+      "Japanese": "\\m[clear]（ボニーが大丈夫か見に行かないと。）"
+    },
+    "\\m[vwoman]\\n<\\v[46]>Heheheee...\\!\\ I am fishing.": {
+      "Japanese": "\\m[vwoman]\\n<\\v[46]>ふっふっふ…\\!私ここに釣りをしに来たのよ。"
+    },
+    "\\n<\\v[46]>You look like someone who would like fishing.": {
+      "Japanese": "\\n<\\v[46]>あなたって釣りが好きそうな顔してるね。"
+    },
+    "\\n<\\v[46]>Would you like to fish for a little bit?": {
+      "Japanese": "\\n<\\v[46]>ちょっと釣ってかない？"
+    },
+    "\\m[vwoman]\\n<\\v[46]>Heheheeee...": {
+      "Japanese": "\\m[vwoman]\\n<\\v[46]>ふっふっふっふ…"
+    },
+    "\\m[clear](Fishing, huh...)": {
+      "Japanese": "\\m[clear]（釣り、かぁ…）"
+    },
+    "(You don't really know how to do this.)": {
+      "Japanese": "（実のところ、あなたは釣りを良く知らない。）"
+    },
+    "(You take the fishing pole they're offering you,\\!\\ choose a lure the same shade as the water,\\!\\ check the fishing pole,\\!\\ throw it in the water,\\!\\ and sit down and wait.)": {
+      "Japanese": "（あなたは手渡された釣り竿を手に取り、\\!水の影となった部分に近い色のルアーを選び、\\!釣り竿を一通り調べ、\\!水へとルアーを投げ込み、\\!静かに<br>座って待った。）"
+    },
+    "(Yeah, this feels right.)": {
+      "Japanese": "（うん、これでいいはず。）"
+    },
+    "(Fishing time.)": {
+      "Japanese": "（フィッシングタイムだ。）"
+    },
+    "(...)": {
+      "Japanese": "（…）"
+    },
+    "(\\..\\..\\..)": {
+      "Japanese": "（\\..\\..\\..）"
+    },
+    "(...You didn't catch anything.)": {
+      "Japanese": "（…何も釣れなかった。）"
+    },
+    "(That's too bad.)": {
+      "Japanese": "（これはひどい。）"
+    },
+    "\\m[vwoman]\\n<\\v[46]>Of course.\\!\\ Come back whenever.": {
+      "Japanese": "\\m[vwoman]\\n<\\v[46]>もちろん。\\!好きな時にここに来るといいわ。"
+    },
+    "\\m[vwoman]\\n<\\v[46]>I am fishing.": {
+      "Japanese": "\\m[vwoman]\\n<\\v[46]>ここには釣りをしに来たのよ。"
+    },
+    "\\m[vo]There's no need to go here right now, is there?": {
+      "Japanese": ""
+    },
+    "\\m[clear](Apparently not.)": {
+      "Japanese": ""
+    },
+    "\\m[vman]\\n<\\v[46]>Oof, look at you!\\!\\ So scrawny!": {
+      "Japanese": "\\m[vman]\\n<\\v[46]>おや、どうしたんだい！\\!その貧相な体は！"
+    },
+    "\\n<\\v[46]>Scrawny one, did you know you can press \\v[376] to run?\\!\\ You should give it a try sometime!": {
+      "Japanese": "\\n<\\v[46]>貧相なる者よ、\\v[376]で走れるのは知っているかい？\\!ときどき走ってみるのも気持ちいいぞ！"
+    },
+    "\\n<\\v[46]>Oh!\\!\\ And did you know you can turn ON \"Always Run\" in your Options menu?\\!\\ So you can run all the time?": {
+      "Japanese": "\\n<\\v[46]>そうだ！\\!オプションメニューで「常に走る」をオンにしても走れるのは<br>知っていたかい？\\!付ければ君もランナーの仲間入りだ！"
+    },
+    "\\n<\\v[46]>Did you know?\\!\\ Did you know about this?\\!\\ Did you know pressing \\v[376] makes you run?\\!\\ Did you know you can run all the time by going into the Options menu?\\!\\ Do you run?\\!\\ DO YOU LIKE RUNNING?": {
+      "Japanese": "\\n<\\v[46]>知ってる？\\!知ってるのかい？\\!\\v[376]で走れるって知ってるのかい？\\!<br>オプションメニューをいじれば常に走れるのも知ってたのかい？\\!君は良く走るのかい？\\!君って走るの大好きだったりする？"
+    },
+    "\\m[vman]\\n<\\v[46]>DISGUSTING.": {
+      "Japanese": "\\m[vman]\\n<\\v[46]>なんと嘆かわしい。"
+    },
+    "\\n<\\v[46]>I, I mean, understandable!\\!\\ You look like you've never ran a day in your life!": {
+      "Japanese": "\\n<\\v[46]>じゃなくて、その、そうだよね！\\!見た目からして一度も走ったことない感じだからそうだよね！"
+    },
+    "\\n<\\v[46]>So you need to BUILD UP THOSE MUSCLES!\\!\\ GET FAST!\\!\\ GET SWOLE!\\!\\ AND PRESS \\v[376] TO RUN!!!!!": {
+      "Japanese": "\\n<\\v[46]>だからこそ筋肉を鍛えないと！\\!風に乗れ！\\!筋肉痛を楽しめ！\\!そして\\v[376]で駆け抜けろ！！！！"
+    },
+    "\\m[clear](Rude...)": {
+      "Japanese": "\\m[clear]（まったく失礼な…）"
+    },
+    "(You may look scrawny, but you're definitely the fastest one out of your group!\\!\\ Hmf!)": {
+      "Japanese": "（確かに貧相な見た目かもしれないけど、あなたは仲間の中でも一番足が速いのは事実だ！\\!フンだ！）"
+    },
+    "\\m[clear](They mutter \"run run run run run run run\" repeatedly under their breath.)": {
+      "Japanese": "\\m[clear]（皆小声で「走れ、走れ、走れ、走れ、走れ、走れ」、と繰り返し呟いている。）"
+    },
+    "\\m[clear](Statues, big and small, all with different faces.)": {
+      "Japanese": "\\m[clear]（それぞれに別々の顔が掘られた、大小さまざまな像だ。）"
+    },
+    "(Some of them have sad eyes, others a bright smile.)": {
+      "Japanese": "（悲し気な目をしているのもいれば、満面の笑みを浮かべた像もある。）"
+    },
+    "(A few are animated by Craft, and one jumps around and bumps gently into your foot.)": {
+      "Japanese": "（いくつかの像がクラフトで仮初の命を与えられ、そのうちの一体が跳び回っており、あなたの足に優しくぶつかった。）"
+    },
+    "(The Change God, deity worshipped by all of the country of Vaugarde, stands before you.)": {
+      "Japanese": "（変化の神。ヴァウガーデ全土で信仰されている神があなたの目の前に<br>立っている。）"
+    },
+    "(A god with a thousand faces...)": {
+      "Japanese": "（数千の顔を持つ神か…）"
+    },
+    "(Vaugarde is so weird!)": {
+      "Japanese": "（ヴァウガーデって本当奇妙だ！）"
+    },
+    "\\m[clear](The Change God's statue.)": {
+      "Japanese": "\\m[clear]（変化の神の像だ。）"
+    },
+    "(Nothing to do here.)": {
+      "Japanese": "（ここですることはないな。）"
+    },
+    "\\m[vkid]Peep!": {
+      "Japanese": "\\m[vkid]チュンチュン！"
+    },
+    "\\m[clear](Peep!)": {
+      "Japanese": "\\m[clear]（チュンチュン！）"
+    },
+    "\\m[vo]Peep.": {
+      "Japanese": ""
+    },
+    "\\m[clear](?!??!)": {
+      "Japanese": ""
+    },
+    "\\m[clear](The sign says: \"Dormont's Mignonne Boulangerie\".)": {
+      "Japanese": "\\m[clear]（標識には「ドルモン・ミニョン・ブーランジェリー」と書かれて<br>いる。）"
+    },
+    "\\m[clear](The sign says: \"East Dormont\".)": {
+      "Japanese": "\\m[clear]（標識には「東ドルモン」と書かれている。）"
+    },
+    "\\m[clear](That's a barrel.)": {
+      "Japanese": "\\m[clear]（タルだ。）"
+    },
+    "\\m[clear](Some flowers.)": {
+      "Japanese": "\\m[clear]（花だ。）"
+    },
+    "\\m[vi]Alri--": {
+      "Japanese": "\\m[vi]分かっ‐‐"
+    },
+    "\\{YOWCHIE!!!": {
+      "Japanese": "\\{やっば！！！"
+    },
+    "\\m[vb]Did you just--": {
+      "Japanese": "\\m[vb]今さっき‐‐"
+    },
+    "\\m[vi]No...": {
+      "Japanese": "\\m[vi]いや…"
+    },
+    "\\m[vb]--RUN INTO THE DOOR???": {
+      "Japanese": "\\m[vb]--扉に突っ込んだ？"
+    },
+    "\\m[vi]NO I DIDN'T!!!!\\!\\ YOU IMAGINED IT!!!!": {
+      "Japanese": "\\m[vi]突っ込んでないよ！！！！\\!勘違いだって！！！！"
+    },
+    "\\m[vm]Oh no...\\!\\ I didn't think it'd be locked...": {
+      "Japanese": "\\m[vm]その…\\!鍵がかかっていると思わなくて…"
+    },
+    "\\m[vb]The King's scared of us, right?": {
+      "Japanese": "\\m[vb]王が怖がらせようとしているんだよね？"
+    },
+    "He has to be, since he's putting locked doors in our way!!!": {
+      "Japanese": "当然だよ、だから扉に鍵をしてるのさ！！！"
+    },
+    "\\m[vo]Hopefully the key won't be hard to find...\\!\\ Let's take a look around.": {
+      "Japanese": "\\m[vo]鍵が無事見つかれば良いけど…\\!周囲を探してみよう。"
+    },
+    "\\m[clear](Hm...)": {
+      "Japanese": "\\m[clear]（えっと…）"
+    },
+    "(Looking at the door, you notice a symbol over the keyhole.)": {
+      "Japanese": "（扉を見ると、鍵穴にはシンボルがある。）"
+    },
+    "(It looks like a circle, inside a circle, inside a circle...)": {
+      "Japanese": "（丸くて、中も丸くて、その中も丸い…）"
+    },
+    "(The door is locked.)": {
+      "Japanese": "（鍵がかかっている。）"
+    },
+    "(The symbol over the keyhole is shaped like a circle, inside a circle, inside a circle...)": {
+      "Japanese": "（鍵穴のシンボルの形が丸くて、中も丸くて、その中も丸い…）"
+    },
+    "(Just like the key you just found!)": {
+      "Japanese": "（さっき見つけた鍵そっくりだ！）"
+    },
+    "\\m[clear](Key ti--)": {
+      "Japanese": "\\m[clear]（鍵を開け‐‐）"
+    },
+    "\\m[vi]Wait, there's one room we didn't go into yet...": {
+      "Japanese": "\\m[vi]待って、まだ行ってない部屋があるよ…"
+    },
+    "Let's go and explore first!": {
+      "Japanese": "先に行って探索しよう！"
+    },
+    "\\m[clear](Key time.)": {
+      "Japanese": "\\m[clear]（鍵を開けよう。）"
+    },
+    "\\m[clear](You insert the key into the keyhole, and open the door.)": {
+      "Japanese": "\\m[clear]（鍵を使って扉を開けよう。）"
+    },
+    "\\m[vi]Alright!\\!\\ Let's goooo!!!": {
+      "Japanese": "\\m[vi]良いね！\\!\\ レッツゴーー－－！！！"
+    },
+    "\\m[clear](A torch.)": {
+      "Japanese": "\\m[clear]（トーチだ。）"
+    },
+    "(Like the rest of the castle, the flame is frozen in time.)": {
+      "Japanese": "（この城と同じように、炎すらも時と共に止まっている。）"
+    },
+    "ガードコマンドを選択すると、 スキル#2が使用されますスキル#2が使用されますスキル#2が使用されますスキル#2が使用されますスキル#2が使用されますスキル#2が使用されますスキル#2が使用されますスキル#2が使用されます": {
+      "Japanese": ""
+    },
+    "text text text text text text text text text text text text text text text text text text ": {
+      "Japanese": ""
+    },
+    "text but like written normally to see how it behaves and stuff because sometimes it seems to go back to the next line very weeiiiiiirdly": {
+      "Japanese": ""
+    },
+    "\\m[clear](A statue of the Change God.)": {
+      "Japanese": "\\m[clear]（変化の神の像だ。）"
+    },
+    "\\m[clear](You touch whatever this ends up being. maybe a root or just light idk)": {
+      "Japanese": ""
+    },
+    "\\m[clear](Everyone was healed.)": {
+      "Japanese": ""
+    },
+    "(Save?)\\!\\": {
+      "Japanese": "\\m[clear]（セーブしようか？）\\!\\"
+    },
+    "\\m[clear](Save?)\\!\\": {
+      "Japanese": ""
+    },
+    "\\m[clear](It's a broken pillar.)": {
+      "Japanese": "\\m[clear]（壊れた柱だ。）"
+    },
+    "\\m[clear](A broken pillar.)": {
+      "Japanese": "\\m[clear]（そうだね、壊れた柱だね。）"
+    },
+    "\\m[clear](That sure is a broken pillar.)": {
+      "Japanese": "\\m[clear]（壊れた柱に違いないと思う。）"
+    },
+    "text.": {
+      "Japanese": "texusto."
+    },
+    "    ç – the cedilla (la cédille)\n    é – the acute accent (l'accent aigu)\n    â/ê/î/ô/û – the circumflex (l'accent circonflexe)\n    à/è/ì/ò/ù – the grave accent (l'accent grave)": {
+      "Japanese": ""
+    },
+    "english": {
+      "Japanese": ""
+    },
+    "japanese": {
+      "Japanese": ""
+    },
+    "\\v[1]": {
+      "Japanese": ""
+    },
+    "a choice": {
+      "Japanese": ""
+    },
+    "test \\i[50] stuff": {
+      "Japanese": ""
+    },
+    "\\m[clear](There's no turning back now.)": {
+      "Japanese": "\\m[clear]（もう引き返せない。）"
+    },
+    "(You have to press onwards.)": {
+      "Japanese": "（このまま歩み続ける以外に道はない。）"
+    },
+    "\\m[clear](It's a barrel.)": {
+      "Japanese": "\\m[clear]（タルだ。）"
+    },
+    "\\m[clear](It says on the side: \"DO NOT SHAKE!!!\")": {
+      "Japanese": "\\m[clear]（横に「絶対に揺らすな！！！」と書いてある。）"
+    },
+    "\\m[clear](It's full of various nuts.)": {
+      "Japanese": "\\m[clear]（色んな種類のナッツでいっぱいだ。）"
+    },
+    "\\m[clear](It's full of water.)": {
+      "Japanese": "\\m[clear]（水でいっぱいだ。）"
+    },
+    "\\m[clear](It's full of nothing.)": {
+      "Japanese": "\\m[clear]（中は虚無で満たされている。）"
+    },
+    "\\m[clear](It's a pillar.)": {
+      "Japanese": "\\m[clear]（柱だ。）"
+    },
+    "\\m[clear](A pillar.)": {
+      "Japanese": "\\m[clear]（そうだね、柱だね。）"
+    },
+    "\\m[clear](That sure is a pillar.)": {
+      "Japanese": "\\m[clear]（柱に違いないと思う。）"
+    },
+    "\\m[clear](The gate is locked.)": {
+      "Japanese": "\\m[clear]（門は施錠されている。）"
+    },
+    "\\m[vm]Well, this one I expected would be locked.": {
+      "Japanese": "\\m[vm]案の定鍵がかかっているわね。"
+    },
+    "\\m[vi]Where does it bring?\\!\\ Farther into the House?": {
+      "Japanese": "\\m[vi]これはどこに繋がってるんだ？\\!家の奥の方か？"
+    },
+    "\\m[vm]Yes...\\!\\ This is the only way to the second floor.\\!\\ No wonder the King would make sure we couldn't go in...": {
+      "Japanese": "\\m[vm]ええ…\\!ここが二階への唯一の道よ。\\!王からすれば、ここを施錠すれば侵入者を阻めるのだから当然そうするわよね…"
+    },
+    "\\m[vb]I'm telling you!!!\\!\\ The King is scared of us!!!": {
+      "Japanese": "\\m[vb]わかった！！！\\!王様はみんなが怖いんだ！！！"
+    },
+    "\\m[vo]Maybe he is, but in the meantime, we should find a way to open this door...": {
+      "Japanese": "\\m[vo]そうかもね、でも今はそれは一旦置いておいて、この扉を開く方法を探さないとね…"
+    },
+    "\\m[clear](You look at the gate a little bit closer.)": {
+      "Japanese": "\\m[clear]（あなたはゲートに少し近づいてから観察してみた。）"
+    },
+    "(The keyhole is shaped like an egg, broken in half.)": {
+      "Japanese": "（半分に割れた卵のような形をした鍵穴だ。）"
+    },
+    "\\m[clear](Where could the key for this Gate be...)": {
+      "Japanese": "\\m[clear]（この門の鍵はどこにあるのだろう…）"
+    },
+    "\\m[clear](The door is locked.)": {
+      "Japanese": "\\m[clear]（鍵がかかっている。）"
+    },
+    "(The symbol over the keyhole is shaped like an egg...)": {
+      "Japanese": "（鍵穴のシンボルの形が卵に似ている…）"
+    },
+    "\\m[clear](The Tear floats gently.)": {
+      "Japanese": "\\m[clear]（ナミダが静かに浮かんでいる）"
+    },
+    "(You have a Star Crest, so...)": {
+      "Japanese": "（あなたは星の紋章を持っている…）"
+    },
+    "(Use the Star Crest?)\\!\\": {
+      "Japanese": "（星の紋章を使う？）\\!\\"
+    },
+    "(You use the Star Crest.)": {
+      "Japanese": "（あなたは星の紋章を使った）"
+    },
+    "\\m[vo]Well, I dont know what this water was, but the crest made it go away...": {
+      "Japanese": "\\m[vo]この水が何なのかはわからなかったけれど、紋章で消えたみたいね…"
+    },
+    "\\m[vb]Oh, wait, I remember!\\!\\ Those were Tears!": {
+      "Japanese": "\\m[vb]ああ、待って、思い出した！\\!これらはナミダよ！"
+    },
+    "The villagers in Dormont call them Tears, and if you touch them you get frozen in time!!!": {
+      "Japanese": "ドルモンの村人たちが「ナミダ」と呼んでいたもの<br>よ。\\!触ると、時が止まってしまうのよ！！！"
+    },
+    "\\m[vi]Good thing we found this crest, then!": {
+      "Japanese": "\\m[vi]なら、この紋章を見つけておいて良かったな！"
+    },
+    "\\m[vm]Bye bye, Tears!": {
+      "Japanese": "\\m[vm]じゃあね、ナミダ！"
+    },
+    "(You decide to not use the Star Crest right now.)": {
+      "Japanese": "（今は星の紋章を使わないことにした）"
+    },
+    "\\m[vi]I am DEFINITELY not looking around me and I'm admiring the view instead so tell me if I'm about to run into something dangerouuuuuus!\\m[wait]\\lsoff\\|\\lson": {
+      "Japanese": "\\m[vi]俺は周りを見ないで景色を眺めてるからさ、何か<br>とっっっっっっても危険なものにぶつかりそうに<br>なったら教えてくれよ！\\m[wait]\\lsoff\\|\\lson"
+    },
+    "\\m[clear](WOAH WOAH WOAH WOAH WOAH)": {
+      "Japanese": "\\m[clear]（うわっ、おお、おおお、おお～～～）"
+    },
+    "\\m[clear](You don't know what that floating water does, but it feels dangerous!!!)": {
+      "Japanese": "\\m[clear]（その浮かんでいる水が何なのかはわからなかったが、危険なものだと<br>感じた！）"
+    },
+    "(You keep Isabeau from running into them.)": {
+      "Japanese": "（突っ込んでいくイザボーを抑える）"
+    },
+    "\\m[vm]Huh?": {
+      "Japanese": "\\m[vm]は？"
+    },
+    "\\m[vb]Hah?": {
+      "Japanese": "\\m[vb]んん？"
+    },
+    "\\m[vi]\\shakeWAH!\\resetshake\\!\\ Wh-what?\\!\\ What is it???": {
+      "Japanese": "\\m[vi]\\shakeうわっ！\\resetshake\\!な、何だ？\\!これは何だ？？？"
+    },
+    "Is it the water?\\!\\ Should I... not touch <br>\nthe weird floating water?": {
+      "Japanese": "水なのか？\\!この…奇妙な浮かぶ水に触れちゃいけないのか？"
+    },
+    "\\m[vo]We've seen it in the previous hallway, didn't we?\\!\\ I wonder what it is...": {
+      "Japanese": "\\m[vo]ここまでの廊下でもそれをみたでしょう？\\!何なのかはわからないけれど…"
+    },
+    "\\m[vb]Oh, wait, I've heard about those!": {
+      "Japanese": "\\m[vb]いや、待って、聞いたことがあるよ！"
+    },
+    "\\m[vi]Wait, so I almost \\shakeDIED?!?": {
+      "Japanese": "\\m[vi]待ってくれ、じゃあ俺は危うく\\shake死ぬところだったの<br>か！？"
+    },
+    "\\m[vo]Maybe you should pay more attention, distracted one.": {
+      "Japanese": "\\m[vo]あなたはもっと気をつけるべきね。"
+    },
+    "\\m[vi]I'm keeping my eyes open for all threats except the ones in front of me!": {
+      "Japanese": "\\m[vi]俺はあらゆる脅威に備えていたぞ。真正面にあるもの以外はな！"
+    },
+    "\\m[vm]We should be more careful...\\!\\ We wouldn't want to touch those!": {
+      "Japanese": "\\m[vm]もっと気をつけないと…\\!これに触るわけにはいかないわ！"
+    },
+    "\\m[vb]Also, also!\\!\\ I also heard that being frozen makes you go to sleep, and gives you a super good dream!": {
+      "Japanese": "\\m[vb]あ、あとね！\\!凍りついちゃうとぐっすり<br>眠っちゃって、すっごくいい夢が見られるらしい<br>んだ！"
+    },
+    "\\m[clear](Oh?)": {
+      "Japanese": "\\m[clear]（へえ？）"
+    },
+    "\\m[vi]Oh?": {
+      "Japanese": "\\m[vi]ほう？"
+    },
+    "\\m[vm]Oh?": {
+      "Japanese": "\\m[vm]え？"
+    },
+    "\\m[vo]Oh...\\!\\ Did you hear this from the people in Dormont, too?": {
+      "Japanese": "\\m[vo]ふむ…\\!それはドルモンの人たちから聞いたのかしら？"
+    },
+    "\\m[vb]Ah,\\!\\ um...": {
+      "Japanese": "\\m[vb]あー、\\!えっと…"
+    },
+    "Um...\\!\\ A nice lady told me that when she heard my sister got frozen...": {
+      "Japanese": "その…\\!妹が凍らされたって、優しい女性から聞いて…"
+    },
+    "\\m[clear](Oh!!!)": {
+      "Japanese": "\\m[clear]（えっ！！）"
+    },
+    "\\m[vi]OH!": {
+      "Japanese": "\\m[vi]ほう！"
+    },
+    "\\m[vm]OH!!!": {
+      "Japanese": "\\m[vm]まあ！"
+    },
+    "\\m[vo]Oh...": {
+      "Japanese": "\\m[vo]ああ…"
+    },
+    "\\m[vb]I-I know it's not true!!!\\!\\ I'm not stupid!!!": {
+      "Japanese": "\\m[vb]ほ、本当じゃないってわかってるよ！\\!バカじゃないんだから！"
+    },
+    "Just...\\!\\ It would be nice...\\!\\ If that was true.": {
+      "Japanese": "ただ…\\!本当だったら…\\!良かったなって。"
+    },
+    "So...": {
+      "Japanese": "だから…"
+    },
+    "...": {
+      "Japanese": ""
+    },
+    "So you should touch the weird frozen water and be frozen and let me know how it goes!": {
+      "Japanese": "だから、奇妙な凍った水に触って、どうなったか教えてよ！"
+    },
+    "\\m[vi]Pass...": {
+      "Japanese": "\\m[vi]遠慮するよ…"
+    },
+    "\\m[vm]Well, we might still need to go this way, so...\\!\\ We should look around and find if there's a way to make those disappear!": {
+      "Japanese": "\\m[vm]まあ、まだこっちに進むべきかもしれないから…\\!付近を見て回って、こいつを消す方法がないかを探してみましょう！"
+    },
+    "\\m[clear](You do have this Crest though...)": {
+      "Japanese": "\\m[clear]（この紋章はあるけれど…）"
+    },
+    "\\m[clear](The door is locked tight.)": {
+      "Japanese": "\\m[clear]（しっかりと鍵がかかっている。）"
+    },
+    "(The lock keeping it closed has an interesting shape...\\!\\ It doesn't have a hole for a key..)": {
+      "Japanese": "（扉の鍵は面白い形をしている…\\!鍵を入れるための穴がない…）"
+    },
+    "\\m[vb]What's this room, though?": {
+      "Japanese": "\\m[vb]この部屋は何なんだろう？"
+    },
+    "\\m[vm]I think it may be a storage room...?": {
+      "Japanese": "\\m[vm]物置じゃないかなって思うんだけど…"
+    },
+    "I often saw Dormont's shopkeeper go there, he might know the openphrase for it!": {
+      "Japanese": "ドルモンの店員さんがよく行ってるのを見かけたか<br>ら、開け方も知ってるかも！"
+    },
+    "If we...\\!\\ Had remembered to ask.": {
+      "Japanese": "あの時…\\!聞いておけばよかったね。"
+    },
+    "\\m[vb]Oh.": {
+      "Japanese": "\\m[vb]あーあ。"
+    },
+    "\\m[vi]Well, too late now, right?": {
+      "Japanese": "\\m[vi]もう手遅れだろう？"
+    },
+    "(It's locked by one of those weird word locks.)": {
+      "Japanese": "（変わったワードロックで施錠されている）"
+    },
+    "\\m[clear](...)\\!\\": {
+      "Japanese": "\\m[clear](...)\\!\\"
+    },
+    "\\m[clear](You say the word \"Change\" aloud.)": {
+      "Japanese": "\\m[clear]（大声で「変われ」と言った）"
+    },
+    "(Nothing happens.)": {
+      "Japanese": "（何も起こらない）"
+    },
+    "\\m[vm]Worth a try!": {
+      "Japanese": "\\m[vm]試してみる価値はあるわ！"
+    },
+    "\\m[clear](You leave the door alone.)": {
+      "Japanese": "\\m[clear]（扉をそのままにしておいた）"
+    },
+    "\\m[clear](There's a key laying on the floor.)": {
+      "Japanese": "\\m[clear]（床に鍵が転がっている。）"
+    },
+    "(Could it be the key to open the door?\\!\\ Probably, right?)": {
+      "Japanese": "（あの扉を開くための鍵だったり？\\!たぶん、そうだよね？）"
+    },
+    "(You pick it up.)": {
+      "Japanese": "（あなたは鍵を拾いあげた。）"
+    },
+    "\\m[clear](You found the CIRCLE KEY!)": {
+      "Japanese": "\\m[clear]（輪の鍵を見つけた！）"
+    },
+    "(The keychain dangling from it is shaped like a circle inside a circle inside a circle...)": {
+      "Japanese": "（鍵からぶら下がるキーチェーンには輪っかがあり、その輪っかの内側<br>\nに、もう一つ、内側に輪っかを収めた輪っかがぶら下がっている…）"
+    },
+    "\\m[vm]The design on the keychain, you mean?": {
+      "Japanese": "\\m[vm]そのキーチェーンのこと？"
+    },
+    "It's one of the symbols of the House of Change belief!": {
+      "Japanese": "それは変化の家の信条を表すシンボルの一つよ！"
+    },
+    "It's to show that we are all part of something bigger!\\!\\ The first circle is inside the bigger circle, which is also inside a bigger circle!": {
+      "Japanese": "私たち一人一人が、より大きな何かの一つであることを示しているの！\\!まんなかの輪っかは一番小さくて<br>\nも、それより大きな輪っかの中にあって、その輪っかは更に大きな輪っかの中にあるの。"
+    },
+    "\\m[vi]It's also part of a Housemaiden's uniform!": {
+      "Japanese": "\\m[vi]メイドのユニフォームにも取り入れられているシンボルなのよ！"
+    },
+    "\\m[vb]Like Belle's brooch!": {
+      "Japanese": "\\m[vb]ミラベルのブローチにも入ってるよね！"
+    },
+    "\\m[vm]Yes!\\!\\ This is how I decided to wear it, but you can wear it however you want-\\!\\ as a necklace, a design on your clothes...": {
+      "Japanese": "\\m[vm]ええ！\\!私の場合はブローチね、シンボルを携帯する場所や方法は自由よ。\\!例えば、ネックレスや服のデザインの一部にしたり…"
+    },
+    "Or not at all!\\!\\ Breaking traditions is also part of the Change belief!": {
+      "Japanese": "または、そもそもシンボルを持たないとかね！\\!伝統で決められたこと以外をするのもまた変化の信条よ！"
+    },
+    "\\m[vo]And the teardrops on your brooch?": {
+      "Japanese": "\\m[vo]じゃあブローチについてるティアドロップは？"
+    },
+    "\\m[vm]Pretty.\\!\\ Goes \"ding ding\" when I walk.": {
+      "Japanese": "\\m[vm]かわいいじゃない。\\!歩くと「ディン、ディン」って鳴るのよ。"
+    },
+    "\\m[vi]Don't you love it when things go \"ding ding\" when you walk...": {
+      "Japanese": "\\m[vi]歩くときに「ディン、ディン」って鳴るのいいよな…"
+    },
+    "\\m[vo]Sure do.": {
+      "Japanese": "\\m[vo]まったく同感だわ。"
+    },
+    "\\m[vm]It's inside your hands, Siffrin!": {
+      "Japanese": "\\m[vm]あなたの手の中よ、シフリン！"
+    },
+    "And you're inside this room...": {
+      "Japanese": "それに今、あなたはこの部屋の中にいて…"
+    },
+    "Which is inside the House,\\!\\ which is inside Dormont,\\!\\ inside Vaugarde,\\!\\ inside this world...": {
+      "Japanese": "つまり、家の中、\\!ドルモンの中、\\!ヴァウガーデの中、\\!そしてこの世界の中…"
+    },
+    "Which is here!": {
+      "Japanese": "つまり、ここよ！"
+    },
+    "\\m[clear](She points at the smallest circle on the keychain.)": {
+      "Japanese": "\\m[clear]（彼女はキーチェーンに下がった、一番小さな輪を指差した。）"
+    },
+    "\\m[vm]It's to remind us that as much as we change, we are still a part of this world...\\!\\ And we must all do our part to make it a wonderful place!": {
+      "Japanese": "\\m[vm]私たちが変わり続ける限り、私たちはこの世界の一部だということ…\\!私たち皆がそれぞれこの世界をより良いものへと変えていかなきゃいけないということを示しているのよ！"
+    },
+    "\\m[vm]No, silly!\\!\\ What would it be inside of?": {
+      "Japanese": "\\m[vm]もう、バカね！\\!世界より大きなものなんて何がある<br>\nの？"
+    },
+    "\\m[vm]Exactly!\\!\\ Hehe!": {
+      "Japanese": "\\m[vm]ほらね！\\!フフッ！"
+    },
+    "\\m[vo]Well, thank you for this little art lesson.\\!\\ Let's get going.": {
+      "Japanese": "\\m[vo]芸術の授業はここまでにしておきましょう。\\!先を急ぐわよ。"
+    },
+    "\\m[clear](You nod.)": {
+      "Japanese": "\\m[clear]（あなたはうなずいた。）"
+    },
+    "\\m[clear](It's fine.)": {
+      "Japanese": "\\m[clear]（問題ない。）"
+    },
+    "\\m[clear](There's a House to explore.)": {
+      "Japanese": "\\m[clear]（まだまだ家を探索しなくては。）"
+    },
+    "(You put the Key in your Pocket.)": {
+      "Japanese": "（あなたは鍵をポケットに入れた）"
+    },
+    "\\m[clear](There's something sparkling there...)": {
+      "Japanese": "\\m[clear]（あそこで何かがきらめている…）"
+    },
+    "\\m[vtuto][You can interact with any object by pressing \\v[376] when standing in front of it!]\\m[rb]": {
+      "Japanese": "\\m[vtuto][オブジェクトの前に立って \\v[376] でインタラクトできますよ！]\\m[rb]"
+    },
+    "\\m[clear](A kitchen closet.)": {
+      "Japanese": "\\m[clear]（キッチン棚だ）"
+    },
+    "(You open it...)": {
+      "Japanese": "（あなたはそれを開けた…）"
+    },
+    "\\m[clear](You found the EGG KEY!)": {
+      "Japanese": "\\m[clear]（卵の鍵を見つけた！）"
+    },
+    "(The keychain dangling from it is shaped like an egg...)": {
+      "Japanese": "（ぶら下がっているキーホルダーが、卵のような形をしている…）"
+    },
+    "\\m[vb]An egg?": {
+      "Japanese": "\\m[vb]卵？"
+    },
+    "\\m[clear](Bonnie is making grabby hands.)": {
+      "Japanese": "\\m[clear]（ボニーが手渡してほしそうにしている）"
+    },
+    "(You give Bonnie the key.)": {
+      "Japanese": "（あなたはボニーに鍵を渡した）"
+    },
+    "\\m[vi]Ah, so the next key should be a broken egg, right?": {
+      "Japanese": "\\m[vi]ああ、それじゃあ次の鍵は割れた卵だな？"
+    },
+    "\\m[vo]Are eggs important to the Change belief somehow?": {
+      "Japanese": "\\m[vo]卵が、変化の信条にとって何か大事なものなのかし<br>ら？"
+    },
+    "\\m[vm]Yes!\\!\\ An intact egg, and a broken egg!\\!\\ We--": {
+      "Japanese": "\\m[vm]ええ！\\!無傷の卵と、割れた卵！\\!私達は…"
+    },
+    "\\m[vi]We're the egg, getting out of the egg, change also means destruction, blablabla.": {
+      "Japanese": "\\m[vi]俺たちは卵。卵から出る。変化は破壊も意味するってか、ハハハ。"
+    },
+    "\\m[vm]Well, um...\\!\\ Yes, pretty much.": {
+      "Japanese": "\\m[vm]ええと、うん…\\!そう、そうね。"
+    },
+    "\\m[vb]\"Can't make pancakes without breaking a few eggs.\"": {
+      "Japanese": "\\m[vb]「卵を割らずにパンケーキを作ることはできない」"
+    },
+    "\\m[vi]It's \"omelettes\", Bonbon.": {
+      "Japanese": "\\m[vi]それは「オムレツ」だろ。"
+    },
+    "\\m[vb]YOU'RE an omelette, Za.": {
+      "Japanese": "\\m[vb]あんたはオムレツってことだね。"
+    },
+    "\\m[vi]A terrifying rebuttal from the preteen.": {
+      "Japanese": "\\m[vi]子供から痛烈な反論が来るとはな。"
+    },
+    "\\m[vm]And, and!!!": {
+      "Japanese": "\\m[vm]それと、それと！！"
+    },
+    "For every change, something needs to break.\\!\\ Maybe changing yourself will hurt someone.": {
+      "Japanese": "変化のたびに、何かを破壊する必要がある。\\!己を変えることは、誰かを傷つけること。"
+    },
+    "\\m[vi]Maybe changing means leaving a part of yourself behind!": {
+      "Japanese": "\\m[vi]変化というのは、自分の一部を置いていくことを意味するのかもな！"
+    },
+    "\\m[vm]It's to remind us that before changing, <br>\nwe must stop and think about what will be irreparably destroyed.": {
+      "Japanese": "\\m[vm]それは変化の前に、取り返しのつかないことについて立ち止まって考えねばならないということを思い出させてくれる。"
+    },
+    "But destruction is just a part of change, and we must accept it...": {
+      "Japanese": "でも、破壊は変化の一部にすぎない。私達はそれを受け入れなければ…"
+    },
+    "\\m[vi]Yeah!\\!\\ It'd be awful to keep yourself from becoming a person you feel comfortable with just because it would upset someone else.": {
+      "Japanese": "\\m[vi]ああ！\\!誰かを苦しめるかもしれないからといって、自分の楽しさを抑えるように務めるのは最悪さ。"
+    },
+    "\\m[vo]Huh...\\!\\ That's a harsher belief than I thought.": {
+      "Japanese": "\\m[vo]ふむ…\\!それは思ったよりも厳しい信条ね。"
+    },
+    "\\m[clear](Bonnie is still looking at the egg keychain.)": {
+      "Japanese": "\\m[clear]（ボニーはまだ卵のキーホルダーを見つめている）"
+    },
+    "Chomp.": {
+      "Japanese": "ガブッ。"
+    },
+    "\\m[clear](Bonnie tried to take a bite of the keychain.)": {
+      "Japanese": "\\m[clear]（ボニーはキーホルダーに噛みついてみた）"
+    },
+    "Chomp chomp.": {
+      "Japanese": "むしゃむしゃ。"
+    },
+    "\\m[vo]It's carved out of stone, Boniface.": {
+      "Japanese": "\\m[vo]それは石でできているのよ。"
+    },
+    "\\m[vm]Maybe the keychain had a secret, madame!": {
+      "Japanese": "\\m[vm]キーホルダーに秘密があるかもしれないわ、マダム。"
+    },
+    "\\m[vo]Uh huh.": {
+      "Japanese": "\\m[vo]ふーむ。"
+    },
+    "\\m[vb]Stupid crabbing rock.": {
+      "Japanese": "\\m[vb]タダのなんでもない岩だね。"
+    },
+    "\\m[clear](Bonnie gives you back the key.)": {
+      "Japanese": "\\m[clear]（ボニーはあなたに鍵を返した）"
+    },
+    "(...It's sticky...)": {
+      "Japanese": "（…ベタベタしている…）"
+    },
+    "\\m[clear](There's nothing more to be found.)": {
+      "Japanese": "\\m[clear]（もう何も見つからないようだ）"
+    },
+    "\\m[clear](A pot filled with bubbling food, frozen in time.)": {
+      "Japanese": "\\m[clear]（泡立つ料理で満たされた鍋が、凍りついている）"
+    },
+    "(The steam is frozen in midair.)": {
+      "Japanese": "（蒸気が空中で凍っている）"
+    },
+    "\\m[vb]So, what's inside?": {
+      "Japanese": "\\m[vb]何には何が？"
+    },
+    "\\m[vo]Ah...": {
+      "Japanese": "\\m[vo]あー…"
+    },
+    "Looks like they were cooking crab.": {
+      "Japanese": "カニを調理しているみたいね。"
+    },
+    "\\m[vb]\\{WHAT ": {
+      "Japanese": "\\m[vb]\\{えええ"
+    },
+    "\\m[vm]\\{EEK!!!": {
+      "Japanese": "\\m[vm]\\{ホント！！！"
+    },
+    "\\m[vi]\\{CRAB?!??!!???!???!???!": {
+      "Japanese": "\\m[vi]\\{カニ！？！！？？！？！？！"
+    },
+    "\\m[vo]Wh-what's happening?": {
+      "Japanese": "\\m[vo]ど、どうしたの？"
+    },
+    "\\m[vb]SOMEONE WAS COOKING CRAB???": {
+      "Japanese": "\\m[vb]誰かがカニを料理してたの？？？"
+    },
+    "\\m[vm]IN A HOUSE OF CHANGE OF ALL PLACES!!!!!!": {
+      "Japanese": "\\m[vm]変化の家のいたるところで！！！"
+    },
+    "\\m[vb]FOOD TASTED LIKE CRAB!!!\\!\\ BUT LITERALLY!!!!!": {
+      "Japanese": "\\m[vb]食事はカニみたいな味がした！！\\!でもほんとにカニ<br>が！！！"
+    },
+    "\\m[vi]WHY WOULD SOMEONE DO THIS": {
+      "Japanese": "\\m[vi]どうしてこんなことを"
+    },
+    "\\m[vo]I, um...": {
+      "Japanese": "\\m[vo]えっと、その…"
+    },
+    "\\m[clear](Odile looks at you with question marks in her eyes.)": {
+      "Japanese": "\\m[clear]（オディールが疑問符を浮かべながらあなたを見る）"
+    },
+    "\\m[clear](What's wrong with crab?\\!\\ It's tasty, but they all seem very upset.)": {
+      "Japanese": "\\m[clear]（カニの何がおかしいんだろう？\\!美味しいけど、みんなとても慌ててるようにみえる）"
+    },
+    "(You shrug at Odile.)": {
+      "Japanese": "（あなたはオディールに肩をすくめた）"
+    },
+    "\\m[vo]...I am very confused.\\!\\ Is this a Vaugardian thing?": {
+      "Japanese": "\\m[vo]…よくわからないのだけど。\\!これはヴァウガーデのものなの？"
+    },
+    "\\m[vi]Please don't tell me you eat crabs in Ka Bue I don't think I could handle it...": {
+      "Japanese": "\\m[vi]頼むから、カ・ブーでカニを食べるなんて言わないでくれよ…"
+    },
+    "\\m[vo]No, not really, but we don't...\\!\\ Have such an aversion to them...": {
+      "Japanese": "\\m[vo]い、いいえ、そんなことは…でも…\\!そんなに嫌がるなんて…"
+    },
+    "Hm.\\!\\ Okay.\\!\\ Wait.\\!\\ Is it.\\!\\ Is this like dolphins.": {
+      "Japanese": "うーん。\\!よし。\\!待って。\\!これ。\\!イルカみたいでしょ？"
+    },
+    "\\m[vi]What about them?": {
+      "Japanese": "\\m[vi]それがどうしたんだ？"
+    },
+    "\\m[vo]In Ka Bue, we don't like dolphins.\\!\\ Something about them being too smart.": {
+      "Japanese": "\\m[vo]カ・ブーでは、イルカは嫌われてるの。\\!なんだか、賢すぎるような気がするから。"
+    },
+    "Are...\\!\\ crabs...\\!\\ smart?": {
+      "Japanese": "それで…\\!カニは…\\!賢い？"
+    },
+    "\\m[vb]No, they're stupid and don't even walk right.": {
+      "Japanese": "\\m[vb]ううん、カニはバカだよ。真っすぐ歩けないし。"
+    },
+    "\\m[vi]Crabs just look weird I think?\\!\\ I've never actually thought about it.": {
+      "Japanese": "\\m[vi]カニは変に見えるだけだと思うけどな？\\!まあ、きちんと考えたことなんてないが。"
+    },
+    "I thought it was like spiders!!!\\!\\ Every human thinks spiders look scary!!!": {
+      "Japanese": "俺はクモみたいだと思ったぞ！\\!人間はみんなクモを怖いと思ってる！！"
+    },
+    "\\m[vb]Haha, \\waveZa's afraid of spiiideeeers!": {
+      "Japanese": "\\m[vb]ハハ、\\waveザーはクモが怖いんだ！"
+    },
+    "\\m[vi]N-no!!!\\!\\ I'm a big strong man!!!": {
+      "Japanese": "\\m[vi]ち、違う！\\!俺はデカくて強い男だ！！"
+    },
+    "\\m[vo]So, crabs are weird and don't walk right, okay.": {
+      "Japanese": "\\m[vo]ともあれ、カニは奇妙で、真っすぐ歩けない。いいわね。"
+    },
+    "\\m[vm]A-and...\\!\\ they're\\!\\ \\lspi[50]\\shakeINEVITABLE.": {
+      "Japanese": "\\m[vm]そ、それから…\\!カニは\\!\\lspi[50]\\shake避けられない。"
+    },
+    "\\m[vo]Uh huh\\..\\..\\..": {
+      "Japanese": "\\m[vo]ふーむ。\\..\\..\\.."
+    },
+    "I still don't understand anything.": {
+      "Japanese": "まだ何もよくわからないわ。"
+    },
+    "\\m[clear](You also still don't understand anything.)": {
+      "Japanese": "\\m[clear]（あなたもまだ何もよくわかっていない）"
+    },
+    "(Vaugarde is weird.)": {
+      "Japanese": "（ヴァウガーデは奇妙だ）"
+    },
+    "\\m[clear](Crabs are pretty tasty though...)": {
+      "Japanese": "\\m[clear]（カニはとても美味しいけど…）"
+    },
+    "(But you don't think you should say this aloud.)": {
+      "Japanese": "（ただ、それを大声で言うべきだとは思わない）"
+    },
+    "\\m[clear](Condiments and spices.)": {
+      "Japanese": "\\m[clear]（調味料と香辛料だ）"
+    },
+    "(Oh, and...)": {
+      "Japanese": "（あっ、それから…）"
+    },
+    "\\m[clear](You got one PEPPER JUICE!)": {
+      "Japanese": "\\m[clear]（ペッパージュースを1つ手に入れた！）"
+    },
+    "\\m[clear](You got one GINGER JUICE!)": {
+      "Japanese": "\\m[clear]（ジンジャージュースを1つ手に入れた！）"
+    },
+    "\\m[clear](You got one THYME JUICE!)": {
+      "Japanese": "\\m[clear]（ハッカジュースを1つ手に入れた！）"
+    },
+    "(You give them all to Bonnie for safekeeping.)": {
+      "Japanese": "（すべてボニーに渡して保管してもらった）"
+    },
+    "\\m[clear](Nothing else interesting.)": {
+      "Japanese": "\\m[clear]（他にはもう何もない）"
+    },
+    "\\m[clear](A sink and some kitchen utensils.)": {
+      "Japanese": "\\m[clear]（シンクとキッチン用品だ）"
+    },
+    "\\m[vb]HERE!!!": {
+      "Japanese": "\\m[vb]ここだ！"
+    },
+    "\\m[vm]Wh-what?\\!\\ What is it???": {
+      "Japanese": "\\m[vm]な、何？\\!それは何なの？"
+    },
+    "\\m[vb]WOK.": {
+      "Japanese": "\\m[vb]中華鍋だよ。"
+    },
+    "\\m[clear](Bonnie points to a big, thin cooking pot.)": {
+      "Japanese": "\\m[clear]（ボニーは大きくて薄い調理鍋を指さした）"
+    },
+    "\\m[vo]Wok?": {
+      "Japanese": "\\m[vo]中華鍋？"
+    },
+    "\\m[vi]Wok...": {
+      "Japanese": "\\m[vi]中華鍋…"
+    },
+    "\\m[vm]Yes, that's...\\!\\ A wok.": {
+      "Japanese": "\\m[vm]うん、そう…\\!中華鍋。"
+    },
+    "\\m[vb]\\{\\waveWOK!!!!!!!!!": {
+      "Japanese": "\\m[vb]\\{\\wave中華鍋！！！！！！！！"
+    },
+    "\\m[clear](You got the WOK!)": {
+      "Japanese": "\\m[clear]（中華鍋を手に入れた！）"
+    },
+    "(You give the Wok to Bonnie to equip later.)": {
+      "Japanese": "（後で中華鍋をボニーに渡そう。）"
+    },
+    "\\m[clear](The wall, wok-less.)": {
+      "Japanese": "\\m[clear]（壁だ。中華鍋もない）"
+    },
+    "\\m[clear](It's a pile of plates.)": {
+      "Japanese": "\\m[clear]（皿が山と積まれている）"
+    },
+    "\\m[vi]SO TALL!!!": {
+      "Japanese": "\\m[vi]すごく高いな！"
+    },
+    "\\m[vb]WHY IS IT SO TALL!!!": {
+      "Japanese": "\\m[vb]どうしてこんなに高いの！！"
+    },
+    "\\m[vm]Oh!": {
+      "Japanese": "\\m[vm]ああ！"
+    },
+    "I-it's just how the House's cook likes it!": {
+      "Japanese": "こ、これは家の料理人の趣味なの！"
+    },
+    "He always used to say...\\!\\ \"If we stack plates super high,\\!\\ then the meals we put on it are sure to reach divine status!!!\"": {
+      "Japanese": "彼は口癖のように言っていたわ…\\!「もし皿をすごく高く重ねれば、\\!その上に載せた料理は神の域に達<br>する！！」と。"
+    },
+    "\\m[clear](You go \"ooooh\" along with Isabeau.)": {
+      "Japanese": "\\m[clear]（あなたはイザボーと一緒に「おおおお」と言った）"
+    },
+    "\\m[vo]Urgh.": {
+      "Japanese": "\\m[vo]あー。"
+    },
+    "\\m[vi]Why not, right!\\!\\ How was the food?": {
+      "Japanese": "\\m[vi]それはそれとして！\\!料理はどうだったんだ？"
+    },
+    "...\\!\\m[wait]Room for improvement...": {
+      "Japanese": "…\\!\\m[wait]改良の余地ありって感じ…"
+    },
+    "\\m[vo]Heh.\\!\\ For our kind gentle Mirabelle to say this...": {
+      "Japanese": "\\m[vo]ふふ。\\!\\お優しいミラベルがこんな風に言うなんてね…"
+    },
+    "\\m[vb]Ha, ha!!!\\!\\ Food tasted like crab!!!": {
+      "Japanese": "\\m[vb]ハ、ハ！！\\!カニみたいな味がした！！！"
+    },
+    "\\m[clear](A flyer for the Dormont boulangerie.)": {
+      "Japanese": "\\m[clear]（ドルモン・ブーランジェリーの広告だ）"
+    },
+    "(\"\\fiDormont's Mignonne Boulangerie.\\!\\ Bread 20% off every Saturday!\\fi\")": {
+      "Japanese": "（「\\fiドルモン・ミニョン・ブーランジェリー。\\!毎週土曜日、<br>パン20%オフ！\\fi」）"
+    },
+    "(\"\\fiBecause we \\WaveLOAF\\ResetShake you almost as much as you \\WaveLOAF\\ResetShake our bread!!!\\fi\")": {
+      "Japanese": "（「\\fi私達は、皆様が私たちのパンについて\\Wave想って\\ResetShakeくださるのと同じ<br>くらい、皆様を\\Wave想って\\ResetShakeいます！」）\\fi"
+    },
+    "\\m[vm]Hmm...": {
+      "Japanese": "\\m[vm]うーん…"
+    },
+    "\\m[vb]Urgh.": {
+      "Japanese": "\\m[vb]あー。"
+    },
+    "\\m[vo]Bad.": {
+      "Japanese": "\\m[vo]ダメね。"
+    },
+    "\\m[vi]Heh...": {
+      "Japanese": "\\m[vi]はあ…"
+    },
+    "Hey, Sif.": {
+      "Japanese": "なあ、シフ。"
+    },
+    "\\m[clear](You look at Isabeau.)": {
+      "Japanese": "\\m[clear]（あなたはイザボーを見た）"
+    },
+    "\\m[vi]...\\!Considering how much bread we bought from them for dinner yesterday...": {
+      "Japanese": "\\m[vi]…\\!昨日の夕飯に買ったパンの数を考えてたんだ…"
+    },
+    "\\m[vo]No.": {
+      "Japanese": "\\m[vo]ダメ。"
+    },
+    "\\m[vm]NO!": {
+      "Japanese": "\\m[vm]ダメ！"
+    },
+    "\\m[vb]NOT ALLOWED!!!!": {
+      "Japanese": "\\m[vb]ダメだよ！！！！"
+    },
+    "\\m[vi]AHAHAHAHAHAHA!!!": {
+      "Japanese": "\\m[vi]アッハハハハ！！！"
+    },
+    "Yes.\\!\\ Teamwork.": {
+      "Japanese": "そうだな。\\!チームワークだ。"
+    },
+    "\\m[clear](Yay!)": {
+      "Japanese": "\\m[clear]（イェイ！）"
+    },
+    "(A flyer for the Dormont boulangerie.)": {
+      "Japanese": "（ドルモン・ブーランジェリーの広告だ）"
+    },
+    "\\m[clear](You got one SUPER SOUR TONIC!)": {
+      "Japanese": "\\m[clear]（スーパーサワートニックを1つ手に入れた！）"
+    },
+    "\\m[clear](Ow!)": {
+      "Japanese": "\\m[clear]（いたっ！）"
+    },
+    "(You hit your hip into the counter and made an embarassing sound.)": {
+      "Japanese": "（カウンターに腰を打ち付け、恥ずかしい声を出してしまった）"
+    },
+    "\\m[vi]OH?": {
+      "Japanese": "\\m[vi]え？"
+    },
+    "\\m[vo]Siffrin.\\!\\m[wait] Did you really hit the counter and say \"nya\".": {
+      "Japanese": "\\m[vo]シフリン。\\!\\m[wait]カウンターにぶつかって「ニャ」って言わなかった？"
+    },
+    "\\m[vs](You did.)\\!\\": {
+      "Japanese": "\\m[vs]（言ったよね）\\!\\"
+    },
+    "\\m[vo]Okay, nya.": {
+      "Japanese": "\\m[vo]まあいいニャ。"
+    },
+    "\\m[vi]\\{MADAME?": {
+      "Japanese": "\\m[vi]\\{マダム？"
+    },
+    "\\m[clear](Cookies.)": {
+      "Japanese": "\\m[clear]（クッキーだ）"
+    },
+    "(They're frozen in time.)": {
+      "Japanese": "（時と共に止まっている）"
+    },
+    "\\m[clear](You feel like you can save your game at any time now.)": {
+      "Japanese": "\\m[clear]（今ならいつでもセーブできるような気がする。）"
+    },
+    "\\m[clear](Huh?)": {
+      "Japanese": "\\m[clear]（え？）"
+    },
+    "\\m[vmnp]\\}--frin!": {
+      "Japanese": "\\m[vmnp]\\}--フリン！"
+    },
+    "\\m[vmnp]\\waveSiffrin!": {
+      "Japanese": "\\m[vmnp]\\waveシフリン！"
+    },
+    "\\m[vmnp]...Siffrin?": {
+      "Japanese": "\\m[vmnp]…シフリン？"
+    },
+    "\\m[vm]Good morning!": {
+      "Japanese": "\\m[vm]おはよう！"
+    },
+    "Well, more like, good afternoon, I guess...": {
+      "Japanese": "…っていっても、もう日中なんだけどね…"
+    },
+    "Were you taking a nap?\\!\\ That's just like you...\\!\\ Only you could sleep peacefully at a time like this, hehe!": {
+      "Japanese": "昼寝してたの？\\!あなたらしいわね…\\!こんなときでもいつものように昼寝できるのもすごいわね、フフッ！"
+    },
+    "I guess that's smart...\\!\\ We better get <br>\nsome rest while we can!\\!\\ We have to be ready for tomorrow...": {
+      "Japanese": "それはそれで正しい行動なのかもね…\\!今はできるだけ体力を回復させないと！\\!心も体も休めて明日に備えないとね…"
+    },
+    "So we can finally face against the King!": {
+      "Japanese": "王様に立ち向かうためにね！"
+    },
+    "\\m[vs]\\m[wait]\\^": {
+      "Japanese": ""
+    },
+    "\\m[vm]...\\!You're still half asleep, aren't you?": {
+      "Japanese": "\\m[vm]…\\!ひょっとして、まだ寝ぼけてる？"
+    },
+    "\\m[clear](You just look at her.)": {
+      "Japanese": "\\m[clear]（あなたは何も言わず彼女を見つめた。）"
+    },
+    "\\m[vm]Hm...\\!\\ Okay, then...": {
+      "Japanese": "\\m[vm]うーん…\\!もう少し寝てた方がいいかもね…"
+    },
+    "You can sleep for a little longer, but not too long!\\!\\ Come to the village when you're ready, okay?": {
+      "Japanese": "でも眠りすぎもダメだからね！\\!準備ができたら村のほうに来て、待ってるからね？"
+    },
+    "(Huh?)": {
+      "Japanese": "（え？）"
+    },
+    "(HUH?)": {
+      "Japanese": "（は？）"
+    },
+    "(Hold on,\\!\\m[wait]\\^": {
+      "Japanese": "（待って、\\!\\m[wait]\\^"
+    },
+    "\\shake\\{(DID YOU JUST DIE?)": {
+      "Japanese": "\\shake\\{（今さっき、死ななかった？）"
+    },
+    "(You DID, you think!\\!\\ You must have!\\!\\ You were in \nthe House and then a big rock fell \nand now you're in the meadow, back in Dormont, and what Mirabelle just said to you, waking you up, that was, very, familiar???)": {
+      "Japanese": "（死んだ、はず！\\!間違いない！\\!あのとき、大岩が落ちてきたあの家の中にいて、でも、今、ここに、ドルモンの牧草地に戻ってきてて、それにミラベルが自分に言ったことも、起こしてくれたことも、とても、なんなん<br>だ、この奇妙な既視感は？？？）"
+    },
+    "(But aaargh, the trap, the trap!!!\\!\\ You idiot!\\!\\\n You stupid fool!\\!\\ It's your job to take care of traps \nand you got taken out IMMEDIATELY!!!!)": {
+      "Japanese": "（でも、あぁぁ、そうだ、罠だ、罠だったんだ！！！\\!バカだ！\\!大バカだ！\\!罠が無いかを調べるのが役目だったのにまっさきに自分からやられたん<br>だ！！！！）"
+    },
+    "(You didn't even see a glimpse of the King!!!\\!\\ And it's your job, stupid!!!\\!\\ Your job to see ahead, to take care of traps!!!\\!\\ You couldn't even do your job and now you're <br>\nDEAD because you did a SLOPPY AWFUL TERRIBLE JOB,)": {
+      "Japanese": "（王を一目見ることすらもできなかった！！！\\!なんだあのザマは！！！\\!偵察して、罠がないか確かめるのが役目だったのに！！！\\!碌な仕事もこなせずにあっさりと死んだ、この未熟でどうしようもないぐらいに適当な腕前のせいで）"
+    },
+    "(And you DIED!!!\\!\\ YOU DIED!!!!\\!\\ You felt your body being crushed and now you're laying on the grass, alive, and your skin itches and your stomach hurts and you \\shakeDIED!!!!)": {
+      "Japanese": "（死んだ！！！\\!死んだんだ！！！\\!体が潰れてく感触はまだ覚えているの<br>に、今、確かに生きて、草の上に寝っ転がって、でも腹の痛みがあって、でも \\shake確かに死んだんだ！！！！）"
+    },
+    "(You put your hands over your mouth and scream!!!\\!\\ Stars!!!!\\!\\ You’re so stupid and useless and dumb!!!!!!!!!)": {
+      "Japanese": "（あなたは手で口を塞いで、喉が枯れるほどに叫んだ！！！\\!星よ！！！！\\!どうしてあれほどまでの愚かでマヌケなやらかしを！！！！！！！！）"
+    },
+    "\\{\\shake(AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)": {
+      "Japanese": "\\{\\shake（ああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああ）"
+    },
+    "(Okay you're over it now.)": {
+      "Japanese": "（あなたはようやく落ち着いてきた。）"
+    },
+    "(You take a deeeeeeep breath iiiiiiiiin,\\!\\ and ouuuuuuuuuut.)": {
+      "Japanese": "（あなたは深く、ふかーく息を吸い、\\!ゆっくりと吐き出した。）"
+    },
+    "\\wave(Pheeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeew.)": {
+      "Japanese": "\\wave（はぁぁぁぁぁぁぁぁぁぁぁぁぁぁぁぁぁぁぁぁぁぁぁぁ。）"
+    },
+    "(You put your shaking hands behind your back, pressing them hard between you and the grass.)": {
+      "Japanese": "（あなたは未だに震えの収まらない両手を背に回し、草地と体の間に挟んで強く押し付けた。）"
+    },
+    "(Okay, you died, that's one thing.)": {
+      "Japanese": "（まず、自分は一度死んだ。）"
+    },
+    "(And now, you're alive, and not a crêpe, that's another thing.)": {
+      "Japanese": "（次に、今、自分は生きている。頭がイかれたわけじゃない。）"
+    },
+    "(And it's apparently the day before, back when Mirabelle woke you up from your nap, that's the third thing.)": {
+      "Japanese": "（そして、見る限り今はあの日の前日、時間はミラベルが昼寝していた自分を起こしてくれたときだ。）"
+    },
+    "(You went\\!\\m[wait] back in time?)": {
+      "Japanese": "（もしや、\\!\\m[wait] 時間が巻き戻された？）"
+    },
+    "(Okay, that's normal.\\!\\ Totally normal.)": {
+      "Japanese": "（良くあること。\\!そう、良くあることだ。）"
+    },
+    "(Totally one hundred percent completely normal.)": {
+      "Japanese": "（疑っても意味がない以上、受け入れよう。良くあることなんだ。）"
+    },
+    "(...\\!Oh well,\\!\\ at least you were in the lead as always.)": {
+      "Japanese": "（…\\!でも、\\!いつものように皆の先頭を進んでいたのは幸いだった。）"
+    },
+    "(Judging by where you were when you died, you were probably the only one who got hit.\\!\\ The only one that...)": {
+      "Japanese": "（死んだ位置から判断するなら、あのとき、誰も死ななかった可能性が高い。\\!そう、自分以外は、ね…）"
+    },
+    "(In a way, you're REALLY glad you're forced to take the lead every time you and everyone else get somewhere dangerous.)": {
+      "Japanese": "（皆が危険な場所に向かう際には、必ず自分から率先して皆の前を進むことにしていてほんとうに良かった。）"
+    },
+    "(But...\\!\\m[wait] You're back.\\!\\ Back to the day before you went to the House.)": {
+      "Japanese": "（でも…\\!\\m[wait] 戻ってきた。\\!あの日に、あの家へと向かう前日に。）"
+    },
+    "\\m[wait](...How?)": {
+      "Japanese": "\\m[wait]（…でも、どうやって？）"
+    },
+    "(And why?)": {
+      "Japanese": "（それに、なぜ？）"
+    },
+    "(And...\\!\\m[wait] Can you make sure to not die this time?)": {
+      "Japanese": "（それに…\\!\\m[wait] 今回は死なない保証なんてあるのか？）"
+    },
+    "\\m[wait](Back to work, Siffrin.\\!\\m[wait] You have a country to save.)": {
+      "Japanese": "\\m[wait]（それでも、行かないと。\\!\\m[wait] 国を、皆を救うために。）"
+    },
+    "\\m[clear](You got a MEMORY OF LOOPING!)": {
+      "Japanese": "\\m[clear]（ループの記憶を獲得しました！）"
+    },
+    "(You'll always remember this.)": {
+      "Japanese": "（これはあなたの記憶から消えない。）"
+    },
+    "\\m[vm]A Sadness?!": {
+      "Japanese": "\\m[vm]ナゲキ！？"
+    },
+    "\\m[vi]Aw, poor buddy lost its friends!": {
+      "Japanese": "\\m[vi]かわいそうに、友達をなくしたんだ！"
+    },
+    "\\m[vb]Woah, this one feels weird.": {
+      "Japanese": "\\m[vb]わあ、なんだか変な感じだね。"
+    },
+    "\\m[vo]Boniface, it may look different, but it's still a Sadness like all the ones we've seen before.": {
+      "Japanese": "\\m[vo]見た目は違うかもしれないけど、今までと同じナゲキなんだ。"
+    },
+    "\\m[vb]Still feels weird.": {
+      "Japanese": "\\m[vb]まだ変な感じ。"
+    },
+    "\\m[vi]I believe the preteen when it comes to <br>\nthe Sadness' weirdness, m'dame.": {
+      "Japanese": "\\m[vi]マダム、俺はこいつの、ナゲキが奇妙だって感覚を信じるぞ。"
+    },
+    "\\m[vo]Let's get the weird Sadness, then...": {
+      "Japanese": "\\m[vo]じゃあ、その奇妙なナゲキを倒してみましょ…"
+    },
+    "\\m[clear](The Sadness left something behind when it dissolved...)": {
+      "Japanese": "\\m[clear]（ナゲキは溶ける時に何かを残していった…）"
+    },
+    "\\m[clear](You got the STAR CREST!)": {
+      "Japanese": "\\m[clear]（星の紋章を手に入れた！）"
+    },
+    "(You put the Star Crest in your Pocket.)": {
+      "Japanese": "（あなたは星の紋章をポケットに入れた）"
+    },
+    "\\m[vi]A crest...?": {
+      "Japanese": "\\m[vi]紋章…？"
+    },
+    "\\m[vb]Feels weird too.": {
+      "Japanese": "\\m[vb]これも変な感じだね。"
+    },
+    "Like the Tear we passed by earlier.": {
+      "Japanese": "さっき通り抜けてきたナミダみたい。"
+    },
+    "Like the Tears we just saw.": {
+      "Japanese": "さっき見たナミダみたい。"
+    },
+    "\\m[vo]Okay...": {
+      "Japanese": "\\m[vo]なるほど…"
+    },
+    "\\m[vm]Hm...\\!\\ Maybe this crest can help us clear the way...?": {
+      "Japanese": "\\m[vm]うーん…\\!この紋章が道を拓くのに役立つのかも…？"
+    },
+    "\\m[vm]Hm...\\!\\ Maybe it'll be useful later?": {
+      "Japanese": "\\m[vm]えっと…\\!後で役立つかも？"
+    },
+    "\\m[clear](A hole in the wall.)": {
+      "Japanese": "\\m[clear]（壁に穴があいている）"
+    },
+    "(The hole doesn't really bring anywhere.)": {
+      "Japanese": "（穴はどこにもつながっていないようだ）"
+    },
+    "\\n<\\v[46]>\\m[vman]Ahoy, traveling one!": {
+      "Japanese": "\\n<\\v[46]>\\m[vman]なんと、旅行者か！"
+    },
+    "\\n<\\v[46]>Oh!\\!\\ You're with Mirabelle and the lady with the glasses, I recognize you!": {
+      "Japanese": "\\n<\\v[46]>おお！\\!ミラベルと眼鏡の女と一緒か、知ってるぞ！"
+    },
+    "\\n<\\v[46]>Can you believe Mirabelle has been blessed by the Change God to save us all?": {
+      "Japanese": "\\n<\\v[46]>ミラベルが私たちみんなを助けるよう、変化の神に祝福されたなんて信じられるか？"
+    },
+    "\\n<\\v[46]>The Change God almost never gives blessings of any kind...\\!\\ It's truly amazing Mirabelle has been chosen!": {
+      "Japanese": "\\n<\\v[46]>変化の神は誰も祝福してこなかった…\\!ミラベルが選ばれるなんてホントすごいことだぞ！"
+    },
+    "\\n<\\v[46]>May the Change God protect her in her journey!!!": {
+      "Japanese": "\\n<\\v[46]>変化の神がみんなを守ってくれますように！！！"
+    },
+    "\\m[clear](You nod, again.)": {
+      "Japanese": "\\m[clear]（またうなずいてる。）"
+    },
+    "(Blessings by the Change God, huh...)": {
+      "Japanese": "（変化の神の祝福ねえ、フーン…）"
+    },
+    "(You wonder if the Change God is the one who revived you, and gave you those powers.)": {
+      "Japanese": "（もし変化の神が自分を生き返らせて、力をくれたとしたら。）"
+    },
+    "\\m[wait](Eh, it doesn't matter that much.)": {
+      "Japanese": "\\m[wait]（ええ、まあ問題ないよ。）"
+    },
+    "\\n<\\v[46]>\\m[vman]May the Change God protect you!": {
+      "Japanese": "\\n<\\v[46]>\\m[vman]変化の神が守ってくれますように！！！"
+    },
+    "\\m[clear](Odile is here, looking at what the shop has to offer.)": {
+      "Japanese": "\\m[clear]（オディールはここで、どんな物があるか見てる。）"
+    },
+    "\\m[vo]Oh, Siffrin.": {
+      "Japanese": "\\m[vo]お、シフリン。"
+    },
+    "You look rested.\\!\\ Glad to see you this laidback on the day before the end of the world.": {
+      "Japanese": "休んだみたいだね。\\!世界が終わる前に、のんびりしてるみたいで良かったよ。"
+    },
+    "Anyway.\\!\\ How can I help you?": {
+      "Japanese": "とにかく。\\!何すれば良いの？"
+    },
+    "\\m[vo]What is it, Siffrin?": {
+      "Japanese": "\\m[vo]シフリン、なんだって？"
+    },
+    "\\m[vo]Weird...?\\!\\m[wait] Like what?": {
+      "Japanese": "\\m[vo]変…？\\!\\m[wait] 例えば？"
+    },
+    "I didn't see anything weird.\\!\\ Did YOU see anything weird?": {
+      "Japanese": "特に何もなかったけど。\\!何か変だと思ったの？"
+    },
+    "\\m[vo]...Okay.": {
+      "Japanese": "\\m[vo]…分かった。"
+    },
+    "I'll keep an eye out.\\!\\ I do hope you'll also let me know if you see \"something weird\".": {
+      "Japanese": "注意しておくよ。\\!「変なもの」を見たら、教えてほしいな。"
+    },
+    "\\m[vo]Okay.\\!\\ I'll see you at the clocktower later then.": {
+      "Japanese": "\\m[vo]分かった。\\!後で、時計台で会おう。"
+    },
+    "(It burns brightly.)": {
+      "Japanese": "（赤々と燃えている。）"
+    },
+    "\\m[clear](Old, moldy books.)": {
+      "Japanese": "\\m[clear]（古くかびている本だ。）"
+    },
+    "(You can't even read their titles.)": {
+      "Japanese": "（本の名前も読めない。）"
+    },
+    "\\m[clear](A closet filled with everything from empty salt shakers to half broken pencils.)": {
+      "Japanese": "\\m[clear]（空のソルトシェーカーや折れた鉛筆などでいっぱいの<br>クローゼットだ。）"
+    },
+    "(Are they for sale...?)": {
+      "Japanese": "（売れるだろうか…？）"
+    },
+    "\\m[clear](A little figure of the Change God.)": {
+      "Japanese": "\\m[clear]（変化の神の小さなフィギュア）"
+    },
+    "(It's been Crafted to dance slightly.)": {
+      "Japanese": "（少し踊れるようになっている。）"
+    },
+    "(This one has a wide smile.)": {
+      "Japanese": "（満面の笑みだ。）"
+    },
+    "\\m[clear](Shelves filled with various foods.)": {
+      "Japanese": "\\m[clear]（棚にはいろんな食べ物がいっぱいだ。）"
+    },
+    "(Being near them makes your stomach grumble...)": {
+      "Japanese": "（近くに行くとお腹が鳴る…）"
+    },
+    "\\m[clear](Some little paintings animated by Craft.)": {
+      "Japanese": "\\m[clear]（手描きのアニメっぽい絵だ。）"
+    },
+    "(You can see the shopkeeper, along with some other people from Dormont.)": {
+      "Japanese": "（ドルモン出身者に混じって店主の姿が見える。）"
+    },
+    "\\m[vi]This room feels different than the others, doesn't it?\\!\\ It's missing the threatening pressure the rest of the House has.": {
+      "Japanese": "\\m[vi]この部屋は不思議だな。どう思う？\\!この家のここ以外の部屋には必ずある敵意とか圧力とかをまったく感じないな。"
+    },
+    "\\m[vo]Shall we take a little break, then?": {
+      "Japanese": "\\m[vo]じゃあ、ここでちょっと休憩していく？"
+    },
+    "\\m[vm]N-no!\\!\\ We should keep going, and--": {
+      "Japanese": "\\m[vm]え、ダメよ！\\!できるだけ速く進んで、皆を-"
+    },
+    "\\m[vb]...\\!What was that?": {
+      "Japanese": "\\m[vb]…\\!何今の？"
+    },
+    "\\m[vm]\\..\\..\\..": {
+      "Japanese": ""
+    },
+    "...\\!I think I'm hungry.": {
+      "Japanese": "…\\!お腹がすいちゃったみたい。"
+    },
+    "\\m[vb]\\{!!!!!!!!!!!!!!!!!!!!!!": {
+      "Japanese": "\\m[vb]\\{！！！！！！！！！！！！！！！！！！！"
+    },
+    "MY TIME!\\!\\ MY TIME!\\! \\shakeMY TIME TO BE THE LEADER!!!": {
+      "Japanese": "私の！\\!私の番だ！\\!\\shake私がリーダーになる番が来たの<br>だ！！！"
+    },
+    "\\m[vo]Why.": {
+      "Japanese": "\\m[vo]なんで。"
+    },
+    "\\m[vb]\\shake\\{BECAUSE IT'S SNACKS TIME, BABYYYYYYYYYYYYYYY!!!!!!!!": {
+      "Japanese": "\\m[vb]\\shake\\{スナックタイムだからさ、ベイベえええええええええええええええ！！！！！！！！"
+    },
+    "Snacks are important to keep hunger away and keep morale up!\\!\\ I learned that because I'm a growing kid!": {
+      "Japanese": "スナックでやる気も上がるしお腹も満たされるよ！\\!成長中だから分かるんだ！"
+    },
+    "\\m[vi]That sure is true!": {
+      "Japanese": "\\m[vi]それは間違いない！"
+    },
+    "\\m[vm]B-But do we have time to...": {
+      "Japanese": "\\m[vm]で、でも時間が…"
+    },
+    "\\m[vi]Mira.": {
+      "Japanese": "\\m[vi]ミラベル。"
+    },
+    "...\\!Let's take a break, alright?": {
+      "Japanese": "…\\!ちょっと休むのはどう？"
+    },
+    "Even people blessed by the Change God like you need to take a break sometimes!!!": {
+      "Japanese": "変化の神に祝福されてても、たまには休まないとだめだよ！！！"
+    },
+    "\\m[vm]...\\!\\m[wait]Alright.": {
+      "Japanese": "\\m[vm]…\\!\\m[wait]いいね。"
+    },
+    "\\m[vb]You guys stay here!\\!\\ I'll get some snacks ready!!!": {
+      "Japanese": "\\m[vb]ここで待ってて！\\!スナックを取ってくるから！！！"
+    },
+    "\\m[vi]Okay, Snack Leader!": {
+      "Japanese": "\\m[vi]オーケー、スナックリーダー！"
+    },
+    "\\m[vo]...Oh, I remembered something.": {
+      "Japanese": "\\m[vo]…あ、ちょっと思いだした。"
+    },
+    "Isabeau,\\!\\ heads or tails?": {
+      "Japanese": "イザボー、\\!裏か表か？"
+    },
+    "\\m[vi]Huh?\\!\\ Um...\\!\\m[wait] Tails!": {
+      "Japanese": "\\m[vi]は？\\!えっと…\\!\\m[wait] 裏！"
+    },
+    "\\m[clear](Odile takes a coin from her pocket and flips it in the air.)": {
+      "Japanese": "\\m[clear]（オディールはポケットからコインを出して上にトスした。）"
+    },
+    "(Flip flip flip flip...)": {
+      "Japanese": "（どっちだ どっちが出るんだ…）"
+    },
+    "(...It fell on tails.)": {
+      "Japanese": "（…裏が出た。）"
+    },
+    "\\m[vo]...Huh.\\!\\ I lost.": {
+      "Japanese": "\\m[vo]…はあ。\\!負けだ。"
+    },
+    "\\m[vi]Yay!": {
+      "Japanese": "\\m[vi]イェイ！"
+    },
+    "What do I win?": {
+      "Japanese": "何に勝ったの？"
+    },
+    "\\m[vo]The sweet taste of victory and nothing else.": {
+      "Japanese": "\\m[vo]勝利の甘い味に酔えるだけだよ。"
+    },
+    "\\m[vi]I don't even get congrats?\\!\\ Wow m'dame...\\!\\ I thought we were friends...": {
+      "Japanese": "\\m[vi]おめでとうもなし？\\!おお、マダム…\\!友達だと思ったのに…"
+    },
+    "\\m[vo]We're not friends.": {
+      "Japanese": "\\m[vo]友達じゃないよ。"
+    },
+    "We're associates.": {
+      "Japanese": "仲間さ。"
+    },
+    "\\m[vi]Not companions?": {
+      "Japanese": "\\m[vi]ただの連れじゃなくて？"
+    },
+    "\\m[vo]Colleagues.\\!\\ Allies, at best.": {
+      "Japanese": "\\m[vo]仲間か、\\!味方が良いとこかな。"
+    },
+    "\\m[vi]Not even soulmates?!?": {
+      "Japanese": "\\m[vi]心の友じゃないんだ？！？"
+    },
+    "\\m[vo]Can't believe you've gone down to being an acquaintance now.": {
+      "Japanese": "\\m[vo]ただの知人まで成り下がるとは信じられないよ。"
+    },
+    "\\m[vi]NO!!!": {
+      "Japanese": "\\m[vi]嫌だ！！！"
+    },
+    "\\m[vm]What was the coin flip about, madame?": {
+      "Japanese": "\\m[vm]さっきのコイントスはどうなったっけ、マダム？"
+    },
+    "\\m[vo]Ah, well...": {
+      "Japanese": "\\m[vo]あ、えっと…"
+    },
+    "You know that big tree, in the village before we got here?\\!\\ The Favor Tree?": {
+      "Japanese": "ここに来る前、村で見た大きな木を知ってるか？\\!フェイバーツリー？"
+    },
+    "I asked the Favor Tree to make me win my next coin flip.": {
+      "Japanese": "さっきのコイントスで勝てるようにお願いして来たんだ。"
+    },
+    "\\m[vb]Huh?": {
+      "Japanese": "\\m[vb]は？"
+    },
+    "\\m[vm]Such a silly favor...": {
+      "Japanese": "\\m[vm]なんてバカなお願いを…"
+    },
+    "\\m[vo]Purely for scientific reasons.\\!\\ I was wondering whether this Favor Tree business had any truth to it.": {
+      "Japanese": "\\m[vo]科学的な理由があるのさ。\\!フェイバーツリーの話が真実か知りたかったんだ。"
+    },
+    "As we can see, it doesn't.": {
+      "Japanese": "見たとおり、あれは嘘だ。"
+    },
+    "\\m[vi]Welp!": {
+      "Japanese": "\\m[vi]まじか！"
+    },
+    "\\m[vi]...\\!But m'dame Odile didn't put any thought or hope into her favor, so why would it come true, right?": {
+      "Japanese": "\\m[vi]…\\!でもマダムオディールは何も自分のお願いや考えを込めなかったのに、どうして叶ったのかな、そう<br>でしょ？"
+    },
+    "If you want something to come true, it definitely will.": {
+      "Japanese": "何かを叶えたかったら、必ず叶うって。"
+    },
+    "\\m[vm]You think so?": {
+      "Japanese": "\\m[vm]そう思うの？"
+    },
+    "\\m[vi]Absolutely!": {
+      "Japanese": "\\m[vi]当然だよ！"
+    },
+    "\\m[clear](That's right...)": {
+      "Japanese": "\\m[clear]（それは正しい…）"
+    },
+    "(Bonnie probably wished for their sister to be okay, didn't they...)": {
+      "Japanese": "（ボニーは姉妹のために祈ったけど…）"
+    },
+    "\\m[vb]Okay, who wants snacks?\\!\\ I have SNACKS!!!!": {
+      "Japanese": "\\m[vb]オーケー、誰かいる？\\!スナック、持ってるよ！！！！"
+    },
+    "Today, I have many snacks at your disposal.\\!\\ I have...": {
+      "Japanese": "今日は好きなだけスナックが食べれるよ。\\!ここに…"
+    },
+    "Some PLANTAIN CHIPS!!!!": {
+      "Japanese": "プランテンチップスがあるから！！！！"
+    },
+    "\\m[vm]Oooh, did you use the last of those not-bananas to make them?": {
+      "Japanese": "\\m[vm]おお、バナナ以外の残りで作ったの？"
+    },
+    "\\m[vb]Yes.\\!\\ Yes I did.": {
+      "Japanese": "\\m[vb]そう。\\!そうなんだよ。"
+    },
+    "Crunchy.\\!\\ Delicious.\\!\\ And full of potassium.": {
+      "Japanese": "サクサクだ。\\!おいしい。\\!カリウムも豊富だね。"
+    },
+    "That's plantain chips!!!": {
+      "Japanese": "プランテンチップスだ！！！"
+    },
+    "\\m[clear](You all clap.)": {
+      "Japanese": "\\m[clear]（さすがだよ。）"
+    },
+    "\\m[vb]Second snack is...": {
+      "Japanese": "\\m[vb]次のスナックは…"
+    },
+    "\\m[vb]Some boring but delicious cookies!!!": {
+      "Japanese": "\\m[vb]平凡だけどおいしいクッキーだよ！！！"
+    },
+    "\\m[vi]Great sales pitch.": {
+      "Japanese": "\\m[vi]良い売り文句だね。"
+    },
+    "Boring but delicious.\\!\\ Cookies, the taste of home.": {
+      "Japanese": "平凡だけどおいしい。\\!家庭的なクッキーさ。"
+    },
+    "\\m[vb]What kinda home is boring but delicious?\\!\\ Za, you're weird.": {
+      "Japanese": "\\m[vb]平凡で家庭的でおいしいって？\\!意味不明。"
+    },
+    "\\m[vb]And for our third and final snack, we are proud to present...\\!\\ Uh...": {
+      "Japanese": "\\m[vb]三番目、そして最後のスナックとしてご紹介するの<br>は…\\!えっと…"
+    },
+    "Some, uh...\\!\\m[wait]O-gi-ni-ri.": {
+      "Japanese": "あの、 えっと…\\!\\m[wait]お ぎ に り。"
+    },
+    "\\m[vo]Onigiri.": {
+      "Japanese": "\\m[vo]おにぎりでしょ。"
+    },
+    "\\m[vb]O-ri-ni-gi.": {
+      "Japanese": "\\m[vb]お り に ぎ。"
+    },
+    "\\m[vb]Onion-geeree.": {
+      "Japanese": "\\m[vb]おにくんぎりいい。"
+    },
+    "\\m[vo]You messed that one up on purpose.": {
+      "Japanese": "\\m[vo]それわざとやってるでしょ。"
+    },
+    "\\m[vb]Yes!!!!!!!!": {
+      "Japanese": "\\m[vb]そう！！！！！！！！"
+    },
+    "I have some onigiris for everyone!": {
+      "Japanese": "みんな分おにぎりがあるよ！"
+    },
+    "\\m[vi]One of those Ka Buan rice balls, right?": {
+      "Japanese": "\\m[vi]お米で出来た料理の一つだよね？"
+    },
+    "\\m[vb]Yeah.\\!\\ Rice.": {
+      "Japanese": "\\m[vb]ああ。\\!ご飯だよ。"
+    },
+    "I.\\!\\ Love.\\!\\ Rice.": {
+      "Japanese": "実は。\\!ご飯。\\!好き。"
+    },
+    "\\m[vo]You and every other kid on this planet, Boniface.": {
+      "Japanese": "\\m[vo]君も地球上の全ての子供も好きだよ。"
+    },
+    "\\m[vb]Hmf.": {
+      "Japanese": "\\m[vb]うん。"
+    },
+    "\\m[vb]Now, choose!\\!\\ Choose which one you want!\\!\\ Don't worry, I have enough for everyone!": {
+      "Japanese": "\\m[vb]さあ、選んで！\\!どっちでも良いよ！\\!心配しなくても、全員分あるから！"
+    },
+    "\\m[vs](You'd like...)\\!\\": {
+      "Japanese": "\\m[vs]（あなたはきっと…）\\!\\"
+    },
+    "\\m[vb]There!!!\\!\\ You!!!\\!\\ GO!!!!!!!!": {
+      "Japanese": "\\m[vb]ほら！！！\\!\\ 次！！！\\!\\ 行けえ！！！！！！！！"
+    },
+    "\\m[clear](Bonnie hands you a few handfuls of plantain chips.)": {
+      "Japanese": "\\m[clear]（ボニーは手のひらいっぱいのプランテンチップスをくれた。）"
+    },
+    "(Crunch, crunch!)": {
+      "Japanese": "（バリ、ボリ！）"
+    },
+    "(Boring but delicious as always.)": {
+      "Japanese": "（いつもどおり、平凡だけどおいしい。）"
+    },
+    "\\m[clear](Bonnie hands you a few cookies.)": {
+      "Japanese": "\\m[clear]（ボニーはクッキーをくれた。）"
+    },
+    "(Delicious, delicious cookies.)": {
+      "Japanese": "（おいしくて、おいしい。）"
+    },
+    "(Boring, but you could never get sick of them!)": {
+      "Japanese": "（平凡だけど、飽きない味だ！）"
+    },
+    "\\m[clear](Bonnie hands you one onigiri.)": {
+      "Japanese": "\\m[clear]（ボニーがおにぎりをくれた。）"
+    },
+    "\\m[clear](Odile taught Bonnie how to make onigiri a few weeks back.)": {
+      "Japanese": "\\m[clear]（数週間前、オディールはボニーにおにぎりの作り方を教えた。）"
+    },
+    "(You wonder what Bonnie put inside this time...)": {
+      "Japanese": "（何を中に入れたんだろう…）"
+    },
+    "(\\..\\..\\..\\!\\m[wait]Apple slices...???)": {
+      "Japanese": "（\\..\\..\\..\\!\\m[wait]切ったリンゴ…？？？）"
+    },
+    "\\m[vo]Did you...\\!\\ Put apple slices in the onigiris?": {
+      "Japanese": "\\m[vo]もしかして…\\!リンゴを切って入れたの？"
+    },
+    "\\m[vb]Yeah!\\!\\ Dile put a plum in hers before so I figured I'd try putting another fruit in there.": {
+      "Japanese": "\\m[vb]そうだよ！\\!オディールはプラムを入れてたから、他の果物もイケると思ったの。"
+    },
+    "Is it good?": {
+      "Japanese": "おいしい？"
+    },
+    "\\m[vo].........................": {
+      "Japanese": ""
+    },
+    "\\m[clear](.........................)": {
+      "Japanese": ""
+    },
+    "\\m[vo]You tried, Boniface.": {
+      "Japanese": "\\m[vo]冒険するね。"
+    },
+    "\\m[vb]I did!!!": {
+      "Japanese": "\\m[vb]してみた！！！"
+    },
+    "S-So?\\!\\ Do you all like it?\\!\\ Did I do a good job as Snack Leader?": {
+      "Japanese": "そ、それで？\\!おいしかった？\\!スナックリーダーとして良い仕事したかな？"
+    },
+    "\\m[clear](You absently nod.)": {
+      "Japanese": "\\m[clear]（うなずいたよね。）"
+    },
+    "\\m[vi]Yeah, this is good.": {
+      "Japanese": "\\m[vi]うん、おいしかったよ。"
+    },
+    "\\m[vm]Mhm!": {
+      "Japanese": "\\m[vm]まあね！"
+    },
+    "\\m[vi]Ah.": {
+      "Japanese": "\\m[vi]ああ。"
+    },
+    "\\m[vm]Um.": {
+      "Japanese": "\\m[vm]えっと。"
+    },
+    "\\m[clear](Uh oh.)": {
+      "Japanese": "\\m[clear]（あ、ああ。）"
+    },
+    "\\m[vm]\\waveOoooh,\\wave this is soo good!!!\\!\\ Thank you, Bonniiiiiie!": {
+      "Japanese": "\\m[vm]\\waveおおおお、とってもおいしいよ！！！\\!ありがとう、ボニーー－－－－！"
+    },
+    "\\m[vi]Mmmmm, so good, Bonbon!!!\\!\\ I feel refreshed, invigorated, alive!!!": {
+      "Japanese": "\\m[vi]んんんんん、とってもおいしかった！！！\\!ほんと、生き返った気がするよ！！！"
+    },
+    "\\m[vo]Mmm, good food, yummy yum yum.": {
+      "Japanese": "\\m[vo]うん、おいしい、おいしい。"
+    },
+    "\\m[vb]\\shake\\{YES": {
+      "Japanese": "\\m[vb]\\shake\\{そう"
+    },
+    "\\m[clear](You're so hungry...)": {
+      "Japanese": "\\m[clear]（お腹空いてたんだね…）"
+    },
+    "(You eat your snack in two bites.)": {
+      "Japanese": "（二口で全部食べちゃったけど）"
+    },
+    "(...\\!That was tasty, but you're still a bit hungry...\\!\\ Oh well.)": {
+      "Japanese": "（…\\!おいしかったけど、まだお腹いっぱいじゃない…\\!ああ、分かった。）"
+    },
+    "(Your health has been restored!)": {
+      "Japanese": "（体力は回復してる！）"
+    },
+    "\\m[vi]Are you ready?": {
+      "Japanese": "\\m[vi]準備は良い？"
+    },
+    "\\m[vi]Alright!\\!\\ Let's go!!!": {
+      "Japanese": "\\m[vi]良いね！\\!レッツゴー！！！"
+    },
+    "\\m[vi]Okay!\\!\\ We can stay here a bit longer.": {
+      "Japanese": "\\m[vi]分かった！\\!もう少しここにいよう。"
+    },
+    "I hope everyone is alright...": {
+      "Japanese": "みんな無事だと良いけど…"
+    },
+    "\\m[vm]Yes...\\!\\ But...": {
+      "Japanese": "\\m[vm]うん…\\!だけど…"
+    },
+    "The King's Curse probably got to them already.\\!\\ It was so close, when we arrived a few days ago.": {
+      "Japanese": "もう王の呪いがかかってるのかも。\\!数日前に着いたとき、もう危なかったし。"
+    },
+    "Even if we decided to go back, there'd be nothing to come back to...": {
+      "Japanese": "戻っても、何もなかっただろうね…"
+    },
+    "So all we can do now is...": {
+      "Japanese": "だから、今できるのは…"
+    },
+    "\\m[vm]Yes...\\!\\ Well...": {
+      "Japanese": "\\m[vm]うん…\\!そうだね…"
+    },
+    "They're most likely all frozen in time, aren't they?": {
+      "Japanese": "時間が止まってるみたいだと思わない？"
+    },
+    "We haven't seen anyone yet, but...": {
+      "Japanese": "誰もいない、でも…"
+    },
+    "Maybe...\\!\\ Maybe someone survived...": {
+      "Japanese": "もしかしたら…\\!もしかしたら誰か生きて…"
+    },
+    "Maybe the Head Housemaiden managed to...": {
+      "Japanese": "もしかしたらメイド長が何かを…"
+    },
+    "T-Tell me a joke, Siffrin, please!\\!\\ To get my mind off things!!!": {
+      "Japanese": "なんか面白いこと言って、シフリン！\\!考えたくない<br>よ！！！"
+    },
+    "\\m[vm]A plum?\\!\\ Like the fruit?": {
+      "Japanese": "\\m[vm]プラム？\\!果物の？"
+    },
+    "\\m[vm]Oh, let me guess.\\!\\m[wait] Was it a very \"fruitful\" meeting?": {
+      "Japanese": "\\m[vm]あ、当てさせて。\\!\\m[wait]「実りある」話し合いだったってこと？"
+    },
+    "Oh no.\\!\\ Was that it?": {
+      "Japanese": "噓でしょ。\\!それだけ？"
+    },
+    "Sorry...\\!\\ For stealing your joke...?": {
+      "Japanese": "ごめん…\\!君のネタだったかな…？"
+    },
+    "\\m[clear](This is the worst thing that could ever happen to you.)": {
+      "Japanese": "\\m[clear]（本当に最低なジョークだったよ。）"
+    },
+    "(Who are you.\\!\\ If you are not the funnyjokespun person.)": {
+      "Japanese": "（他に何ができるんだよ。\\!面白いジョークが言えないなら。）"
+    },
+    "(If only you could redo this joke, to make it funnier...!!!)": {
+      "Japanese": "（もう一回チャンスをもらえたら、面白く言えるよ…！！！）"
+    },
+    "\\m[vm]I guess we all have our off days, don't we...?": {
+      "Japanese": "\\m[vm]今日はみんなついてなかったね？"
+    },
+    "\\m[vi]Hey Sif!!!": {
+      "Japanese": "\\m[vi]ハイ、シフリン！！！"
+    },
+    "...\\!Let me guess, you're still hungry?\\!\\<br>\nI can see it on your face.": {
+      "Japanese": "…\\!もしかして、まだお腹空いてる？\\!顔に書いてある<br>よ。"
+    },
+    "Want half of this cookie?": {
+      "Japanese": "このクッキー、半分いる？"
+    },
+    "\\m[clear](Isabeau waves his last cookie at you.)": {
+      "Japanese": "\\m[clear]（イザボーが最後のクッキーをくれた。）"
+    },
+    "\\m[vi]...\\!\\m[wait]Okay, let's try that again, and this time you say \"Yes please, Mr Amazing-Wonderful-Funny-Buff Isabeau\".": {
+      "Japanese": "\\m[vi]…\\!\\m[wait]分かった。もう一回やろう。今回は、「では、超絶に面白いジョークの天才イザボー様、お願いいたします」って言うんだよ。"
+    },
+    "I ask again, would you like half of this cookie?": {
+      "Japanese": "もう一回聞くけど、このクッキー、半分いる？"
+    },
+    "\\m[vi]Of course!!!\\!\\ Here you go!!!": {
+      "Japanese": "\\m[vi]もちろん！！！\\!どうぞ！！！"
+    },
+    "\\m[clear](Isabeau gave you half of his cookie!!!)": {
+      "Japanese": "\\m[clear]（イザボーはクッキーを半分くれた！！！）"
+    },
+    "(CHOMP.)": {
+      "Japanese": "（むしゃむしゃ。）"
+    },
+    "\\m[vi]Heh, no problem!": {
+      "Japanese": "\\m[vi]はは、大丈夫だよ！"
+    },
+    "\\m[vi]Hey!": {
+      "Japanese": "\\m[vi]ヘイ！"
+    },
+    "\\m[clear](Isabeau smiles at you.)": {
+      "Japanese": "\\m[clear]（イザボーがニコニコしている。）"
+    },
+    "\\m[vb]Za's stupid.": {
+      "Japanese": "\\m[vb]バカみたい。"
+    },
+    "We can't be friends!\\!\\ That'd be like being friends with your mom or your sister.": {
+      "Japanese": "友達じゃないよ！\\!ママかお姉ちゃんみたいじゃない。"
+    },
+    "\\m[vb]Hm...": {
+      "Japanese": "\\m[vb]えっと…"
+    },
+    "Actually, Dile's more like a grandma, isn't she?": {
+      "Japanese": "オディールはおばあちゃんっぽくない？"
+    },
+    "And you DEFINITELY can't be friends with your grandma.": {
+      "Japanese": "おばあちゃんとは、本当に友達になれっこないよね。"
+    },
+    "\\m[clear](Is that how it works?)": {
+      "Japanese": "\\m[clear]（どうなるんだろう？）"
+    },
+    "\\m[vb]Belle's like a cool sister!!!": {
+      "Japanese": "\\m[vb]ミラベルはカッコいいお姉ちゃんみたい！！！"
+    },
+    "The one who'd give me sweets when I ask.": {
+      "Japanese": "欲しいって言ったらスイーツをくれるお姉ちゃん。"
+    },
+    "Unlike my actual older sister who sucks.": {
+      "Japanese": "本当のお姉ちゃんとは大違い。"
+    },
+    "Za's like a little brother.": {
+      "Japanese": "あんたは弟みたい。"
+    },
+    "\\m[vb]You're...": {
+      "Japanese": "\\m[vb]お前…"
+    },
+    "I dunno.": {
+      "Japanese": "分かんない。"
+    },
+    "\\m[clear](Bonnie seems very focused on their snack.\\!\\ Better not bother them.)": {
+      "Japanese": "\\m[clear]（ボニーはスナックに夢中のようだ。\\!邪魔しないほうが良い。）"
+    },
+    "\\m[vo]Hm...\\!\\ I hope I didn't make Bonnie upset earlier.": {
+      "Japanese": "\\m[vo]えっと…\\!ボニーが怒ってないと良いんだけど。"
+    },
+    "\\m[clear](You both look Bonnie's way...)": {
+      "Japanese": "\\m[clear]（ボニーのやり方そっくり…）"
+    },
+    "(Bonnie is stuffing their cheeks happily.)": {
+      "Japanese": "（ボニーはうれしそうに食べている。）"
+    },
+    "\\m[vo]...\\!\\m[wait]Nevermind.": {
+      "Japanese": "\\m[vo]…\\!\\m[wait]まあ良いよ。"
+    },
+    "\\m[vo]Leave me be, now.\\!\\ I need some alone time.": {
+      "Japanese": "\\m[vo]今は、ほっといて。\\!一人の時間が必要なの。"
+    },
+    "\\m[clear](You understand.)": {
+      "Japanese": "\\m[clear]（分かってるね。）"
+    },
+    "\\m[clear](You leave Odile be.)": {
+      "Japanese": "\\m[clear]（オディールを一人にするんだ。）"
+    },
+    "\\m[vtuto][You can use the arrows on the keyboard to move around!]\\m[rb]": {
+      "Japanese": "\\m[vtuto][キーボードの矢印キーで移動できます！]\\m[rb]"
+    },
+    "\\m[vtuto][You can use the joystick to move around!]\\m[rb]": {
+      "Japanese": "\\m[vtuto][ジョイスティック操作で移動できます！]\\m[rb]"
+    },
+    "\\m[vtuto][Before leaving to explore the House, you should talk to your party by pressing \\v[376] when standing in front of them!]\\m[rb]": {
+      "Japanese": "\\m[vtuto][家の探索を始める前に、一度パーティメンバーと話してみましょう。\\!メンバーの前に立って \\v[376] で会話できます！]\\m[rb]"
+    },
+    "\\m[clear](You wonder how Bonnie is dealing with all of this.)": {
+      "Japanese": "\\m[clear]（あなたはボニーの様子が気になった。）"
+    },
+    "\\m[vb]Hmf....": {
+      "Japanese": "\\m[vb]フン…"
+    },
+    "Don't look at me like that!\\!\\ I'm not worried!!!": {
+      "Japanese": "そんな目で見ないでよ！\\!全然心配なんてしてないんだから！！！"
+    },
+    "I'm just mad...\\!\\ 'Cuz you guys won't let me fight...": {
+      "Japanese": "ちょっとムカついてるだけ…\\!だって、皆私に戦っちゃダメって…"
+    },
+    "Don't think I'm weak just 'cuz I'm a kid!!!\\!\\ I'll kick your butt into next year!!!": {
+      "Japanese": "子供だから弱いって決めつけないでよ！！！\\!そんなこというやつは一マイル先まで蹴り飛ばしちゃうんだから！！！"
+    },
+    "\\m[vb]Hmmmmm....": {
+      "Japanese": "\\m[vb]むぅぅぅぅ…"
+    },
+    "\\m[clear](You smile sleepily at Isabeau.)": {
+      "Japanese": "\\m[clear]（あなたは眠たそうにイザボーに微笑んだ）"
+    },
+    "\\m[vi]Hey Sif!": {
+      "Japanese": "\\m[vi]よぉ、シフ！"
+    },
+    "...Still sleepy, are we?": {
+      "Japanese": "…まだ眠いのか？"
+    },
+    "You should've told me.\\!\\ I could've covered for you so Odile wouldn't notice.": {
+      "Japanese": "だったら先に言ってくれれば良かったのによ。\\!<br>オディールにばれないようにこっちでカバーして<br>やったのにさ。"
+    },
+    "\\m[vi]Just go to that room up north when you're ready to go, Sif!": {
+      "Japanese": "\\m[vi]なんであれ、用意ができたら北側の部屋に向かってくれよな、シフ！"
+    },
+    "\\m[clear](Mirabelle looks worried...)": {
+      "Japanese": "\\m[clear]（ミラベルは不安そうだ…）"
+    },
+    "\\m[vm]Oh, I hope everyone in the House is okay...": {
+      "Japanese": "\\m[vm]家の中にいる皆が無事だといいんだけど…"
+    },
+    "...I haven't gone inside the House since the King attacked.\\!\\ I don't know if anyone escaped...": {
+      "Japanese": "…王の襲撃以降、この家には一回も入ってないのよ。\\!他に逃げられた人がいたかどうかもわからないわ…"
+    },
+    "I hope...\\!\\ The Head Housemaiden is okay, at least...": {
+      "Japanese": "…\\!せめて、メイド長だけでも無事であることを願ってるわ…"
+    },
+    "\\m[clear](You approach Odile carefully.)": {
+      "Japanese": "\\m[clear]（あなたは細心の注意を払ってオディールのもとに向かった。）"
+    },
+    "\\m[vo]Oh.\\!\\ Siffrin.": {
+      "Japanese": "\\m[vo]あら。\\!シフリン。"
+    },
+    "You're the fastest out of all of us, so I'm counting on you and your speed as always.": {
+      "Japanese": "あなたは私たちの中でも一番速いんだから、そこんとこ期待してるわよ。いつも通りにね。"
+    },
+    "Which is to say:\\!\\ please walk in front so hopefully your reflexes will keep all of us out of trouble.": {
+      "Japanese": "わかりやすくいえば、\\!皆の先頭を歩いてね。その反射神経が皆に降りかかる災いを払うことに期待してる<br>よ、かしらね。"
+    },
+    "Me and my slow old woman reflexes thank you.": {
+      "Japanese": "老婆じみた反射神経の私もだけど、とても助かってるわ。"
+    },
+    "\\m[vo]And, gems alive, PLEASE try not to run too much...": {
+      "Japanese": "\\m[vo]でも命あっての物種よ。\\!お願いだから先走らないで<br>ね…"
+    },
+    "\\m[vtuto][You can press \\v[376] to run!\\!\\ Or you can turn 'Always Run' ON in the options!]\\m[rb]": {
+      "Japanese": "\\m[vtuto][\\v[376]を押すと走るよ！\\!オプションの「常に走る」をオンにすると押さなくても走れるよ！]\\m[rb]"
+    },
+    "\\m[vi]A storage room!\\!\\ Let's look around!": {
+      "Japanese": "\\m[vi]倉庫だ！\\!ちょっと見てみよう！"
+    },
+    "\\m[vo]I see a few tonics on those tables...\\!<br>\nMake sure to pick them up and give them to Bonnie before we leave.": {
+      "Japanese": "\\m[vo]テーブルの上にいくつか飲み物があるわね…\\!出ていく前に忘れないで回収してボニーに渡しておいてね。"
+    },
+    "\\m[vi]Check that closet too, there might be some cool stuff in there!": {
+      "Japanese": "\\m[vi]あそこのクローゼットも調べてみようぜ。サプライズがあるかもよ！"
+    },
+    "\\m[clear](Some small glass containers.)": {
+      "Japanese": "\\m[clear]（小さなガラス容器がいくつかある。）"
+    },
+    "(You look around...)": {
+      "Japanese": "（あなたは中を探してみた…）"
+    },
+    "(You found a SOUR TONIC!)": {
+      "Japanese": "（サワートニックを見つけた！）"
+    },
+    "\\m[vm]T-Tonics are good to keep your HP up so you don't get knocked out in battle!": {
+      "Japanese": "\\m[vm]ト、トニックはHPを維持して戦闘中の気絶を防いでくれる飲み物なのよ！"
+    },
+    "They're very sour...\\!\\ <br>\nBut the sourness is sure to make you more awake and ready for anything!": {
+      "Japanese": "すっごくすっぱいけど…\\!そのすっぱさが目を覚まさせてくれて、より活力もみなぎってくるわ！"
+    },
+    "\\m[clear](The table has nothing else interesting on it.)": {
+      "Japanese": "\\m[clear]（テーブルの上に目ぼしいものはない。）"
+    },
+    "(You got a SUPER SOUR TONIC!)": {
+      "Japanese": "（あなたはスーパーサワートニックを手に入れた！）"
+    },
+    "\\m[vm]Oh! Sour tonics for everyone to share!": {
+      "Japanese": "\\m[vm]あら！皆でわけるタイプのサワートニックね！"
+    },
+    "\\m[vb]Y'know,\\!\\ I always wondered why they're more powerful than regular sour tonics when they're the same size.": {
+      "Japanese": "\\m[vb]ねぇ、\\!これって普通のサワートニックと同じ大きさなのに、どうしてこっちの方が効果が高いかいつも気になってたんだ。"
+    },
+    "\\m[vo]They're just that concentrated.": {
+      "Japanese": "\\m[vo]それだけ中身が濃縮されてるのよ。"
+    },
+    "\\m[vi]I tried drinking a full Super Sour Tonic once!": {
+      "Japanese": "\\m[vi]一回だけスーパーサワートニックを一瓶丸々飲んだことがあるぜ！"
+    },
+    "\\m[vo]And...\\!\\ What happened?": {
+      "Japanese": "\\m[vo]で…\\!どうだった？"
+    },
+    "\\m[vi]I couldn't taste anything for weeks!!!": {
+      "Japanese": "\\m[vi]その先数週間は何喰っても味がしなかったよ。"
+    },
+    "\\m[clear](You look at what's on the table...)": {
+      "Japanese": "\\m[clear]（あなたはテーブルの上に置かれているものを見てみた…）"
+    },
+    "(You found a CRAFTED WATER!)": {
+      "Japanese": "（クラフトウォーターを見つけた！）"
+    },
+    "\\m[vm]Um, this is a Crafted Water!": {
+      "Japanese": "\\m[vm]それはクラフトウォーターね！"
+    },
+    "If someone gets \\i[1]Knocked Out during battle...\\!\\ <br>\nJust a drop of it is enough to wake them right up!": {
+      "Japanese": "誰かが戦闘中に\\i[1]気絶しても…\\!これを一滴垂らすだけで一発で目をさますわ！"
+    },
+    "\\m[vb]Someone at school told me it was just coconut water!": {
+      "Japanese": "\\m[vb]中身はただのココナッツウォーターだって学校で噂してたよ！"
+    },
+    "\\m[vm]Wait...\\!\\ is it?": {
+      "Japanese": "\\m[vm]え…\\!そうなの？"
+    },
+    "(You found a POCKETFUL OF GINGER!)": {
+      "Japanese": "（ポケットいっぱいのしょうがを見つけた！）"
+    },
+    "(You found a POCKETFUL OF PEPPER!)": {
+      "Japanese": "（ポケットいっぱいのコショウを見つけた！）"
+    },
+    "(You found a POCKETFUL OF THYME!)": {
+      "Japanese": "（ポケットいっぱいのハッカを見つけた！）"
+    },
+    "\\m[vi]Still, that's a lot of spices you found there...": {
+      "Japanese": "\\m[vi]ずいぶんとたくさんの香辛料を見つけたものだな…"
+    },
+    "\\m[vb]Oh, oh, I know this one!\\!\\ <br>\nPepper raises your ATTACK, ginger raises your DEFENSE, and thyme makes you faster!": {
+      "Japanese": "\\m[vb]あ、これ知ってる！\\!コショウは攻撃力アップ、しょうがは防御アップ、ハッカは速く動けるようになるんだよね！"
+    },
+    "Because spicy stuff makes people angry, ginger makes you not sick, and thyme...": {
+      "Japanese": "からいものは人を怒らせて、しょうがは病気になりにくくなって、後、ハッカは…"
+    },
+    "Well...\\!\\ I don't actually know why thyme makes you faster.": {
+      "Japanese": "なんだろね…\\!どうしてハッカを食べたら速くなるんだろう。"
+    },
+    "\\m[vm]Me neither...": {
+      "Japanese": "\\m[vm]私も知らないわね…"
+    },
+    "\\m[clear](You open the closet.)": {
+      "Japanese": "\\m[clear]（クローゼットを開けた…）"
+    },
+    "(It's full of boxes and papers,\\!\\ and...)": {
+      "Japanese": "（中にはぎっしりと箱と紙が詰まっていて、\\!そして…）"
+    },
+    "(A pendant shaped like a bell.)": {
+      "Japanese": "（鐘のような形をしたペンダントも入っていた。）"
+    },
+    "\\m[clear](You got a PENDANT!)": {
+      "Japanese": "\\m[clear]（ペンダントを獲得しました！）"
+    },
+    "(You put the pendant in your pocket along with your Souvenirs.)": {
+      "Japanese": "（そのペンダントをお土産と一緒にポケットに入れた。）"
+    },
+    "\\m[vo]Well.\\!\\ That closet was useless.": {
+      "Japanese": "\\m[vo]はぁ…。\\!クローゼットを調べたのは無駄骨だったわ<br>\nね。"
+    },
+    "\\m[vi]But pretty pendant though.": {
+      "Japanese": "\\m[vi]でもかわいいペンダントが手に入ったぞ。"
+    },
+    "\\m[vo]Can the pendant heal me when I'm hurt?": {
+      "Japanese": "\\m[vo]で、そのペンダントがなんの役に立つの？"
+    },
+    "\\m[vm]Maybe it can!\\!\\ You don't know!": {
+      "Japanese": "\\m[vm]すごい効果があるかもしれないわ！\\!まだわからないけど！"
+    },
+    "\\m[clear](You look at the pendant closely...)": {
+      "Japanese": "\\m[clear]（あなたはペンダントをじっくりと観察した…）"
+    },
+    "\\m[wait](It's just a pendant.)": {
+      "Japanese": "\\m[wait]（ただのペンダントにしか見えない。）"
+    },
+    "(But you like it, so you put it in your pocket along with your Souvenirs.)": {
+      "Japanese": "（でも気にいったので、お土産と一緒にポケットに入れた。）"
+    },
+    "(Tonics and any useful items will usually be visible, but you might get some useless but interesting things if you check everything in a room...)": {
+      "Japanese": "（トニックなどの役に立つアイテムは大抵目に見える場所にありますが、部屋の中をくまなく探すと、役にはたたないにしても、興味深いアイテムが色々手に入るかもしれません…）"
+    },
+    "\\m[vtuto][You can open your menu by pressing \\v[376]!]\\m[rb]": {
+      "Japanese": "\\m[vtuto][\\v[376]でメニューを開けます！]\\m[rb]"
+    },
+    "\\m[clear](The closet doesn't have anything interesting left in it.)": {
+      "Japanese": "\\m[clear]（クローゼットにはもう大したものは入っていない。）"
+    },
+    "\\m[clear](Some flyers.)": {
+      "Japanese": "\\m[clear]（チラシのようだ。）"
+    },
+    "(They say: \\fi\"House of Change open!\\!\\ Come and see what you can do for the community, and what the community can do for you!!!\"\\fi)": {
+      "Japanese": "（\\fi「変化の家の扉は開かれた！\\!来たれ。社会のために何ができるか、社会が何をしてくれるのかを知りましょう！！！」\\fiと書かれている。）"
+    },
+    "(There's some people with sparkly eyes holding hands drawn on it.)": {
+      "Japanese": "（チラシには、目をきらめかせた人々が互いの手を取っている絵が描かれている。）"
+    },
+    "\\m[vm]Hehehe...": {
+      "Japanese": "\\m[vm]フフッ…"
+    },
+    "I drew those a few years ago to get<br>\npeople to come to the House...\\!\\ It's a little embarassing now.": {
+      "Japanese": "それって数年前に、この家に外の人たちが来てくれるように私が描いたものなのよね…\\!\n今となっては<br>ちょっと恥ずかしいな。"
+    },
+    "\\m[clear](You think they look nice!)": {
+      "Japanese": "\\m[clear]（あなたはよくできたチラシだ！と思った。）"
+    },
+    "\\m[clear](Don't forget to check the Favor Tree!)": {
+      "Japanese": "\\m[clear]（忘れずにフェイバーツリーを調べないと！）"
+    },
+    "\\m[clear](Now that you're here, you'd like to check the Favor Tree.)": {
+      "Japanese": "\\m[clear]（この場所に到着したあなたは、フェイバーツリーを確かめることにした。）"
+    },
+    "(You can tell Loop is looking at you.)": {
+      "Japanese": "（あなたはループに見られていることに気付いている。）"
+    },
+    "\\m[clear](The Favor Tree.)": {
+      "Japanese": "\\m[clear]（フェイバーツリーだ。）"
+    },
+    "(You heard a voice saying you should come here...)": {
+      "Japanese": "（この場所へと誘う声を耳にしたあなたはそれに従いこの場所に来た…）"
+    },
+    "(What was that voice...?)": {
+      "Japanese": "（あの声はいったい…？）"
+    },
+    "(...\\!The tree is so big, everything under it is dark as night,\\!\\m[wait] but...)": {
+      "Japanese": "（…\\!見上げるほどに大きな木の下にあるものは皆木の影に呑まれ、夜の闇のように見通せない、\\!\\m[wait] でも…）"
+    },
+    "\\m[wait](You feel like someone is here,\\!\\ sitting at the foot of the tree.)": {
+      "Japanese": "\\m[wait]（あなたはそこに誰かが、\\!木の根本に誰かが座っているような気配を感じた。）"
+    },
+    "(Looking at you.)": {
+      "Japanese": "（あなたに視線を向ける存在が。）"
+    },
+    "(Cautiously,\\!\\ with a hand on your dagger,\\!\\ you walk towards the base of the tree.)": {
+      "Japanese": "（恐る恐る、\\!手にダガーを持ったまま、\\!あなたは木の根元に向かって歩み出した。）"
+    },
+    "\\m[clear](.\\|.\\|.\\|)": {
+      "Japanese": ""
+    },
+    "(Well, uh, you found someone alright.)\\!\\": {
+      "Japanese": "（そこには本当に誰かがいた。）\\!\\"
+    },
+    "\\lspi[90]\\lspiv[40]\\lsoff\\lson\\n<???>\\..\\..\\..\\!Hello, stardust.": {
+      "Japanese": "\\lspi[90]\\lspiv[40]\\lsoff\\lson\\n<???>\\..\\..\\..\\!こんにちは、ホシクズさん。"
+    },
+    "\\n<???>\\m[wait]We have a lot to talk about, don't we?\\m[rb]": {
+      "Japanese": "\\n<???>\\m[wait]色々と知りたいことがありそうな顔だね？\\m[rb]"
+    },
+    "\\m[clear](A dresser with art books on top of it.)": {
+      "Japanese": "\\m[clear]（美術書が乗ったドレッサーだ）"
+    },
+    "(You open the drawer...)": {
+      "Japanese": "（引き出しを開けた…）"
+    },
+    "\\m[clear](You found the BROKEN EGG KEY!)": {
+      "Japanese": "\\m[clear]（割れた卵の鍵を見つけた！）"
+    },
+    "(The keychain dangling from it is shaped like an egg broken in half...)": {
+      "Japanese": "（ぶら下がっているキーホルダーが、半分に割れた卵のような形をしている…）"
+    },
+    "\\m[vo]In someone's drawer?\\!\\ What a weird place for a key...": {
+      "Japanese": "\\m[vo]誰かの引き出しの中に？\\!変なところに鍵があるわね…"
+    },
+    "\\m[vb]Definitely not a very king-like place, huh!!!\\!\\ That's pretty stupid of him!!!": {
+      "Japanese": "\\m[vb]まったく王様らしい場所じゃないね！\\!とってもバカみたいな場所だ！"
+    },
+    "\\m[vi]I'm not sure...\\!\\ Hiding keys in places like drawers isn't very King-like, yeah, but it means they're harder to find since it's not a very expected place...": {
+      "Japanese": "\\m[vi]どうかな…\\!引き出しの中に鍵を隠すなんて、確かに王様らしくないが。逆に言えば、予想外で見つけにくい場所とも言える…"
+    },
+    "But thankfully we have our good ol' Sif to help us find them!": {
+      "Japanese": "でも、我らがシフのおかげで見つけることができたけどね！"
+    },
+    "\\m[vm]Thank you, Siffrin!\\!\\ Good job, Siffrin!": {
+      "Japanese": "\\m[vm]ありがとう、シフリン！\\!よくやったわ、シフリン！"
+    },
+    "\\m[vo]Yaay, good jooooob.": {
+      "Japanese": "\\m[vo]ああ、上出来だ！"
+    },
+    "\\m[clear](She claps sarcastically, which makes everyone join her enthusiastically.)": {
+      "Japanese": "\\m[clear]（彼女が芝居っけたっぷりに拍手をすると、みんなが一緒になって後に続いた）"
+    },
+    "\\m[clear](You take a bow.)": {
+      "Japanese": "\\m[clear]（お辞儀をした）"
+    },
+    "\\m[clear](Some notes.)": {
+      "Japanese": "\\m[clear]（メモのようだ）"
+    },
+    "(The handwriting is so terrible, you can barely read what's on it.)": {
+      "Japanese": "（字がとても汚く、なんと書いているかほとんど読めなかった）"
+    },
+    "\\m[clear](Some rolled up papers.)": {
+      "Japanese": "\\m[clear]（丸まった紙がいくつかある）"
+    },
+    "(You unroll one...)": {
+      "Japanese": "（ひとつを開いてみた…）"
+    },
+    "\\m[clear](Oh my!)": {
+      "Japanese": "\\m[clear]（ああ！）"
+    },
+    "(The paper is filled with sketches of naked people doing fun things.)": {
+      "Japanese": "（その紙には、裸の人が楽しげに何かをしている様子が描かれていた）"
+    },
+    "\\m[clear](You look at them curiously.)": {
+      "Japanese": "\\m[clear]（興味深く観察した。）"
+    },
+    "\\m[vm]Oh, oh my!!!": {
+      "Japanese": "\\m[vm]ああ、そんな！"
+    },
+    "\\m[vi]Huh, neat.": {
+      "Japanese": "\\m[vi]ヒュー、いいね。"
+    },
+    "\\m[vb]Show me, I can't see what it is!": {
+      "Japanese": "\\m[vb]見せて、見せてってば！"
+    },
+    "\\m[vm]Oh no, no, no!!!": {
+      "Japanese": "\\m[vm]ああ、ダメダメダメ！！！"
+    },
+    "\\m[clear](Mirabelle hurriedly covers Bonnie's eyes and makes them take two steps back.)": {
+      "Japanese": "\\m[clear]（ミラベルが慌ててボニーの目を覆って2歩下がる）"
+    },
+    "\\m[vb]But I wanna see!!!!": {
+      "Japanese": "\\m[vb]見たいのに！"
+    },
+    "\\m[vm]No no no no no, it's not allowed!!!\\!\\ You're not allowed!!!": {
+      "Japanese": "\\m[vm]ダメったらダメよ、いけません！\\!あなたには見せられないわ！！！"
+    },
+    "\\m[vo]Yeah, it's not for little ones, Boniface.": {
+      "Japanese": "\\m[vo]ええ、小さい子にはまだ早いわ。"
+    },
+    "\\m[vi]Yep, can't let you do that, Bonbon!": {
+      "Japanese": "\\m[vi]ああ、そうだぞ！"
+    },
+    "\\m[vb]Weh.": {
+      "Japanese": "\\m[vb]ええー。"
+    },
+    "\\m[clear](Bonnie is looking straight at you.)": {
+      "Japanese": "\\m[clear]（ボニーがあなたをまっすぐに見つめている）"
+    },
+    "\\m[vb]Frin.\\!\\m[wait] Can I look?": {
+      "Japanese": "\\m[vb]フリン。\\!\\m[wait]見てもいい？"
+    },
+    "\\m[vb]Oh...": {
+      "Japanese": "\\m[vb]えー…"
+    },
+    "Oh!\\!\\ So it's REALLY not allowed!": {
+      "Japanese": "そんな！\\!じゃあ、本当にダメなんだ！"
+    },
+    "\\m[vo]Why did it take Siffrin saying it for you to realize...": {
+      "Japanese": "\\m[vo]シフリンがどうしてダメだって言ってるのか理解しなさい…"
+    },
+    "\\m[vb]Frin lets me do things when you guys say no sometimes.": {
+      "Japanese": "\\m[vb]フリンは、みんながダメだって言うことでもやらせてくれることあるもん。"
+    },
+    "But if even Frin says it's not allowed...\\!\\ Then it must be something really not allowed.": {
+      "Japanese": "でも、フリンもダメだって言うなら…\\!それなら、<br>きっとほんとにダメなことなんだよね。"
+    },
+    "So I won't look!": {
+      "Japanese": "それなら、見ないよ！"
+    },
+    "\\m[vi]Well, good?": {
+      "Japanese": "\\m[vi]なあ、いいだろ？"
+    },
+    "\\m[vm]SIFFRIN!!!!": {
+      "Japanese": "\\m[vm]シフリン！"
+    },
+    "What the CRAB did you let Bonnie do when we said no!!!": {
+      "Japanese": "ダメだって言ったのにどうしてボニーに見せたのよ！"
+    },
+    "\\m[clear](Wuh oh.)": {
+      "Japanese": "\\m[clear]（あ、ああ。）"
+    },
+    "\\m[vb]He let me drink some vodka once!": {
+      "Japanese": "\\m[vb]前はウォッカも飲ませてくれたんだよ！"
+    },
+    "\\m[vi]\\{HUH?!?": {
+      "Japanese": "\\m[vi]\\{えっ！？"
+    },
+    "\\m[vo]\\{WHAT?!?": {
+      "Japanese": "\\m[vo]\\{何ですって！？"
+    },
+    "\\m[vm]\\{\\shakeSIFFRIN!!!!!!!!!!!!!!!!": {
+      "Japanese": "\\m[vm]\\{\\shakeシフリン！！！！！！！！！！"
+    },
+    "\\m[clear](WUH OH!!!)": {
+      "Japanese": "\\m[clear]（しまった！！！）"
+    },
+    "\\m[vb]I don't really get why Odile likes it though.": {
+      "Japanese": "\\m[vb]でも、オディールがなんであんなの好きなのかわからなかったよ。"
+    },
+    "It tasted just like boring water.": {
+      "Japanese": "つまらない水みたいな味だったもん。"
+    },
+    "\\m[vm]\\..\\..\\..\\..\\..\\..": {
+      "Japanese": "\\m[vm]\\..\\..\\..\\..\\..\\.."
+    },
+    "\\m[vi]Sorry.\\!\\ That sounds like an amazing practical joke to play on a kid, actually.": {
+      "Japanese": "\\m[vi]すまない。\\!子供には刺激の強すぎる悪ふざけだったみたいだ。"
+    },
+    "\\m[clear](It was!)": {
+      "Japanese": "\\m[clear]（そうだったんだ！）"
+    },
+    "(It's a bunch of sketches of landscapes.)": {
+      "Japanese": "（風景のスケッチがたくさん）"
+    },
+    "\\m[clear](A bed.)": {
+      "Japanese": "\\m[clear]（ベッドだ）"
+    },
+    "\\m[clear](A nice, comfy looking bed.)": {
+      "Japanese": "\\m[clear]（素敵な、快適そうなベッドだ）"
+    },
+    "\\m[clear](A closet haphazardly filled with art notebooks and art supplies.)": {
+      "Japanese": "\\m[clear]（美術ノートと画材が乱雑に詰め込まれたクローゼット）"
+    },
+    "(And...\\!\\ Oh!)": {
+      "Japanese": "（それから…\\!あっ！）"
+    },
+    "(There's a crumpled pile of hand-drawn cards.)": {
+      "Japanese": "（手描きのカードがたくさん、くしゃくしゃにまるめられている）"
+    },
+    "(Pick one?)\\!\\": {
+      "Japanese": "（1つ拾う？）\\!\\"
+    },
+    "(You pick a card at random...)": {
+      "Japanese": "（適当にカードを拾った…）"
+    },
+    "(This card has a drawing of a man carrying six swords on a boat.)": {
+      "Japanese": "（そのカードには、6本の剣を持った男が船に乗っている絵が描かれてい<br>た）"
+    },
+    "(How does the boat not sink???)": {
+      "Japanese": "（どうして船は沈まないんだろう？？？）"
+    },
+    "(The bottom says \"Six of Swords\".)": {
+      "Japanese": "（下部には、「ソードの6」と書かれている）"
+    },
+    "(It's a card with a drawing of a star with an upside down face...?)": {
+      "Japanese": "（逆さまになった星が描かれたカード…？）"
+    },
+    "(Oops, you're holding the card upside down.)": {
+      "Japanese": "（おっと、カードを逆さまに持っていたみたいだ）"
+    },
+    "(It's just a normal, not-upside-down star.)": {
+      "Japanese": "（普通の、逆さまじゃない星だった）"
+    },
+    "(The bottom, unsurprisingly, says \"The Star\".)": {
+      "Japanese": "（その下部には、やっぱり「星」と書かれていた）"
+    },
+    "(This card has a drawing of a hand holding a piece of wood.)": {
+      "Japanese": "（そのカードには、木片を持った手が描かれている）"
+    },
+    "(The bottom says \"Ace of Wands\".)": {
+      "Japanese": "（その下部には「ワンドのエース」と書かれている）"
+    },
+    "(This card has a drawing of someone making some plates.)": {
+      "Japanese": "（そのカードには、皿を作っている人が描かれている）"
+    },
+    "(They seem happy to be working.)": {
+      "Japanese": "（彼らは楽しげに働いている）"
+    },
+    "(The bottom says \"Eight of Pentacles\".)": {
+      "Japanese": "（その下部には「ペンタクルの8」と書かれている）"
+    },
+    "\\m[clear](You got the DRAWN CARD!)": {
+      "Japanese": "\\m[clear]（手描きのカードを手に入れた！）"
+    },
+    "(You put the card in your pocket along with your Souvenirs.)": {
+      "Japanese": "（そのカードをお土産と一緒にポケットに入れた）"
+    },
+    "(You leave the pile alone.)": {
+      "Japanese": "（カードの山をそのままにしておいた）"
+    },
+    "\\m[clear](Some papers.)": {
+      "Japanese": "\\m[clear]（紙のようだ）"
+    },
+    "(They seem to be various newspaper articles about the King.)": {
+      "Japanese": "（これらは、王に関する記事を掲載した様々な新聞のようだ）"
+    },
+    "\\m[clear](Some tiny paintings.)": {
+      "Japanese": "\\m[clear]（小さな絵画がいくつかある）"
+    },
+    "(They must've been crafted to move, but they've been frozen in time...)": {
+      "Japanese": "（動くように作られているはずなのに、時が止まっている…）"
+    },
+    "\\lsoff\\>\\{\\m[clear]\\lsoff<br>\\>                  Loop \\V[9]\\^": {
+      "Japanese": "\\lsoff\\>\\{\\m[clear]\\lsoff<br>\\>  ループ \\V[9]\\^"
+    },
+    "\\lsoff\\>\\{\\m[clear]\\lsoff<br>\\>               Loop \\V[9]\\.\\^": {
+      "Japanese": "\\lsoff\\>\\{\\m[clear]\\lsoff<br>\\>  ループ \\V[9]\\.\\^"
+    },
+    "\\m[clear](You roll the coin around in your pocket.)": {
+      "Japanese": "\\m[clear]（あなたはポケットの中でコインをくるくると回した。）"
+    },
+    "\\m[clear](You flip the coin in the air a few times.)": {
+      "Japanese": "\\m[clear]（あなたは手の中でコインを何回かトスした。）"
+    },
+    "\\m[vi]Clap clap clap!": {
+      "Japanese": "\\m[vi]パチパチパチパチ！"
+    },
+    "\\m[vo]You can just actually clap instead of saying \"clap clap clap\" out loud.": {
+      "Japanese": "\\m[vo]甲高い声で「パチパチ」いうより普通に手を叩いたほうがいいと思うわよ。"
+    },
+    "\\m[vi]Never!!!!": {
+      "Japanese": "\\m[vi]ヤダね！！！！"
+    },
+    "\\m[clear](You think about the Incident.)": {
+      "Japanese": "\\m[clear]（あなたはあの出来事を思い返した。）"
+    },
+    "\\m[vb]I WANNA HELP TOO!!!": {
+      "Japanese": "\\m[vb]ボニーも手伝う！！！"
+    },
+    "\\m[vo]Remnants of the people that were defeated by the King...": {
+      "Japanese": "\\m[vo]彼の王の手で殺められた者たちの残滓…それがナゲ<br>キ。"
+    },
+    "Their grief and sadness is all that remains.": {
+      "Japanese": "彼らの内に残っているのは悲しみのみ。"
+    },
+    "They cannot tell friend from foe anymore.\\!\\ Defeating them is all we can do...": {
+      "Japanese": "ナゲキにはもはや敵味方の区別すらできない。\\!私たちにできるのは彼らを安らかに眠らせてあげることだけよ…"
+    },
+    "Every sadness has a different resistance and weakness.\\!\\ <br>Maybe there's a way to figure it out from their appearance...": {
+      "Japanese": "すべてのナゲキには違った耐性と弱点があるわ。\\!見た目からある程度は見抜けるはず…"
+    },
+    "\\m[vb]Umm...": {
+      "Japanese": "\\m[vb]うーん…"
+    },
+    "We need to do certain hand signs when we Craft skills...\\!\\ So maybe we should look at their hands?": {
+      "Japanese": "クラフトスキルを使うときって、手で何かするよね…\\!つまり、手元をみればわかるのかな？"
+    },
+    "\\m[vi]Triplets!\\!\\ Cute!!!": {
+      "Japanese": "\\m[vi]三つ子だ！\\!かわいいね！！！"
+    },
+    "\\m[vo]They must be different somehow...\\!\\ If we can catch a difference, it might become easier to find their weakness.": {
+      "Japanese": "\\m[vo]それぞれに違った特徴があるはずよ…\\!それがわかれば弱点のてがかりになるわ。"
+    },
+    "\\m[vo]One strengthens our enemies, the other weakens us...": {
+      "Japanese": "\\m[vo]一人が仲間を強化し、その一方で他はこちら側を弱体化させてくるのね…"
+    },
+    "\\m[vm]It'll be bad if we let them do as they please!": {
+      "Japanese": "\\m[vm]このままじゃ危険よ！"
+    },
+    "\\m[vo]Isabeau, you have a few similar Crafts at your disposal, so...": {
+      "Japanese": "\\m[vo]イザボー、確か似たようなクラフトがいくつか使えたはずよね。だったら…"
+    },
+    "\\m[vi]I'm on it!\\!\\ Just keep attacking, and I'll buff you guys up!": {
+      "Japanese": "\\m[vi]任せろ！\\!こっちからバフをかけるからそっちは攻撃を続けてくれ！"
+    },
+    "\\m[vm]This one...\\!\\ Is it just me, or is there something weird about it...?": {
+      "Japanese": "\\m[vm]これは…\\!ねぇ、何か妙じゃない…？"
+    },
+    "\\m[vi]It seems a little stronger than the Sadnesses we've seen so far!": {
+      "Japanese": "\\m[vi]今まで見てきたナゲキたちより少しは骨がありそうだな！"
+    },
+    "\\m[vb]And it's not showing its hands!\\!\\ It's crabbing annoying!!!": {
+      "Japanese": "\\m[vb]手元を隠してるよ！\\!ずるい！！！"
+    },
+    "\\m[vo]We could observe its attacks, or look at it carefully when we hit it.": {
+      "Japanese": "\\m[vo]敵が攻撃するときや、こっちの攻撃が当たる瞬間を注目した方が良さそうね。"
+    },
+    "\\m[vo]It's not advertising its new Craft Type anymore...": {
+      "Japanese": "\\m[vo]新しいクラフトタイプを見せびらかすのは止めたようね…"
+    },
+    "\\m[vi]Sounds like we'll have to try stuff out and see what hits!!!": {
+      "Japanese": "\\m[vi]何が当たるか片っ端から試すしかないようだな！！！"
+    },
+    "\\m[vb]It showed a Rock symbol!\\!\\ So it's Rock type now!": {
+      "Japanese": "\\m[vb]見えた、ロックの印だ！\\!今はロックタイプだよ！"
+    },
+    "\\m[vm]I'm not sure Rock and Scissors attacks will work...": {
+      "Japanese": "\\m[vm]ロック系やシザー系の攻撃が効くかはちょっとわからないわ…"
+    },
+    "\\m[vi]Paper attacks it is!": {
+      "Japanese": "\\m[vi]ペーパータイプの攻撃だ！"
+    },
+    "\\m[vb]It showed a Paper symbol!\\!\\ So it's Paper type now!": {
+      "Japanese": "\\m[vb]見えたよ、ぺーパーの印！\\!今はペーパータイプだよ！"
+    },
+    "\\m[vm]I'm not sure Paper and Rock attacks will work...": {
+      "Japanese": "\\m[vm]ペーパー系やロック系の攻撃が効くかはちょっとわからないわ…"
+    },
+    "\\m[vi]Scissors attacks it is!": {
+      "Japanese": "\\m[vi]シザータイプの攻撃だ！"
+    },
+    "\\m[vb]It showed a Scissors symbol!\\!\\ So it's Scissors type now!": {
+      "Japanese": "\\m[vb]シザーの印だ！\\!今はシザータイプだよ！"
+    },
+    "\\m[vm]I'm not sure Paper and Scissors attacks will work...": {
+      "Japanese": "\\m[vm]ペーパー系やシザー系の攻撃が効くかはちょっとわからないわ…"
+    },
+    "\\m[vi]Rock attacks it is!": {
+      "Japanese": "\\m[vi]ロックタイプの攻撃だ！"
+    },
+    "\\m[vo]This might be a good opportunity to build up Jackpot points, everyone.": {
+      "Japanese": "\\m[vo]これは皆でジャックポットポイントを稼ぐチャンスなんじゃないかしら。"
+    },
+    "Let's use the same Craft Type five times in a row!": {
+      "Japanese": "クラフトタイプが同じものを五回連続で使ってみて！"
+    },
+    "\\!": {
+      "Japanese": ""
+    },
+    "\\m[vo]Now get ready...!": {
+      "Japanese": "\\m[vo]さあ、準備はいい…？"
+    },
+    "\\m[vtuto][Battle tutorial time!\\!\\ It'll be fast, I promise!]": {
+      "Japanese": "\\m[vtuto][戦闘チュートリアルのお時間です！\\!あまり冗長にならないようにがんばります！]"
+    },
+    "[But first.\\!\\ Do you know about Rock Paper Scissors?]\\m[rb]": {
+      "Japanese": "[始める前に質問です。\\!ジャンケンはご存じですか？]\\m[rb]"
+    },
+    "\\m[clear](Um...)\\!\\": {
+      "Japanese": "\\m[clear]（えっと…）\\!\\"
+    },
+    "\\m[vtuto][Of course you do, considering you've been fighting Sadnesses for a while now!\\!\\ Anyway...]": {
+      "Japanese": "\\m[vtuto][まぁ、そうですよね。ここに来るまでナゲキたちと戦っていたんですから聞くまでもないですよね！\\!それはそれとして…]"
+    },
+    "\\m[vtuto][Wow, weird, considering you've been fighting Sadnesses for a while now!]": {
+      "Japanese": "\\m[vtuto][それはまた奇妙なこともあるものですね。さっきまでナゲキたちと戦っていたっていうのに！]"
+    },
+    "\\m[vtuto][Anyway, it's easy!\\!\\ Rock beats Scissors, Scissors beats Paper, and Paper beats Rock!]": {
+      "Japanese": "\\m[vtuto][では簡単に説明します！\\!ロックはシザーに強く、シザーはペーパーに<br>強く、そしてペーパーはロックに対して強い！]"
+    },
+    "\\m[vtuto][Here, have a little help.]": {
+      "Japanese": "\\m[vtuto][ここに少しヒントを出してみましたよ。]"
+    },
+    "\\m[vtuto][The picture on the top right will help you remember which is which!]": {
+      "Japanese": "\\m[vtuto][右上の画面にどの属性がどの属性に対して有利かをわかりやすくまとめてみました！]"
+    },
+    "\\m[vtuto][Sadnesses you'll fight might be either Rock type, Paper type, or Scissors type.]": {
+      "Japanese": "\\m[vtuto][ナゲキはそれぞれロック、ペーパー、あるいはシザーのどれかの系統に属します。]"
+    },
+    "\\m[vtuto][If you pay close attention to their appearance, you might find a clue as to what Rock-Paper-Scissors type they're weak against!]]": {
+      "Japanese": "\\m[vtuto][ナゲキの弱点がロックか、ペーパーか、はたまたシザーかを見抜くための初歩。それは見た目を注意深く観察することです！]"
+    },
+    "\\m[vtuto][And now, here's some battle facts about you and your party!]": {
+      "Japanese": "\\m[vtuto][あなたとあなたのパーティのために戦闘でのヒントを用意してみまし<br>た！]"
+    },
+    "\\m[vtuto][YOU!]\\!<br>[SCISSORS type, weak to ROCK]\\!\\<br>\n[Fast, can make everyone faster]": {
+      "Japanese": "\\m[vtuto][あなた！]\\!<br>[シザータイプ、ロックに弱い]\\!<br>\n[速度が高く、全員の速度を上げることができる]"
+    },
+    "[MIRABELLE]\\!<br>[SCISSORS/PAPER type, weak to ROCK]\\!\\<br>\n[Heals and can boost friends' ATTACK]": {
+      "Japanese": "[ミラベル]\\!<br>[シザー／ペーパータイプ、ロックに弱い]\\!<br>\n[味方を回復し、攻撃力を上げることができる]"
+    },
+    "[ISABEAU]\\!<br>[ROCK type, weak to PAPER]\\!\\<br>\n[Hits hard, can boost friends' DEFENSE]": {
+      "Japanese": "[イザボー]\\!<br>\n[ロックタイプ、ペーパーに弱い]\\!<br>\n[攻撃力が高く、味方の防御力を上げることができる]"
+    },
+    "[ODILE]\\!<br>[PAPER type, weak to SCISSORS]\\!\\<br>\n[Can use Craft spells of any type]\\!\\<br>\n[Slow, can make enemies slower]": {
+      "Japanese": "[オディール]\\!<br>\n[ペーパータイプ、シザーに弱い]\\!<br>\n[すべてのクラフトスペルを使用できる]\\!<br>\n[速度は低いが、敵の速度を下げることができる]"
+    },
+    "[BONNIE]\\!<br>\n[Helps out randomly in battle]": {
+      "Japanese": "[ボニー]\\!<br>\n[戦闘中、ランダムにアシストを行う]"
+    },
+    "\\m[vtuto][Alright, that's it!\\!\\ There's a lot more, but you'll pick it up as you go.\\!\\ If you're lost, ask your glasses lady to Examine the enemy!]\\m[rb]": {
+      "Japanese": "\\m[vtuto][チュートリアルはここで終了です！\\!まだまだ他にも要素はいっぱいありますが、習うより慣れよの精神です。\\!もし迷ったらメガネをかけたお嬢さんに敵をアナライズしてもらってくださいね！]\\m[rb]"
+    },
+    "\\m[clear](What was...)": {
+      "Japanese": "\\m[clear]（なんだったんだ、今の…）"
+    },
+    "(You get ready to fight.)": {
+      "Japanese": "（あなたは戦いの準備に入った。）"
+    },
+    "\\m[clear](You look at the pendant.)": {
+      "Japanese": "\\m[clear]（あなたはペンダントを観察した。）"
+    },
+    "(It's shaped like a bell, and goes \"ding-ding\" when you shake it.)": {
+      "Japanese": "（ベルのような形をしたペンダントで、揺らすと「ディン、ディン」と音が鳴る。）"
+    },
+    "(You shake the pendant.)": {
+      "Japanese": "（あなたはペンダントを揺らしてみた。）"
+    },
+    "(It goes \"ding-ding\".)": {
+      "Japanese": "（「ディン、ディン」と鳴った。）"
+    },
+    "\\m[clear](As if summoned, the Funny Noises Appreciation Crew jump to your side.)": {
+      "Japanese": "\\m[clear]（ファニーノイズ愛好会の会員は召喚されたかのようにあなたの隣へと移動した。）"
+    },
+    "\\m[vi]Ding ding!": {
+      "Japanese": "\\m[vi]ディンディン！"
+    },
+    "\\m[vm]Ding ding!": {
+      "Japanese": "\\m[vm]ディンディン！"
+    },
+    "\\m[clear](Ding ding.)": {
+      "Japanese": "\\m[clear]（ディンディン。）"
+    },
+    "\\m[clear](You look at the card.)": {
+      "Japanese": "\\m[clear]（あなたはカードを観察した。）"
+    },
+    "(You wonder what kind of games you play with a card like this.)": {
+      "Japanese": "（このようなカードでどのような遊びをするのだろう、と首をひ<br>ねった。）"
+    },
+    "\\m[clear](Floating water.)": {
+      "Japanese": "\\m[clear]（水が浮かんでいる。）"
+    },
+    "(You feel like you shouldn't touch it...)": {
+      "Japanese": "（触らないでおこう…）"
+    },
+    "\\m[clear](You all run away.)": {
+      "Japanese": "\\m[clear]（みんなで逃げた。）"
+    },
+    "\\m[clear]\\shake(SCARY!!!!!!!!)": {
+      "Japanese": "\\m[clear]\\shake（怖かった！！！！！！！）"
+    },
+    "(Thank the stars you ran away before the Sadness managed to finish you off.)": {
+      "Japanese": "（全滅させられる前にナゲキから逃れられたことを星々に感謝しよう。）"
+    },
+    "(It's not like you have infinite lives, after all!!!)": {
+      "Japanese": "（人生は一度きり、命は有限なのだから！！！）"
+    },
+    "\\m[clear](You just give it all to them.)": {
+      "Japanese": "\\m[clear]（とりあえず全力を振り絞ることにした。）"
+    },
+    "\\m[vb]Heh, you learn fast, Frin.": {
+      "Japanese": "\\m[vb]へへっ、わかってるじゃないか、フリン。"
+    },
+    "\\m[vb]YAHOO!!!": {
+      "Japanese": "\\m[vb]ひゃっほーぅ！！！"
+    },
+    "\\m[vo]Be careful with those items, Boniface.\\!\\ Guard them well.": {
+      "Japanese": "\\m[vo]そのアイテムの取り扱いには気を付けるのよ、<br>ボニー。\\!ちゃんとしまっていてね。"
+    },
+    "Be ready to throw those at us if we need them during battle.\\!\\ It's probably safer than making all of us carry some...": {
+      "Japanese": "戦闘中必要になったら私たちの方に投げるのよ。\\!おそらく私たち全員で持ち運ぶよりかはずっと安全だわ…"
+    },
+    "\\m[vi]But Sif found those!\\!\\ You don't trust Sif to keep our items safe?": {
+      "Japanese": "\\m[vi]でもシフが見つけたものなんだよ！\\!シフになら問題なく任せられるんじゃないか？"
+    },
+    "\\m[vo]The person who a few weeks ago mixed up all the items we had to make a so-called \"Super Potion\"?": {
+      "Japanese": "\\m[vo]数週間前に勝手にアイテム全部混ぜ合わせて「超・回復薬」とか作ろうとした人に何を任せるって？"
+    },
+    "No.\\!\\ I don't trust Siffrin with items.": {
+      "Japanese": "私はイヤよ。\\!シフリンほどアイテムを任せられない人はいないわ。"
+    },
+    "\\m[vi]HA!": {
+      "Japanese": "\\m[vi]そうなのか！"
+    },
+    "\\m[clear](You cutely bat your eyes.)": {
+      "Japanese": "\\m[clear]（あなたは茶目っ気たっぷりにウィンクした。）"
+    },
+    "(Someone just took the bottle from you.)": {
+      "Japanese": "（誰かがあなたのもとからあの瓶を持ち去っていった。）"
+    },
+    "...\\!Dile also said I'm on tonics duty.": {
+      "Japanese": "…\\!後、ダイルは私が飲み物の係だって言っていた。"
+    },
+    "...\\!Dile also said I'm on water duty.": {
+      "Japanese": "…\\!後、ダイルは私が水の係だって言っていた。"
+    },
+    "...\\!Dile also said I'm on spices duty.": {
+      "Japanese": "…\\!後、ダイルは私がスパイスの係だって言っていた。"
+    },
+    "...\\!Dile said I'm on tonics duty.": {
+      "Japanese": "…\\!ダイルは私が飲み物の係だって言っていた。"
+    },
+    "...\\!Dile said I'm on water duty.": {
+      "Japanese": "…\\!ダイルは私が水の係だって言っていた。"
+    },
+    "...\\!Dile said I'm on spices duty.": {
+      "Japanese": "…\\!ダイルは私がスパイスの係だって言っていた。"
+    },
+    "(You look at it curiously.)": {
+      "Japanese": "（あなたは興味深そうに観察した。）"
+    },
+    "(You look at it.)": {
+      "Japanese": "（あなたはマジマジと観察した。）"
+    },
+    "(Isabeau sees you look.)": {
+      "Japanese": "（イザボーは観察しているあなたを見かけた。）"
+    },
+    "\\m[vi]Have you never seen a lock like this before, Sif?": {
+      "Japanese": "\\m[vi]シフ、初めてか？こういうタイプの錠前は。"
+    },
+    "It's a special kind of Vaugardian lock!\\!\\ Instead of a key, it needs specific words to open!": {
+      "Japanese": "ヴァウガーデの中でも特殊な錠前だ！\\!物理的な鍵じゃなくて言葉で鍵が開くんだ！"
+    },
+    "\\m[vo]Words...?": {
+      "Japanese": "\\m[vo]言葉を…？"
+    },
+    "\\m[vm]Yes, you just need to say the words aloud!": {
+      "Japanese": "\\m[vm]ええ、鍵となる言葉を口に出して言えば開くのよ！"
+    },
+    "I think they call it a, uh...\\!\\ An openphrase?": {
+      "Japanese": "確か、えと…\\!オープンフレーズっていうのだったかしらね？"
+    },
+    "\\m[vo]An openphrase...\\!\\ Fascinating.": {
+      "Japanese": "\\m[vo]オープンフレーズ…\\!興味深いわね。"
+    },
+    "So what is the phrase for this lock?": {
+      "Japanese": "で、ここを開けるためのフレーズは？"
+    },
+    "\\m[vm]I...": {
+      "Japanese": "\\m[vm]その…"
+    },
+    "Do not know.": {
+      "Japanese": "私は知らないわ。"
+    },
+    "\\m[vo]Ah.": {
+      "Japanese": "\\m[vo]あら。"
+    },
+    "So it's locked?": {
+      "Japanese": "つまり、開かないってこと？"
+    },
+    "\\m[vm]Yes.": {
+      "Japanese": "\\m[vm]うん。"
+    },
+    "\\m[vo]Horray.": {
+      "Japanese": "\\m[vo]残念ね。"
+    },
+    "\\m[clear]This is where the content warnings will be.": {
+      "Japanese": ""
+    },
+    "\\m[vb]Big ball head.": {
+      "Japanese": "\\m[vb]大きくて丸い頭だ。"
+    },
+    "\\m[vi]Big ball head!!!": {
+      "Japanese": "\\m[vi]大きくて丸い頭だ！！！"
+    },
+    "\\m[vm]Wait, something's happening!": {
+      "Japanese": "\\m[vm]ちょっと、何かが起きてるわ！"
+    },
+    "\\m[vm]Something appeared for a second on the big ball head!!!": {
+      "Japanese": "\\m[vm]一瞬、大きな丸い頭から何かが現れた！！！"
+    },
+    "That was...\\!\\ A Rock sign?": {
+      "Japanese": "あれは…\\!ロックのサイン？"
+    },
+    "That was...\\!\\ A Paper sign?": {
+      "Japanese": "あれは…\\!ペーパーのサイン？"
+    },
+    "That was...\\!\\ A Scissors sign?": {
+      "Japanese": "あれは…\\!シザーのサイン？"
+    },
+    "\\m[vi]Does it mean something?": {
+      "Japanese": "\\m[vi]何の意味があるんだ？"
+    },
+    "\\m[vo]We can probably assume that's its current Craft Type...": {
+      "Japanese": "\\m[vo]それは、現在のクラフトタイプだと考えて良さそう<br>ね…"
+    },
+    "If you need help, Siffrin, let me know <br>and I'll analyze this enemy.": {
+      "Japanese": "シフリン、助けが必要なら、私が敵を分析するわ。"
+    },
+    "\\m[clear](The Sadness changed its Craft Type!)": {
+      "Japanese": "\\m[clear]（ナゲキがクラフトタイプを変えた！）"
+    },
+    "\\m[clear](But you can't see anything...)": {
+      "Japanese": "\\m[clear]（しかし、あなたには何も見えない…）"
+    },
+    "(Looks like you'll have to figure out its type based on how it attacks.)": {
+      "Japanese": "\\m[clear]（しかし、あなたには何も見えない…）"
+    },
+    "\\m[vb]AW!!!\\!\\ You almost got it!!!": {
+      "Japanese": "\\m[vb]あっ！！！\\!あとちょっとだったのに！"
+    },
+    "\\m[vm]It's very weak...\\!\\ A slightly stronger blow would've done it!": {
+      "Japanese": "\\m[vm]かなり弱ってる…\\!ちょっと強めの一撃かと思ったの<br>に！"
+    },
+    "\\m[vi]Well, if it's weak...": {
+      "Japanese": "\\m[vi]ふむ、それが弱ってるなら…"
+    },
+    "Wanna deal the final blow, Bonnie?": {
+      "Japanese": "ボニー、トドメを刺したいか？"
+    },
+    "\\m[vb]CAN I?!??": {
+      "Japanese": "\\m[vb]できるかな！？"
+    },
+    "\\m[vo]It IS pretty weak, so...": {
+      "Japanese": "\\m[vo]あれはかなり弱ってる、なら…"
+    },
+    "Sure.\\!\\ Knock yourself out.": {
+      "Japanese": "きっとできるわ。\\!やってしまいなさい。"
+    },
+    "\\m[vb]O-OKAY!!!!\\!\\ HERE I GO!!!!!": {
+      "Japanese": "\\m[vb]わ、わかった！！\\!いくよ！！！"
+    },
+    "\\m[vb]\\{YEAAAAAAAAAAAAAAAAAAAH!!!!!!!": {
+      "Japanese": "\\m[vb]\\{そりゃああああああ！！！"
+    },
+    "\\m[clear](You clap.)": {
+      "Japanese": "\\m[clear]（さすがだよ。）"
+    },
+    "\\m[vi]Great job, Bonbon!": {
+      "Japanese": "\\m[vi]やったぞ！"
+    },
+    "\\m[vo]You did good.": {
+      "Japanese": "\\m[vo]上出来ね。"
+    },
+    "\\m[vm]What would we have done without you!": {
+      "Japanese": "\\m[vm]あなたなしじゃ倒せなかったわ！"
+    },
+    "\\m[vb]HMF!!!!!!!!!!!": {
+      "Japanese": "\\m[vb]へへん！！！！！"
+    },
+    "\\m[clear]\\m[vtuto][If an enemy is close to death, your little kiddo will deal the final blow!]": {
+      "Japanese": "\\m[clear]\\m[vtuto][敵が瀕死状態なら、ボニーがトドメの一撃を与えられる！]"
+    },
+    "[Look at them.\\!\\ So proud.\\!\\ Like a little bird who flew for the first time.]\\m[rb]": {
+      "Japanese": "[彼らを見るんだ。\\!とても誇らしげだ。\\!まるで小鳥が初めて空を飛んだかのように。]\\m[rb]"
+    },
+    "\\n<\\v[46]>\\fi\"Say it with me now!\\!\\ 'Crafting buffs twice won't make the buff stronger, but WILL make it last longer. (This applies to Debuffs too!)'\"": {
+      "Japanese": "\\n<\\v[46]>\\fi「さあ、復習だ！\\!『バフを重ね掛けしても効果は強化されないが、持続時間は延長される。（デバフも同様だ！）』」"
+    },
+    "\\m[vi]It's not only in Dormont, Jouvente's House gives smithing classes too!": {
+      "Japanese": "\\m[vi]ドルモンだけじゃない、ジュヴェンテの家でも鍛冶の授業があるんだ！"
+    },
+    "\\m[vb]It feels strong!\\!\\ Stronger than those we've seen so far!": {
+      "Japanese": "\\m[vb]強そう！\\!これまで会ってきたのよりずっと強そうだ<br>よ！"
+    },
+    "\\m[clear](You don't know what that floating water does, but it feel dangerous!!!)": {
+      "Japanese": "\\m[clear]（その浮かんでいる水が何なのかはわからなかったが、危険なものだと感じた！）"
+    },
+    "Is it the water?\\!\\ Should I... not touch the weird floating water?": {
+      "Japanese": "水なのか？\\!この…\\!奇妙な浮かぶ水に触れちゃいけないのか？"
+    },
+    "\\m[vm]It's to remind us that before changing, we must stop and think about what will be irreparably destroyed.": {
+      "Japanese": "\\m[vm]それは変化の前に、取り返しのつかないことについて立ち止まって考えねばならないということを思い出させてくれる。"
+    },
+    "I guess that's smart...\\!\\ We better get some rest while we can!\\!\\ We have to be ready for tomorrow...": {
+      "Japanese": "それはそれで正しい行動なのかもね…\\!今はできるだけ体力を回復させないと！\\!心も体も休めて明日に備えないとね…"
+    },
+    "(You didn't even see a glimpse of the King!!!\\!\\ And it's your job, stupid!!!\\!\\ Your job to see ahead, to take care of traps!!!\\!\\ You couldn't even do your job and now you're DEAD because you did a SLOPPY AWFUL TERRIBLE JOB,)": {
+      "Japanese": "（王を一目見ることすらもできなかった！！！\\!なんだあのザマは！！！\\!偵察して、罠がないか確かめるのが役目だったのに！！！\\!碌な仕事もこなせずにあっさりと死んだ、この未熟でどうしようもないぐらいに適当な腕前のせいで）"
+    },
+    "\\m[vi]I believe the preteen when it comes to the Sadness' weirdness, m'dame.": {
+      "Japanese": "\\m[vi]マダム、俺はこいつの、ナゲキが奇妙だって感覚を信じるぞ。"
+    },
+    "\\m[vo]I see a few tonics on those tables...\\!\\ Make sure to pick them up and give them to Bonnie before we leave.": {
+      "Japanese": "\\m[vo]テーブルの上にいくつか飲み物があるわね…\\!出ていく前に忘れないで回収してボニーに渡しておいてね。"
+    },
+    "I drew those a few years ago to get people to come to the House...\\!\\ <br>\nIt's a little embarassing now.": {
+      "Japanese": "それって数年前に、この家に外の人たちが来てくれるように私が描いたものなのよね…\\!今となってはちょっと恥ずかしいな。"
+    },
+    "If you need help, Siffrin, let me know and I'll analyze this enemy.": {
+      "Japanese": "シフリン、助けが必要なら、私が敵を分析するわ。"
+    },
+    "\\m[clear](You didn't catch anything last time...\\!\\ But maybe this time?!?)": {
+      "Japanese": "\\m[clear]（前回は何一つ釣り上げることができなかったけど…\\!でも、今回はどうだろう？！？）"
+    },
+    "\\m[clear](A lifetime ago for you now.)": {
+      "Japanese": "\\m[clear]（あなたにとっては遥か昔のこと。）"
+    },
+    "\\m[vb]Dile also said I'm on tonics duty!": {
+      "Japanese": ""
+    },
+    "\\m[vb]Dile also said I'm on water duty!": {
+      "Japanese": ""
+    },
+    "\\m[vb]Dile also said I'm on spices duty!": {
+      "Japanese": ""
+    },
+    "\\m[vb]Dile said I'm on tonics duty!": {
+      "Japanese": ""
+    },
+    "\\m[vb]Dile said I'm on water duty!": {
+      "Japanese": ""
+    },
+    "\\m[vb]Dile said I'm on spices duty!": {
+      "Japanese": ""
+    },
+    "\\m[clear]": {
+      "Japanese": ""
+    },
+    "yes this is in english": {
+      "Japanese": ""
+    },
+    "yes this is in japanese": {
+      "Japanese": ""
+    },
+    "キル#2が使用されますスキル#2が使用されますスキル#2が使用されますスキル#2が使用されますスキル#2が使用されますスキル#2が使用されますスキル#2が使用されますスキル#2が使用されますスキル#2が使用されますスキル#2が使用されます": {
+      "Japanese": ""
+    },
+    "\\fn<BestTen-CRT>\\^": {
+      "Japanese": ""
+    },
+    "\\m[choicevar]": {
+      "Japanese": ""
+    },
+    "\\m[choicespace](Questions...)\\!\\": {
+      "Japanese": ""
+    },
+    "\\m[choicespace](You'd like...)\\!\\": {
+      "Japanese": "\\m[choicespace]（あなたはきっと…）\\!\\"
+    },
+    "yep": {
+      "Japanese": ""
+    },
+    "\\m[choicespace](...)\\!\\": {
+      "Japanese": ""
+    },
+    "\\m[vtuto][You can use the arrows or WASD keys to move around!]\\m[rb]": {
+      "Japanese": "\\m[vtuto][矢印キー、またはWASDキーで移動できます！]\\m[rb]"
+    },
+    "\\m[clear](This is a normal pillar, but\\..\\..\\..)": {
+      "Japanese": "\\m[clear]（これは普通の柱だ。でも\\..\\..\\..）"
+    },
+    "(Carefully, you look at the pillar.)": {
+      "Japanese": "（あなたは慎重に柱を観察した）"
+    },
+    "(Oh stars.)": {
+      "Japanese": "（あっ、星だ）"
+    },
+    "(Hidden unless you're looking at the right angle,\\!\\m[wait] you can see a switch hidden between the rocks.)": {
+      "Japanese": "（正しい角度からでないと見えないようになっていたが、\\!\\m[wait]岩の間に隠されたスイッチを見つけた）"
+    },
+    "(Stupid, stupid, stupid.)": {
+      "Japanese": "（バカ、バカ、バカ）"
+    },
+    "\\m[vm]OH, WAIT!!!\\!\\ Siffrin, I just remembered, this room, it's--": {
+      "Japanese": "\\m[vm]あっ、待って！！！\\!\\シフリン、今思い出したんだけど、この部屋は…"
+    },
+    "\\m[clear](You press the switch.)": {
+      "Japanese": "\\m[clear]（あなたはスイッチを押した）"
+    },
+    "\\m[vm]\\{\\shakeWAH!!!": {
+      "Japanese": "\\m[vm]\\{\\shakeあっ！！！"
+    },
+    "\\m[vi]\\{\\shakeWOAH!!!!": {
+      "Japanese": "\\m[vi]\\{\\shakeひゃっ！！！！"
+    },
+    "\\m[clear](Okay, the rock fell!!!\\!\\ And not on your head!!!\\!\\ Woohoo!!!)": {
+      "Japanese": "\\m[clear]（よし、岩が落ちた！\\!\\それに、頭の上には落ちてこなかった！\\!\\やった！！）"
+    },
+    "(So you CAN change things.\\!\\ You can fix things.)": {
+      "Japanese": "（これで変えられる。\\!\\もとに戻せる）"
+    },
+    "(You can keep going.)": {
+      "Japanese": "（進み続けられる）"
+    },
+    "\\m[wait](You're feeling a lot more confident about this \"killing a monarch\" business!)": {
+      "Japanese": ""
+    },
+    "\\m[choicespace](You give a thumbs up!!!)\\!\\": {
+      "Japanese": ""
+    },
+    "\\m[vo]I-I suppose it is?": {
+      "Japanese": ""
+    },
+    "\\m[vb]That was scary!": {
+      "Japanese": ""
+    },
+    "\\m[clear](Oh, before you forget!)": {
+      "Japanese": ""
+    },
+    "\\m[vs](You should ask...)\\!\\": {
+      "Japanese": ""
+    },
+    "\\m[vm]\"Death Corridor\"...?": {
+      "Japanese": ""
+    },
+    "Um, no!\\!\\ That's the only one!\\!\\ I promise!!!": {
+      "Japanese": ""
+    },
+    "This hallway had a trap, which Siffrin just activated...\\!\\ But I don't think there's any other ones in the House...": {
+      "Japanese": ""
+    },
+    "\\m[vo]Good to know.\\!\\ Let's get going then...": {
+      "Japanese": ""
+    },
+    "\\m[clear](You look around the pillar...)": {
+      "Japanese": ""
+    },
+    "\\m[clear](...and press the switch.)": {
+      "Japanese": ""
+    },
+    "\\m[vs](Yeah, yeah...)\\!\\": {
+      "Japanese": ""
+    },
+    "\\m[vi]N-not even phased, huh?\\!\\ So cool, Sif!": {
+      "Japanese": ""
+    },
+    "\\m[vs](You chuckle.)\\!\\": {
+      "Japanese": ""
+    },
+    "\\m[vi]??????????": {
+      "Japanese": ""
+    },
+    "\\m[vs](You start walking away.)\\!\\": {
+      "Japanese": ""
+    },
+    "\\m[vm]O-okay!": {
+      "Japanese": ""
+    },
+    "\\m[clear](You silently keep moving.)": {
+      "Japanese": ""
+    },
+    "\\m[vb]ARE WE NOT TALKING ABOUT THE BIG ROCK?": {
+      "Japanese": ""
+    },
+    "\\m[vi]Too cool, Sif.\\!\\ Too cool.": {
+      "Japanese": ""
+    },
+    "...?": {
+      "Japanese": ""
+    },
+    "(...and press the switch.)": {
+      "Japanese": ""
+    },
+    "\\m[clear](That's the pillar.)": {
+      "Japanese": ""
+    },
+    "(You already pressed the switch.)": {
+      "Japanese": ""
+    },
+    "\\m[clear](A very big rock.)": {
+      "Japanese": ""
+    },
+    "(You can say from experience that a rock like this falling on your would kill you near instantly.)": {
+      "Japanese": ""
+    },
+    "\\m[clear](You say the sentence \"Stostorage roomoom\" aloud.)": {
+      "Japanese": ""
+    },
+    "(...The door unlocked.)": {
+      "Japanese": ""
+    },
+    "\\m[vo]What.": {
+      "Japanese": ""
+    },
+    "\\m[vi]Well, let's go inside, then...": {
+      "Japanese": ""
+    },
+    "\\m[clear](You say the word \"Openphrase123\" aloud.)": {
+      "Japanese": ""
+    },
+    "\\m[clear](Alright.\\!\\ This time for sure.)": {
+      "Japanese": "\\m[clear]（よし。\\!\\ こんどこそ。）"
+    },
+    "(You take the fishing pole,\\!\\ find the same lure you used before,\\!\\ check the fishing pole,\\!\\ throw it,\\!\\ and sit down and wait.)": {
+      "Japanese": "（あなたは釣り竿を取り、\\!\\ 以前使ったのと同じルアーを探し、\\!\\ 釣り竿を調べ、\\!\\ ルアーを投げ込み、\\!\\ 静かに座って待った。）"
+    },
+    "\\m[clear](Alright.)": {
+      "Japanese": "\\m[clear]（よし。）"
+    },
+    "(How did you manage to mess it up a second time?!)": {
+      "Japanese": "（二回目だというのにどうやってここまで酷い結果になるんだ？！）"
+    },
+    "(Really?!?)": {
+      "Japanese": ""
+    },
+    "(Well.\\!\\ Not like that was surprising.)": {
+      "Japanese": ""
+    },
+    "(But it was restful, to sit here and let your mind wander for a little bit.)": {
+      "Japanese": ""
+    },
+    "\\m[clear](Somehow, even though you probably won't catch anything...)": {
+      "Japanese": ""
+    },
+    "(Fishing calms you down.)": {
+      "Japanese": ""
+    },
+    "(You feel at peace.)": {
+      "Japanese": ""
+    },
+    "(...Once again, you didn't catch anything,\\!\\ but you're fine with it.)": {
+      "Japanese": ""
+    },
+    "(You feel like you got the chance to put your thoughts in order.)": {
+      "Japanese": ""
+    },
+    "\\m[clear](You got a MEMORY OF FISHING!)": {
+      "Japanese": ""
+    },
+    "\\m[vtuto][When equipped, Memory of Fishing gives you +2 ATTACK for every time you've gone fishing!\\!\\ At the cost of ATTACK SPEED, though.\\!\\ Can't have everything, stardust.]\\m[rb]": {
+      "Japanese": ""
+    },
+    "\\m[clear](You do the usual fishing preparations, and sit down.)": {
+      "Japanese": ""
+    },
+    "(You haven't gone fishing for long, but it already feels like something you've done forever.)": {
+      "Japanese": ""
+    },
+    "(...Once again, you didn't catch anything.)": {
+      "Japanese": ""
+    },
+    "(But it was restful.)": {
+      "Japanese": ""
+    },
+    "(But it's fine.)": {
+      "Japanese": ""
+    },
+    "(But you got stronger.)": {
+      "Japanese": ""
+    },
+    "\\m[vwoman]\\n<\\v[46]>No fish, huh?": {
+      "Japanese": ""
+    },
+    "\\m[clear](You jump.)": {
+      "Japanese": ""
+    },
+    "(They speak?!?)": {
+      "Japanese": ""
+    },
+    "\\m[vwoman]\\n<\\v[46]>Heheheee...": {
+      "Japanese": ""
+    },
+    "\\n<\\v[46]>You just started fishing with such confidence,\\!\\ and yet you do not even look a little bit disappointed at not catching anything.": {
+      "Japanese": ""
+    },
+    "\\n<\\v[46]>So you must've guessed.": {
+      "Japanese": ""
+    },
+    "\\m[vs](Urgh...)\\!\\": {
+      "Japanese": ""
+    },
+    "\\m[vwoman]\\n<\\v[46]>Heheheee...\\!\\ Sorry.\\!\\ I'm surprised you noticed.": {
+      "Japanese": ""
+    },
+    "\\n<\\v[46]>This river used to be plentiful, a few months ago.": {
+      "Japanese": ""
+    },
+    "\\n<\\v[46]>And then, I noticed I was catching less and less fish...": {
+      "Japanese": ""
+    },
+    "\\n<\\v[46]>Of course, this coincided with the arrival of the King.": {
+      "Japanese": ""
+    },
+    "\\n<\\v[46]>My guess is that the King's Curse froze people, yes...": {
+      "Japanese": ""
+    },
+    "\\n<\\v[46]>But it froze rivers, and the fish inside it, too.": {
+      "Japanese": ""
+    },
+    "\\n<\\v[46]>The fish upstream of Dormont must all be frozen in time by now.": {
+      "Japanese": ""
+    },
+    "\\n<\\v[46]>We also have less bugs than usual, less birds than usual.\\!\\ Our ecosystem is dying slowly.": {
+      "Japanese": ""
+    },
+    "\\n<\\v[46]>So even if our village was somehow left untouched by the Curse forever,\\!\\ we would all starve to death eventually.": {
+      "Japanese": ""
+    },
+    "\\n<\\v[46]>\\..\\..\\..": {
+      "Japanese": ""
+    },
+    "\\n<\\v[46]>I hope you manage to beat the King tomorrow, so the river fish come back.": {
+      "Japanese": ""
+    },
+    "\\m[clear](You know nothing will bite, and yet, you fish.)": {
+      "Japanese": ""
+    },
+    "\\m[wait]\\m[wait]\\m[wait](Something is tugging on your line.)": {
+      "Japanese": ""
+    },
+    "(What?)": {
+      "Japanese": ""
+    },
+    "\\m[vs](OH STARS)\\!\\": {
+      "Japanese": ""
+    },
+    "\\m[vwoman]\\n<\\v[46]>FISH?!?!": {
+      "Japanese": ""
+    },
+    "\\n<\\v[46]>REEL IT IN, QUICK!!!": {
+      "Japanese": ""
+    },
+    "\\m[clear](You both struggle to reel in a fish you had no idea would come,\\!\\ but after a while--)\\!\\m[wait]\\^": {
+      "Japanese": ""
+    },
+    "\\m[clear](You got A FISH!!!!!!!!!!)": {
+      "Japanese": ""
+    },
+    "(It's alive, still flapping its gills uselessly.)": {
+      "Japanese": ""
+    },
+    "\\m[vwoman]\\n<\\v[46]>Oh crab...\\!\\ You...\\!\\ You actually caught something...": {
+      "Japanese": ""
+    },
+    "\\n<\\v[46]>In this river...?": {
+      "Japanese": ""
+    },
+    "\\m[clear](You both look at the fish.)": {
+      "Japanese": ""
+    },
+    "(It's pitifully trying to survive,\\!\\ trying to breathe in air.)": {
+      "Japanese": ""
+    },
+    "\\m[wait](You throw the fish back in the water.)": {
+      "Japanese": ""
+    },
+    "(You both look as the fish swims away downstream.)": {
+      "Japanese": ""
+    },
+    "\\m[vwoman]\\n<\\v[46]>\\..\\..\\..": {
+      "Japanese": ""
+    },
+    "\\n<\\v[46]>Interesting, heheheee...": {
+      "Japanese": ""
+    },
+    "\\n<\\v[46]>\\m[wait]Thank you.": {
+      "Japanese": ""
+    },
+    "\\m[vwoman]\\n<\\v[46]>\\..\\..\\..\\!\\m[wait]Good luck, tomorrow.": {
+      "Japanese": ""
+    },
+    "\\m[clear](You nod again, and walk away.)": {
+      "Japanese": ""
+    },
+    "(You can't get stronger than this, though.)": {
+      "Japanese": ""
+    },
+    "\\m[clear](You need to ask...)": {
+      "Japanese": ""
+    },
+    "\\m[vwoman]\\n<\\v[46]>...Hm?\\!\\ What I asked the Favor Tree?": {
+      "Japanese": ""
+    },
+    "\\m[vwoman]\\n<\\v[46]>Heheheee...\\!\\ I asked for Vaugarde to be saved, so I can catch some more fish.": {
+      "Japanese": ""
+    },
+    "\\m[vo]I see that.\\!\\ Caught anything recently?": {
+      "Japanese": ""
+    },
+    "\\n<\\v[46]>Maybe I have, maybe I haven't.": {
+      "Japanese": ""
+    },
+    "\\m[vo]Thanks, that was very helpful.": {
+      "Japanese": ""
+    },
+    "<WordWrap>\\m[vkid]Peep!": {
+      "Japanese": "\\m[vkid]チュンチュン！"
+    },
+    "<WordWrap>text.": {
+      "Japanese": "text but in japanese."
+    },
+    "\\m[clear](The sadnesses got all mixed up!)": {
+      "Japanese": "\\m[clear]（ナゲキが混ざりあった！）"
+    }
+  },
+  "cmd": {
+    "Fight": {
+      "Japanese": "戦う"
+    },
+    "Escape": {
+      "Japanese": "逃げる"
+    },
+    "Attack": {
+      "Japanese": "攻撃"
+    },
+    "Guard": {
+      "Japanese": "ガード"
+    },
+    "Pockets": {
+      "Japanese": "ポケット"
+    },
+    "Craft": {
+      "Japanese": "クラフト"
+    },
+    "Equip": {
+      "Japanese": "装備"
+    },
+    "Profile": {
+      "Japanese": "プロフィール"
+    },
+    "Formation": {
+      "Japanese": "陣形"
+    },
+    "Save": {
+      "Japanese": "セーブ"
+    },
+    "Quit": {
+      "Japanese": "終了"
+    },
+    "Options": {
+      "Japanese": "オプション"
+    },
+    "Weapon": {
+      "Japanese": "武器"
+    },
+    "Armor": {
+      "Japanese": "アーマー"
+    },
+    "Memories": {
+      "Japanese": "記憶"
+    },
+    "Optimize": {
+      "Japanese": ""
+    },
+    "Clear": {
+      "Japanese": "クリア"
+    },
+    "New Game": {
+      "Japanese": "ニューゲーム"
+    },
+    "Continue": {
+      "Japanese": "コンティニュー"
+    },
+    "To Title": {
+      "Japanese": "タイトルへ戻る"
+    },
+    "Cancel": {
+      "Japanese": "キャンセル"
+    },
+    "Buy": {
+      "Japanese": ""
+    },
+    "Sell": {
+      "Japanese": ""
+    },
+    "Always Dash": {
+      "Japanese": "常にダッシュ"
+    },
+    "BGM Volume": {
+      "Japanese": "BGM音量"
+    },
+    "BGS Volume": {
+      "Japanese": ""
+    },
+    "Command Remember": {
+      "Japanese": "コマンド記憶"
+    },
+    "ME Volume": {
+      "Japanese": ""
+    },
+    "SE Volume": {
+      "Japanese": "SE音量"
+    },
+    " Yes": {
+      "Japanese": "はい"
+    },
+    " No": {
+      "Japanese": "いいえ"
+    },
+    " \"Huh?\"": {
+      "Japanese": "「へ？」"
+    },
+    " \"I wasn't asleep.\"": {
+      "Japanese": "「寝てないよ」"
+    },
+    " \"At least we should be happy I was    \\n  the one taking a nap and not Bonnie.\"": {
+      "Japanese": "「まぁ、でも寝ていたのがボニーじゃなくて 良かったね 」"
+    },
+    " \"Since you're a kid and all...\"": {
+      "Japanese": "「ボニーみたいな小さな子が…」"
+    },
+    " \"If you took a nap...\"": {
+      "Japanese": "「一人でいるところに会いにったら…」"
+    },
+    " \"Us adults could've been arrested\\n  for KIDNAPPING.\"                 ": {
+      "Japanese": "「見てた人に通報されちゃうからね。誘拐犯がいるぞって」        "
+    },
+    " \"Ready!\"": {
+      "Japanese": "「準備できた！」"
+    },
+    " \"Not yet!\"": {
+      "Japanese": "「まだ！」"
+    },
+    " \"What's up with the circles?\"": {
+      "Japanese": "「この輪っかは何かを表しているのかな？」"
+    },
+    " (No time.)": {
+      "Japanese": "（気にしてる場合じゃない。）"
+    },
+    " \"But the big circle isn't\\n  inside anything.\"         ": {
+      "Japanese": "「でも、大きな輪の内側には何もないよね」"
+    },
+    " (Let it go.)": {
+      "Japanese": "（まぁ、いいか。）"
+    },
+    " \"But the world isn't inside anything?\"": {
+      "Japanese": "「じゃあ、この世界は何の一部なんだ？」"
+    },
+    " \"...\"": {
+      "Japanese": "「…」"
+    },
+    " \"...Mirabelle?\"": {
+      "Japanese": "「…ミラベル？」"
+    },
+    " \"...Isabeau?\"": {
+      "Japanese": "「…イザボー？」"
+    },
+    " \"...Odile?\"": {
+      "Japanese": "「…オディール？」"
+    },
+    " \"...Bonnie?\"": {
+      "Japanese": "「…ボニー？」"
+    },
+    " \"Where is everyone?\"": {
+      "Japanese": "「みんなは？」"
+    },
+    " \"How are you feeling?\"": {
+      "Japanese": "「気分はどう？」"
+    },
+    " \"We'll save them all tomorrow.\"": {
+      "Japanese": "「明日、皆を助け出すんだ」"
+    },
+    " \"Nope!\"": {
+      "Japanese": "「気にしないで！」"
+    },
+    " \"How are you liking Vaugarde?\"": {
+      "Japanese": "「ヴァウガーデでの生活はどう？」"
+    },
+    " \"Hey, uh, hey again, Mira.\"": {
+      "Japanese": "「やぁ、その、また会ったね、ミラ」"
+    },
+    " \"Yes. Correct. I was taking nap\\n   time.\"                         <<v[1] === 0||v[1] > 1>>": {
+      "Japanese": "「そう、その通り。私は安らかに眠っていたのだ」 "
+    },
+    " \"That sounds like an AMAZING\\n   idea, Mira!\"                 ": {
+      "Japanese": "「すてきなアイデアだと思うよ、ミラ！」"
+    },
+    " \"...Yes.\"": {
+      "Japanese": "「…はい」"
+    },
+    " \"Maybe later.\"": {
+      "Japanese": "「今は時間ないんだ」"
+    },
+    " \"More of a lazy, take it easy type.\"": {
+      "Japanese": "「どちらかというとゆっくり歩いていきたい\\n タイプ。」"
+    },
+    " \"Uh, hello, stranger.\"": {
+      "Japanese": "「あー、その、こんにちは、不審者さん」"
+    },
+    " \"Some chips, please.\"": {
+      "Japanese": "「チップスがいいな」"
+    },
+    " \"I'll take a cookie.\"": {
+      "Japanese": "「私はクッキー」"
+    },
+    " \"Some onigiri for me.\"": {
+      "Japanese": "「おにぎりちょうだい」"
+    },
+    " \"THANK YOU SNACK LEADER \\n  FOR THIS DELICIOUS MEAL!\" ": {
+      "Japanese": "「スナックリーダー、 \\n おいしいスナックをありがとう！」"
+    },
+    " \"The people in Dormont?\"": {
+      "Japanese": "「ドルモン人？」"
+    },
+    " \"The people in the House?\"": {
+      "Japanese": "「みんな家の中？」"
+    },
+    " \"I had a meeting with a plum today.\"": {
+      "Japanese": "「今日はプラムについて話し合ったんだ」"
+    },
+    " \"Yes. That meeting was--\"": {
+      "Japanese": "「そう。 内容は‐‐」"
+    },
+    " \"Nah, it's fine.\"": {
+      "Japanese": "「いやあ、大丈夫だよ」"
+    },
+    " \"Yes please, Mr Amazing-Wonderful-\\n   Funny-Buff Isabeau\\v[286]\"             ": {
+      "Japanese": "「では、超絶に面白いジョークの\\n 天才イザボー様、お願いいたします\\v[286]」"
+    },
+    " \"Th-thank you?\"": {
+      "Japanese": "「あ、ありがとう？」"
+    },
+    " \"Which one is Odile?\"": {
+      "Japanese": "「どっちがオディール？」"
+    },
+    " \"Which one is Mira?\"": {
+      "Japanese": "「どっちがミラ？」"
+    },
+    " \"Which one is Isa?\"": {
+      "Japanese": "「どっちがイザボー？」"
+    },
+    " \"Which one am I?\"": {
+      "Japanese": "「どっちが私？」"
+    },
+    " \"Hey, um, Odile.\" <<v[1] === 0||v[1] >1>>": {
+      "Japanese": "「ヘイ、あ、オディール」 <<v[1] === 0||v[1] >1>>"
+    },
+    " \"Did you notice anything weird today?\"": {
+      "Japanese": "「今日何か変じゃなかった？」"
+    },
+    " \"Nope! Nothing at all!\"": {
+      "Japanese": "「いや！何でもないよ！」"
+    },
+    " \"Nah, nothing.\"": {
+      "Japanese": "「いやあ、何もないって」"
+    },
+    " (...\"Normal Attacks\".)": {
+      "Japanese": "（…「通常攻撃」。）"
+    },
+    " (...\"Craft Skills\".)": {
+      "Japanese": "（…「クラフトスキル」。）"
+    },
+    " (...\"Guarding\".)": {
+      "Japanese": "（…「ガード」。）"
+    },
+    " (...\"Buffs\".)": {
+      "Japanese": "（…「バフ」。）"
+    },
+    " (...\"Escaping\".)": {
+      "Japanese": "（…「逃げる」。）"
+    },
+    " (...Nothing. Get going.)": {
+      "Japanese": "（…何もしない。先へ進む。）"
+    },
+    " \"Nah, definitely not.\"": {
+      "Japanese": "「いや、絶対にダメ」"
+    },
+    " (Yes\\v[286])": {
+      "Japanese": "（うん）"
+    },
+    " (No\\v[286])": {
+      "Japanese": "（いいえ）"
+    },
+    " \"Trap taken care of!\"": {
+      "Japanese": "「罠に気をつけて！」"
+    },
+    " \"Any more 'Death Corridors', Mira?\"": {
+      "Japanese": "「ミラ、「死の回廊」は他にも？」"
+    },
+    " \"Let's go, everyone.\"": {
+      "Japanese": ""
+    },
+    " \"Heheh... Bonk.\"": {
+      "Japanese": ""
+    },
+    " \"I haven't noticed any big rock.\"": {
+      "Japanese": ""
+    },
+    " \"A job for me, then.\"": {
+      "Japanese": "「なら、任せてよ」"
+    },
+    " \"Found anything interesting?\"": {
+      "Japanese": "「何か面白いものでもあった？」"
+    },
+    " \"There's nothing weird in here.\"": {
+      "Japanese": "「ここにはおかしな物はなかった」"
+    },
+    " \"We're not dead yet, are we?\"": {
+      "Japanese": "「みんなまだ死んでないでしょ？」"
+    },
+    " \"We're good, Mira.\"": {
+      "Japanese": "「大丈夫だよ、ミラ」"
+    },
+    " \"See?\"": {
+      "Japanese": "「ほらね？」"
+    },
+    " \"Everything's fine.\"": {
+      "Japanese": "「なんともない」"
+    },
+    " (Look at it curiously.)": {
+      "Japanese": "（興味深そうに観察した。）"
+    },
+    " (Say: \"Change\".)": {
+      "Japanese": "（「変われ」と言う）"
+    },
+    " (Say: \"Stostorage roomoom\".)<<v[91] === 0>>": {
+      "Japanese": ""
+    },
+    " (Say: \"Openphrase123\".)<<v[95] === 0>>": {
+      "Japanese": ""
+    },
+    " (Leave the door alone.)": {
+      "Japanese": "（扉をそのままにしておく）"
+    },
+    " (Free path time!) <<v[2] > 2>>": {
+      "Japanese": "（フリーパスの時間だ！）<<v[2] > 2>>"
+    },
+    " (Nah.) <<v[2] > 2>>": {
+      "Japanese": "（ううん）<<v[2] > 2>>"
+    },
+    " (Yes.) <<v[2] < 3>>": {
+      "Japanese": "（うん）<<v[2] < 3>>"
+    },
+    " (No.) <<v[2] < 3>>": {
+      "Japanese": "（いいえ）<<v[2] < 3>>"
+    },
+    " \"That's an egg.\"": {
+      "Japanese": "「あれは卵だ」"
+    },
+    " \"...Loving us is the YEAST they\\n  could do!!!\"                   ": {
+      "Japanese": "「…愛せるものなら愛してみればイースト！！」"
+    },
+    " \"No.\"": {
+      "Japanese": "「言ってない」"
+    },
+    " (...Yes?)": {
+      "Japanese": "（…はい？）"
+    },
+    " (...Nnnnooooo.)": {
+      "Japanese": "（…聞いたこともないですね。）"
+    },
+    "Assist": {
+      "Japanese": "アシスト"
+    },
+    "\\#\\i[165]Attack": {
+      "Japanese": "\\#\\i[165]攻撃"
+    },
+    "long long lomglong long lomglong long lomglong long lomg": {
+      "Japanese": ""
+    },
+    "No": {
+      "Japanese": "いいえ"
+    },
+    "long long lomglong long lomglong long lomglong long lomglomglomglomg": {
+      "Japanese": ""
+    },
+    " long choice doesnt line break look look look look look look": {
+      "Japanese": ""
+    },
+    " if i break the choice it looks\\n like this": {
+      "Japanese": ""
+    },
+    " see?": {
+      "Japanese": ""
+    },
+    " if i break the choice it looks\\n like this                      ": {
+      "Japanese": ""
+    },
+    " see?<<s[4]>>": {
+      "Japanese": ""
+    },
+    " this one is a choice with an indent for the portrait maybe it reacts different idk idk idk idk": {
+      "Japanese": ""
+    },
+    "All": {
+      "Japanese": "すべて"
+    },
+    "\\i[84]General": {
+      "Japanese": "\\i[84]一般"
+    },
+    "\\i[87]Audio": {
+      "Japanese": "\\i[87]オーディオ"
+    },
+    "\\i[89]Visual": {
+      "Japanese": "\\i[89]ビジュアル"
+    },
+    "\\i[83]Controls": {
+      "Japanese": "\\i[83]操作"
+    },
+    "Exit": {
+      "Japanese": "退出"
+    },
+    "\\i[70]Language": {
+      "Japanese": "\\i[70]言語"
+    },
+    "\\i[70]Fullscreen": {
+      "Japanese": "\\i[70]フルスクリーン"
+    },
+    "\\i[70]Always Run": {
+      "Japanese": "\\i[70]常にダッシュ"
+    },
+    "\\i[70]CommandRemember": {
+      "Japanese": "\\i[70]コマンド記憶"
+    },
+    "\\i[70]Message Speed": {
+      "Japanese": "\\i[70]メッセージ速度"
+    },
+    "\\i[87]Master Volume": {
+      "Japanese": "\\i[87]マスター音量"
+    },
+    "\\i[87]BGM Volume": {
+      "Japanese": "\\i[87]BGM音量"
+    },
+    "\\i[87]SE Volume": {
+      "Japanese": "\\i[87]SE音量"
+    },
+    "(Not accessible on Title Screen)": {
+      "Japanese": "（タイトル画面では機能しません）"
+    },
+    "Gamepad Config": {
+      "Japanese": "ゲームパッド設定"
+    },
+    "Keyboard Config": {
+      "Japanese": "キーボード設定"
+    },
+    "WASD Movement Layout": {
+      "Japanese": "WASD移動レイアウト"
+    },
+    "Finish Configuration": {
+      "Japanese": "設定を完了する"
+    },
+    " ": {
+      "Japanese": ""
+    },
+    "Yes": {
+      "Japanese": "はい"
+    },
+    "OK / Interact": {
+      "Japanese": "OK / インタラクト"
+    },
+    "\\i[89]Screen Shake": {
+      "Japanese": "\\i[89]画面の振動"
+    },
+    "\\i[89]Text Shake": {
+      "Japanese": "\\i[89]テキストの振動"
+    },
+    "\\i[89]Battle Scroll": {
+      "Japanese": "\\i[89]戦闘スクロール"
+    },
+    "\\i[89]Battle Help": {
+      "Japanese": "\\i[89]戦闘ヘルプ"
+    },
+    "Trailer": {
+      "Japanese": "トレーラー"
+    },
+    " long choice doesnt line break look look look look look": {
+      "Japanese": ""
+    },
+    "\\i[89](Not accessible on Title Screen)": {
+      "Japanese": "\\i[89]（タイトル画面では機能しません）"
+    },
+    "\"Hey Mira.\" <<v[1] === 1>>": {
+      "Japanese": ""
+    },
+    "\"Hey, uh, hey again, Mira.\"<<v[1] === 0||v[1] > 1>>": {
+      "Japanese": ""
+    },
+    "\"Hey Mira, have you thought about doing a sleepover tonight?\"<<v[2] < 3>>": {
+      "Japanese": ""
+    },
+    "\"Mirabelle needs help...\"<<v[390] === 0||s[278]>>": {
+      "Japanese": ""
+    },
+    "\"At the end, Isabeau...\"<<v[58] === 0||v[58] === 5>>": {
+      "Japanese": ""
+    },
+    "\"Odile seems suspicious of me...\"<<!s[247]||s[272]>>": {
+      "Japanese": ""
+    },
+    "\"Bonnie was looking at a book...\"<<v[39] < 2||s[273]>>": {
+      "Japanese": ""
+    },
+    "\"I've been seeing myself in the House.\"<<v[337] < 2||v[16] > 3>>": {
+      "Japanese": ""
+    },
+    "\"Should I check everything again?\"<<s[264]>>": {
+      "Japanese": ""
+    },
+    "\"How come I can see where the keys are?\"<<v[2] > 3||s[262]>>": {
+      "Japanese": ""
+    },
+    "\"How did you know I was allergic to pineapples?\"<<v[109] === 0||s[265]>>": {
+      "Japanese": ""
+    },
+    "\"The sadnesses are different.\"<<!s[90]||s[263]>>": {
+      "Japanese": ""
+    },
+    "\"Can I stay here a little bit?\"<<v[2] < 4||v[126] > 2>>": {
+      "Japanese": ""
+    },
+    " \"Yes. Correct. I was taking nap time.\"<<v[1] === 0||v[1] > 1>>": {
+      "Japanese": "「そう、その通り。私は安らかに眠っていたのだ」<<v[1] === 0||v[1] > 1>>"
+    },
+    " \"Yes. Correct. I was taking nap time.\"": {
+      "Japanese": "「そう、その通り。私は安らかに眠っていたのだ」"
+    }
+  },
+  "terms": {
+    "basic-0": {
+      "Japanese": "レベル"
+    },
+    "basic-1": {
+      "Japanese": "LVL"
+    },
+    "basic-2": {
+      "Japanese": "HP"
+    },
+    "basic-3": {
+      "Japanese": "HP"
+    },
+    "basic-4": {
+      "Japanese": ""
+    },
+    "basic-5": {
+      "Japanese": ""
+    },
+    "basic-6": {
+      "Japanese": ""
+    },
+    "basic-7": {
+      "Japanese": ""
+    },
+    "basic-8": {
+      "Japanese": "EXP"
+    },
+    "basic-9": {
+      "Japanese": "EXP"
+    },
+    "param-0": {
+      "Japanese": "最大HP"
+    },
+    "param-1": {
+      "Japanese": ""
+    },
+    "param-2": {
+      "Japanese": "攻撃"
+    },
+    "param-3": {
+      "Japanese": "防御力"
+    },
+    "param-4": {
+      "Japanese": ""
+    },
+    "param-5": {
+      "Japanese": ""
+    },
+    "param-6": {
+      "Japanese": "攻撃速度"
+    },
+    "param-7": {
+      "Japanese": "幸運"
+    },
+    "message-possession": {
+      "Japanese": ""
+    },
+    "message-expTotal": {
+      "Japanese": "現在%1"
+    },
+    "message-expNext": {
+      "Japanese": "次へ%1"
+    },
+    "message-saveMessage": {
+      "Japanese": "どのファイルにセーブしますか？"
+    },
+    "message-loadMessage": {
+      "Japanese": "どのファイルをロードしますか？"
+    },
+    "message-file": {
+      "Japanese": ""
+    },
+    "message-partyName": {
+      "Japanese": "あなたとあなたの\\v[284]"
+    },
+    "message-emerge": {
+      "Japanese": "\\>\\lsoff\\m[clear]\\lsoff\\{戦闘開始！\\|\\.\\.\\.\\^\\lson"
+    },
+    "message-preemptive": {
+      "Japanese": ""
+    },
+    "message-escapeStart": {
+      "Japanese": "\\m[clear]（%1逃走した\\v[286]）"
+    },
+    "message-escapeFailure": {
+      "Japanese": "（…しかし、敵に捕まってしまった！）"
+    },
+    "message-victory": {
+      "Japanese": "\\m[clear]（あなたは深呼吸した）\\!\\"
+    },
+    "message-defeat": {
+      "Japanese": "\\m[clear]（恐ろしくなってきた…\\!\\あなたは逃げることにした）"
+    },
+    "message-obtainExp": {
+      "Japanese": "（%1%2を得た\\v[286]）"
+    },
+    "message-obtainItem": {
+      "Japanese": "（%1を手に入れた\\v[286]）"
+    },
+    "message-levelUp": {
+      "Japanese": "（%1は今%2%3だ\\v[286]）"
+    },
+    "message-obtainSkill": {
+      "Japanese": "（…そして、クラフトスキル「%1」を習得した\\v[286]）"
+    },
+    "message-useItem": {
+      "Japanese": ""
+    }
+  },
+  "custom": {
+    "Japanese": {
+      "Rock": "ロック",
+      "Paper": "ペーパー",
+      "Scissors": "シザー",
+      "Equipment": "装備",
+      "Attack": "攻撃",
+      "Memory": "記憶",
+      "Language": "言語",
+      "Choose the game's language.": "ゲームの言語を選んでください",
+      "HPRegen": "HP回復",
+      "Weapon": "武器",
+      "HP Regen": "HP回復",
+      "ExpRate": "EXPレート",
+      "CritChance": "クリティカル率",
+      "Default Keyboard Layout": "デフォルトキーボードレイアウト",
+      "OK": "OK / インタラクト",
+      "Souvenirs": "おみやげ",
+      "Pockets": "ポケット",
+      "\\i[70]Profile": "\\i[70]プロフィール",
+      "Profile": "プロフィール",
+      "Stats": "ステータス",
+      "\\i[82]Stats": "\\i[82]ステータス",
+      "Toggle between fullscreen or windowed mode.": "フルスクリーンとウィンドウモードを切り替えます。",
+      "Player walks when OFF. Player runs when ON.Holding SHIFT on map switches between the two.": "OFFの場合、プレイヤーは歩きます。ONの場合、プレイヤーは走ります。マップ上でSHIFTキーを押しながら操作すると、この2つのモードが切り替わります。",
+      "Game remembers the last command selected<br>during battle.": "<wordwrap>戦闘中に最後に選択したコマンドを記憶するようになりま  す。",
+      "Changes the speed text is displayed<br>during messages.": "メッセージの表示速度を変更します。",
+      "Adjusts the overall volume of the game.": "ゲーム全体の音量を調整します。",
+      "Adjusts the volume of the background music.": "BGMの音量を調整します。",
+      "Adjusts the volume of the sound effects.": "効果音の音量を調整します。",
+      "Configure the game's gamepad settings.(Only works if gamepad is plugged in.)": "<wordwrap>ゲームのゲームパッド設定を調整します（ゲームパッド接続時のみ有効）",
+      "Configure the game's keyboard settings.": "ゲームのキーボード設定を調整します。",
+      "Confirm menus/Interact with the world.": "メニューの確定/ワールドへのインタラクト",
+      "Cancel menu actions.": "メニューアクションのキャンセル",
+      "Hold to run on the field.": "長押しでフィールドを走ります。",
+      "Cancel": "キャンセル",
+      "Run/Fast-Forward": "走る/早送り",
+      "Menu": "メニュー",
+      "Access the Main Menu.": "メインメニューを開きます",
+      "Quickly scroll up menus.": "メニューを素早く上にスクロールします。",
+      "Quickly scroll down menus.": "メニューを素早く下にスクロールします。",
+      "Reset to Default": "デフォルトに戻す",
+      "Returns your controller to default settings.": "コントローラを初期設定に戻します。",
+      "Are you done configuring your gamepad?": "ゲームパッドの設定は完了しましたか？",
+      "Are you done configuring your keyboard?": "キーボードの設定は完了しましたか？",
+      "Change the configuration of this key?": "このキーの設定を変更しますか？",
+      "Move ◄ Left": "移動 ◄ 左",
+      "Move ▲ Up": "移動 ▲ 上",
+      "Move ► Right": "移動 ► 右",
+      "Move ▼ Down": "移動 ▼ 下",
+      "Player walks when OFF. Player runs when ON. Holding SHIFT on map switches between the two.": "OFFの場合、プレイヤーは歩きます。ONの場合、プレイヤーは走ります。マップ上でSHIFTキーを押しながら操作すると、この2つのモードが切り替わります。",
+      "Player walks when OFF. Player runs when ON.": "OFFの場合、プレイヤーは歩きます。ONの場合、プレイヤーは走ります。マップ上でSHIFTキーを押しながら操作すると、この2つのモードが切り替わります。",
+      "Holding SHIFT on map switches between the two.": " ",
+      "Saves the current progress in your game.": "現在のゲームの進行状況をセーブします。",
+      "Loads the data from the saved game.": "セーブしたゲームのデータを読み込みます。",
+      "Deletes all data from this save file.": "このセーブファイルのデータをすべて削除します。",
+      "Do you wish to load this save file?": "このセーブファイルを読み込みますか？",
+      "Do you wish to overwrite this save file?": "このセーブファイルを上書きしますか？",
+      "Do you wish to delete this save file?": "このセーブファイルを削除しますか？",
+      "Please select a save slot.": "セーブスロットを選んでください。",
+      "Load": "ロード",
+      "Delete": "削除",
+      "<wordwrap>Player walks when OFF. Player runs when ON. Holding SHIFT on map switches between the two.": "\\}<wordwrap>OFFの場合、プレイヤーは歩きます。ONの場合、プレイヤーは走ります。マップ上でSHIFTキーを押しながら操作すると、この2つのモードが切り替わります。",
+      "<wordwrap>Turn OFF to disable screen shakes during dialogue and cutscenes.": "<wordwrap>OFFにすると会話やカットシーン中の画面の振動がなくなります。",
+      "<wordwrap>Turn OFF to disable shaking text during dialogue.": "<wordwrap>OFFにすると会話中のテキストの振動がなくなります。",
+      "<wordwrap>Turn OFF to disable the scrolling background during battles.": "<wordwrap>OFFにすると戦闘中の背景のスクロールがなくなります。",
+      "<wordwrap>Turn ON to add a Rock Paper Scissors Cheat Sheet during battles.": "<wordwrap>ONにすると、戦闘中にじゃんけんのチートシートが追加されます。",
+      "\\#\\i[165]Attack": "\\#\\i[165]攻撃",
+      "\\i[165]Attack": "\\i[165]攻撃",
+      "i[165]Attack": "i[165]攻撃",
+      "Some change you got from buying a croissant.": "クロワッサンを買ったときに帰ってきたおつり。",
+      "<wordwrap>Game remembers the last command selected during battle.": "<wordwrap>戦闘中に最後に選択したコマンドを記憶するようになりま<br>す。",
+      "<wordwrap>Configure the game's gamepad settings. (Only works if gamepad is plugged in.)": "<wordwrap>ゲームのゲームパッド設定を調整します（ゲームパッド接続時のみ有効）",
+      "<wordwrap>Changes the speed text is displayed during messages.": "メッセージの表示速度を変更します。",
+      "Run": "走る",
+      "Save": "セーブ",
+      "\\i[154]  Mirabelle  ": "\\i[154]  ミラベル  ",
+      "\\n<\\i[154]  Mirabelle  >": "\\n<\\i[154]  ミラベル  >",
+      "\\m[vtuto][You can open your menu by pressing \\v[376]!]\\m[rb]": "\\m[vtuto][\\v[376]でメニューを開けます！]\\m[rb]",
+      "All Allies": "すべての味方",
+      "All Enemies": "すべての敵",
+      "A list of all of the game's settings.": "ゲームの全設定の一覧です。",
+      "<wordwrap>General settings that alter the way the game behaves.": "ゲームの挙動を変更する一般的な設定です。",
+      "Adjust the audio settings for the game.": "ゲームのオーディオ設定を調整します。",
+      "<wordwrap>Settings that adjust the visual properties of the game.": "ゲームのビジュアルプロパティを調整する設定です。",
+      "Change the way you can control the game.": "ゲームの操作方法を変更します。",
+      "Exit the Options Menu.": "オプションメニューを閉じます。",
+      "(That's too bad...\\!\\ You're a little hungry!)": "（残念…\\!少しお腹が空いてきた！）",
+      "\\i[89](Not accessible on Title)": "\\i[89]（タイトル画面では機能しません）"
+    }
+  }
+}
